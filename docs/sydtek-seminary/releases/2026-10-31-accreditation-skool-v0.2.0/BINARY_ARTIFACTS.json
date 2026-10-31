@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "status": "binary_artifacts_generated_and_hash_locked_not_included_in_this_text_commit",
+  "artifacts": [
+    {
+      "filename": "SydTek_Seminary_Accreditation_Control_Tower_2026-10-30.xlsx",
+      "bytes": 74886,
+      "sha256": "0ad67c46bf84b7cc6f464a6829604067d292ef24d14dc31e40dbc3644418642e"
+    },
+    {
+      "filename": "SydTek_Seminary_GitHub_Lock_v0.2.0.zip",
+      "bytes": 1070279,
+      "sha256": "69639fde6d4bf983834c95108ab2feaeac74ee57f1f89306fc3d4f0223c220cb"
+    },
+    {
+      "filename": "SydTek_Seminary_Accreditation_Readiness_Pack_2026-10-30.zip",
+      "bytes": 1124666,
+      "sha256": "dca65e7c1a44d918c7eedc3bd31360fe3123bd63573f720e5abab0e3c94f63ae"
+    }
+  ],
+  "note": "The current GitHub connector accepts UTF-8 repository writes. Hashes preserve binary identity; the artifacts remain available as generated conversation files pending a binary-capable upstream upload."
+}

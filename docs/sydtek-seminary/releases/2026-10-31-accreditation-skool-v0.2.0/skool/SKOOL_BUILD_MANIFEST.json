@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "prepared_at": "2026-10-31",
+  "institution": "SydTek Seminary",
+  "platform": "Skool",
+  "group": "SydTek Academy | ENOCH WORLD",
+  "status": "course_build_pack_ready_platform_publication_pending_authenticated_session",
+  "claim_control": "Proposed noncredit curriculum in development; not accredited and not presently credit-bearing.",
+  "existing_course": {
+    "title": "SydTek Seminary | Ethiopian Bible Studies",
+    "role": "SEM-000 orientation and 81-entry map",
+    "public_url": "https://www.skool.com/ai-at-work-101-7709/classroom/4fca2aef?md=120c886478f8447fb72c96e10bd7661e",
+    "preserve": true
+  },
+  "build_queue": [
+    {
+      "code": "SEM-101",
+      "title": "Torah and Israel’s Beginnings",
+      "state": "ready_for_draft_entry_after_login",
+      "source": "courses/SEM-101_SKOOL_BUILD.md",
+      "pages": 18
+    },
+    {
+      "code": "SEM-102",
+      "title": "Israel’s History and Restoration",
+      "state": "authored_draft_ready_for_draft_entry_after_login",
+      "source": "courses/SEM-102_SKOOL_BUILD.md",
+      "pages": 18
+    },
+    {
+      "code": "SEM-103",
+      "title": "Enoch, Jubilees, and Meqabyan",
+      "state": "authored_draft_hard_source_gate",
+      "source": "courses/SEM-103_SKOOL_BUILD.md",
+      "pages": 15
+    }
+  ],
+  "publication_rules": [
+    "Create course cards as Draft first.",
+    "Preserve existing courses and prices.",
+    "Do not advertise academic credit or accreditation.",
+    "Keep answer keys separate from first-attempt study checks.",
+    "Use a confidential approved route for assessed student work.",
+    "Do not publish a reading lesson without approved source identity, edition, access, and rights record."
+  ]
+}

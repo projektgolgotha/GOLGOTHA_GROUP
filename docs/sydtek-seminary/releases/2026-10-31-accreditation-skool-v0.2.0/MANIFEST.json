@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.1",
+  "release_id": "sydtek-seminary-accreditation-skool-v0.2.0",
+  "locked_at": "2026-10-31",
+  "audit_repository": "projektgolgotha/GOLGOTHA_GROUP",
+  "canonical_upstream": "GoldstonianConcordanceBible/SydTek-Seminary",
+  "institutional_status": "proposed_noncredit_pre_enrollment_not_accredited",
+  "source_bundle": {
+    "path": "SydTek_Seminary_v0.2.0_Source_Bundle.tar.gz",
+    "sha256": "4ac41c7c084a15e136ce0eb8ba4e8e616a9e23ffbde678a9853c167b0e5ec7be",
+    "contents": "Complete Markdown, JSON, and checksum sources for the accreditation-readiness and Skool build package."
+  },
+  "generated_binary_artifacts": [
+    {
+      "filename": "SydTek_Seminary_Accreditation_Control_Tower_2026-10-30.xlsx",
+      "bytes": 74886,
+      "sha256": "0ad67c46bf84b7cc6f464a6829604067d292ef24d14dc31e40dbc3644418642e"
+    },
+    {
+      "filename": "SydTek_Seminary_GitHub_Lock_v0.2.0.zip",
+      "bytes": 1070279,
+      "sha256": "69639fde6d4bf983834c95108ab2feaeac74ee57f1f89306fc3d4f0223c220cb"
+    },
+    {
+      "filename": "SydTek_Seminary_Accreditation_Readiness_Pack_2026-10-30.zip",
+      "bytes": 1124666,
+      "sha256": "dca65e7c1a44d918c7eedc3bd31360fe3123bd63573f720e5abab0e3c94f63ae"
+    }
+  ],
+  "readable_course_sources": [
+    "courses/SEM-101_SKOOL_BUILD.md",
+    "courses/SEM-102_SYLLABUS_AND_LESSONS.md",
+    "courses/SEM-102_SKOOL_BUILD.md",
+    "courses/SEM-103_SYLLABUS_AND_LESSONS.md",
+    "courses/SEM-103_SKOOL_BUILD.md"
+  ],
+  "skool": {
+    "group": "SydTek Academy | ENOCH WORLD",
+    "existing_course": "SydTek Seminary | Ethiopian Bible Studies",
+    "existing_course_preserved": true,
+    "new_course_cards_planned": 3,
+    "planned_pages": 51,
+    "platform_state": "draft_build_sources_committed_live_creation_pending_authenticated_session"
+  },
+  "claim_controls": [
+    "No accreditation, candidacy, applicant status, state authorization, degree authority, academic credit, enrollment, graduate, or learner-completion claim is created by this release.",
+    "Faculty and the governing board must control curriculum adoption, approved editions, assessment, academic policy, and certification of student achievement.",
+    "Missing source identity or rights evidence is a hard publication gate, not permission to substitute another work."
+  ]
+}
