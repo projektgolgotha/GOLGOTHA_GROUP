@@ -1,0 +1,1339 @@
+{
+  "schema_version": "1.0.0",
+  "manifest_type": "public_course_source_inventory",
+  "course": {
+    "course_id": "HRM-101",
+    "title": "HRM-101 | Introduction to Human Resource Management | SydTek University Microcredential",
+    "source_playlist_id": "PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+    "source_playlist_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+    "source_channel": {
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "url": "https://www.youtube.com/@ENOCHLIVE1"
+    },
+    "intended_platform": "SydTek Learn",
+    "support_model": "voluntary_donations",
+    "token_requirement": null,
+    "source_inventory_status": "48_playlist_entries_verified_from_public_metadata",
+    "lms_implementation_status": "source_inventory_prepared; learning_and_credential_workflows_not_verified",
+    "author_name": "Dr. Justin Goldston, PhD",
+    "author_evidence": "User authorship statement and attribution in publisher playlist description; no independent authorship adjudication."
+  },
+  "source_capture": {
+    "source_type": "public_youtube_playlist_html",
+    "source_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+    "http_status": 200,
+    "retrieval_evidence": "Successful public HTTP retrieval recorded in this task before local metadata parsing.",
+    "capture_file_name": "hrm-playlist.html",
+    "capture_file_size_bytes": 1238149,
+    "capture_file_sha256": "8273854ebcd8d77db5479d01c6a0ba772001746caada5a25a71c7d98f5cfae10",
+    "capture_file_modified_at_utc": "2026-10-30T23:33:03.984298+00:00",
+    "parsed_at_utc": "2026-10-30T23:35:05.544094+00:00",
+    "extraction_method": "JSONDecoder of ytInitialData assignment; only public playlist and video metadata retained.",
+    "source_metadata_json_path": "$.metadata.playlistMetadataRenderer",
+    "media_downloaded": false,
+    "transcripts_collected": false,
+    "description_reproduced_in_full": false,
+    "tracking_tokens_and_playback_urls_excluded": true
+  },
+  "inventory_summary": {
+    "publisher_displayed_video_count": 48,
+    "publisher_displayed_video_count_text": "48 video",
+    "playlist_entry_count": 48,
+    "unique_video_count": 47,
+    "positions_contiguous": true,
+    "all_entries_marked_playable_in_playlist_metadata": true,
+    "entries_total_duration_seconds": 26344,
+    "entries_total_duration_hh_mm_ss": "7:19:04",
+    "unique_videos_total_duration_seconds": 25536,
+    "unique_videos_total_duration_hh_mm_ss": "7:05:36",
+    "duration_basis": "Sum of YouTube playlist lengthSeconds values; includes introductions and is not verified instructional contact or engagement time.",
+    "publisher_last_updated_display": "22 mag 2026",
+    "publisher_last_updated_date_normalized": "2026-05-22",
+    "last_updated_date_basis": "Italian-localized playlist sidebar display; not an independently audited content revision timestamp.",
+    "unavailable_entries_observed": 0,
+    "entry_omissions_detected": 0,
+    "pagination_note": "48 contiguous playlist entries match the displayed total. A section-level continuation exists outside playlistVideoListRenderer; no continuation exists inside the extracted video list. No further items were requested."
+  },
+  "publisher_declared_modules": [
+    {
+      "label": "I",
+      "title": "Foundations of HRM",
+      "textbook_page_range": "1–45"
+    },
+    {
+      "label": "II",
+      "title": "Strategic HRM",
+      "textbook_page_range": "46–95"
+    },
+    {
+      "label": "III",
+      "title": "Job Design and Compensation",
+      "textbook_page_range": "96–150"
+    },
+    {
+      "label": "IV",
+      "title": "Recruitment and Labor Relations",
+      "textbook_page_range": "151–200"
+    },
+    {
+      "label": "V",
+      "title": "Selection and Global HRM",
+      "textbook_page_range": "201–250"
+    },
+    {
+      "label": "VI",
+      "title": "Training, Development, and Future of Work",
+      "textbook_page_range": "251–300"
+    }
+  ],
+  "publisher_assertions_requiring_separate_validation": [
+    {
+      "subject": "Required companion textbook",
+      "assertion": "HRM-101 textbook published by G. Rune Publishing; references embedded in lectures.",
+      "status": "publisher_description_assertion; textbook_not_reviewed"
+    },
+    {
+      "subject": "Instructional time",
+      "assertion": "Estimated 6 hours instruction.",
+      "status": "publisher_estimate_not_audited; playlist_metadata_duration_is_7:19:04_with_duplicate_or_7:05:36_unique"
+    },
+    {
+      "subject": "Total engagement",
+      "assertion": "Approximately 28 hours.",
+      "status": "publisher_estimate; workload_not_measured"
+    },
+    {
+      "subject": "CEUs",
+      "assertion": "2.8 CEUs upon verified completion.",
+      "status": "publisher_claim; recognition_assessment_and_issuance_not_verified"
+    },
+    {
+      "subject": "Credit equivalence",
+      "assertion": "1 credit with discussion posts; stackable toward a business certificate described as 3-credit equivalent.",
+      "status": "publisher_claim; credit_awarding_authority_transfer_acceptance_and_completion_rules_not_verified"
+    },
+    {
+      "subject": "Credential framework",
+      "assertion": "DEAC-aligned CEU framework.",
+      "status": "publisher_alignment_claim; does_not_establish_DEAC_accreditation_or_endorsement"
+    },
+    {
+      "subject": "Certificate availability",
+      "assertion": "Certificate at SydTekUniversity.com upon verified completion.",
+      "status": "publisher_claim; actual_credential_workflow_not_tested"
+    }
+  ],
+  "user_reported_provenance": [
+    {
+      "statement": "Course authored for LearnDay Canada.",
+      "status": "user_reported; course_specific_documentation_not_independently_verified"
+    },
+    {
+      "statement": "Course used by Canadian universities.",
+      "status": "user_reported; institution_names_adoption_credit_and_endorsement_not_verified"
+    }
+  ],
+  "quality_findings": [
+    {
+      "finding_id": "HRM-SRC-001",
+      "type": "duplicate_playlist_entry",
+      "positions": [
+        42,
+        43
+      ],
+      "video_id": "-TDMbSb6qN0",
+      "detail": "One unique video appears twice; source order is preserved. Avoid automatically counting the duplicate as a second required learning activity."
+    },
+    {
+      "finding_id": "HRM-SRC-002",
+      "type": "url_like_title",
+      "positions": [
+        27
+      ],
+      "video_id": "n5PRqiMWKXc",
+      "detail": "The source title is a youtu.be URL pointing to tH-7EL0kpVg at position 26. The actual video ID and duration differ; it is not classified as duplicate content without review."
+    },
+    {
+      "finding_id": "HRM-SRC-003",
+      "type": "mixed_module_naming_and_order",
+      "detail": "Roman-numbered HRM modules and Arabic-numbered modules appear together. Some Module I entries occur after Module III, Module 4 Negotiation follows Module 5 entries, and Module 6 Introduction follows Flexibility. Preserve original source order and review any proposed learner sequence separately."
+    },
+    {
+      "finding_id": "HRM-SRC-004",
+      "type": "duration_estimate_difference",
+      "detail": "Publisher description estimates 6 instructional hours; listed duration is 7:19:04 including the duplicate and 7:05:36 for unique video IDs. These measures need not be identical, but neither proves contact hours or workload."
+    },
+    {
+      "finding_id": "HRM-SRC-005",
+      "type": "source_term_preservation",
+      "positions": [
+        5
+      ],
+      "detail": "Source title says SCAT Goals. Do not silently replace it with SMART or expand the acronym without content review."
+    }
+  ],
+  "proposed_learning_outcomes": [
+    {
+      "outcome_id": "HRM-101-CLO-01",
+      "status": "proposed_not_implemented_or_assessed",
+      "statement": "Explain foundational HR functions and use strategy, workforce planning, and ethics to analyze an organizational people-management problem.",
+      "mapping_basis": "Observed video titles and publisher module labels; lesson content and transcripts have not been reviewed.",
+      "source_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        15
+      ],
+      "source_video_ids": [
+        "-H70SsG-RIA",
+        "9ePV7z3Oovc",
+        "2be1AGmvCcg",
+        "BzjG8BGvQYk",
+        "cCJc18t6qeg",
+        "0GuRPiHlkzQ",
+        "k6kzzETZetA",
+        "LUY6lc0kR7s"
+      ],
+      "proposed_assessment": "A strategic HR scenario response with SWOT analysis, workforce objectives, ethical considerations, and a justified recommendation.",
+      "assessment_status": "draft_design_only",
+      "mastery_claim": false
+    },
+    {
+      "outcome_id": "HRM-101-CLO-02",
+      "status": "proposed_not_implemented_or_assessed",
+      "statement": "Develop a job analysis and role description and justify relevant compensation and benefits choices.",
+      "mapping_basis": "Observed video titles and publisher module labels; lesson content and transcripts have not been reviewed.",
+      "source_positions": [
+        8,
+        9,
+        10,
+        11,
+        13,
+        16,
+        36,
+        37,
+        38
+      ],
+      "source_video_ids": [
+        "x12XDmNOAeI",
+        "s56NPJg6Dgs",
+        "x-2V0rr54eM",
+        "lAlvfvK4uwE",
+        "LYP-AwlCAFs",
+        "Ej-I3MdKSA0",
+        "ihUkO9J8mfc",
+        "nER0yA-X9WE",
+        "PMEM4ybWnKQ"
+      ],
+      "proposed_assessment": "A job-analysis worksheet, draft role description, and compensation/benefits rationale using an explicitly fictional or anonymized case.",
+      "assessment_status": "draft_design_only",
+      "mastery_claim": false
+    },
+    {
+      "outcome_id": "HRM-101-CLO-03",
+      "status": "proposed_not_implemented_or_assessed",
+      "statement": "Design and justify recruitment and selection steps, accounting for organizational conditions and global staffing considerations.",
+      "mapping_basis": "Observed video titles and publisher module labels; lesson content and transcripts have not been reviewed.",
+      "source_positions": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        42,
+        45
+      ],
+      "source_video_ids": [
+        "y1Unk2oGfL4",
+        "vYdqGfWeJBg",
+        "-faOC0pEg9o",
+        "PhhDAm2SCb4",
+        "e98psgFr3iY",
+        "MJmlYpSTeZo",
+        "l-2lfrZjOFI",
+        "-TDMbSb6qN0",
+        "c-RDYWzXVYI"
+      ],
+      "proposed_assessment": "A recruitment plan, selection criteria, structured interview guide, and explanation of global-context considerations.",
+      "assessment_status": "draft_design_only",
+      "mastery_claim": false
+    },
+    {
+      "outcome_id": "HRM-101-CLO-04",
+      "status": "proposed_not_implemented_or_assessed",
+      "statement": "Create an employee onboarding and development plan with training measures and a performance-feedback approach.",
+      "mapping_basis": "Observed video titles and publisher module labels; lesson content and transcripts have not been reviewed.",
+      "source_positions": [
+        14,
+        26,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34
+      ],
+      "source_video_ids": [
+        "EJ-9oTEXxUk",
+        "tH-7EL0kpVg",
+        "SIjxf14Bt3U",
+        "karlhJxD120",
+        "ujb9kjzQqv8",
+        "KJQHy3GsyIU",
+        "oq9GIJ-edLQ",
+        "LnLeJ3fNLps"
+      ],
+      "proposed_assessment": "An onboarding/training plan with intended outcomes, evaluation measures, and a proposed performance-feedback process.",
+      "assessment_status": "draft_design_only",
+      "mastery_claim": false
+    },
+    {
+      "outcome_id": "HRM-101-CLO-05",
+      "status": "proposed_not_implemented_or_assessed",
+      "statement": "Evaluate employee relations, negotiation, workplace flexibility, and social responsibility in an integrated HR case.",
+      "mapping_basis": "Observed video titles and publisher module labels; lesson content and transcripts have not been reviewed.",
+      "source_positions": [
+        12,
+        40,
+        44,
+        46,
+        48
+      ],
+      "source_video_ids": [
+        "3EvfuwTdeZk",
+        "BIDr50DWDPk",
+        "65EsrvJz8Z8",
+        "H69cGtBr1mY",
+        "s-LdWHxZxV8"
+      ],
+      "proposed_assessment": "An integrated HR action plan with a negotiation approach, flexibility options, social-responsibility rationale, and a short learner reflection.",
+      "assessment_status": "draft_design_only",
+      "mastery_claim": false
+    }
+  ],
+  "verification_limits": [
+    "Metadata inventory verified; individual videos were not played or downloaded.",
+    "No transcript or lesson-content accuracy review was performed.",
+    "Captions, accessibility, embed permissions, age/geographic restrictions, and future availability were not checked.",
+    "No claim of university endorsement, transferable credit, accreditation, or completed assessments is established by this manifest.",
+    "Five outcome mappings and assessments are proposed curriculum design based on observed titles; no learner has been assessed through this work.",
+    "Public availability does not itself determine reuse rights; authorship is based on the user statement and publisher attribution."
+  ],
+  "entries": [
+    {
+      "position": 1,
+      "video_id": "-H70SsG-RIA",
+      "title": "HRM-101 | Module I Introduction | Wisdom is the principal thing; therefore get wisdom | Proverbs 4:7",
+      "duration_display": "1:31",
+      "duration_seconds": 91,
+      "video_url": "https://www.youtube.com/watch?v=-H70SsG-RIA",
+      "playlist_video_url": "https://www.youtube.com/watch?v=-H70SsG-RIA&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=1",
+      "source_module_label": "Module I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[0].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 2,
+      "video_id": "9ePV7z3Oovc",
+      "title": "HRM-101 | MODULE I |  Additional HR Considerations | SydTek University",
+      "duration_display": "16:53",
+      "duration_seconds": 1013,
+      "video_url": "https://www.youtube.com/watch?v=9ePV7z3Oovc",
+      "playlist_video_url": "https://www.youtube.com/watch?v=9ePV7z3Oovc&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=2",
+      "source_module_label": "MODULE I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[1].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 3,
+      "video_id": "2be1AGmvCcg",
+      "title": "HRM-101 | Module II Introduction: Strategies & Approaches to Human Resources Mgt | SydTek University",
+      "duration_display": "2:57",
+      "duration_seconds": 177,
+      "video_url": "https://www.youtube.com/watch?v=2be1AGmvCcg",
+      "playlist_video_url": "https://www.youtube.com/watch?v=2be1AGmvCcg&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=3",
+      "source_module_label": "Module II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[2].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 4,
+      "video_id": "BzjG8BGvQYk",
+      "title": "HRM-101 | Module II.I - Strategic HRM and SWOT | SydTek University",
+      "duration_display": "16:07",
+      "duration_seconds": 967,
+      "video_url": "https://www.youtube.com/watch?v=BzjG8BGvQYk",
+      "playlist_video_url": "https://www.youtube.com/watch?v=BzjG8BGvQYk&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=4",
+      "source_module_label": "Module II.I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[3].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 5,
+      "video_id": "cCJc18t6qeg",
+      "title": "HRM-101 | Module II.II – SCAT Goals and Strategic Workforce Alignment | SydTek University",
+      "duration_display": "8:29",
+      "duration_seconds": 509,
+      "video_url": "https://www.youtube.com/watch?v=cCJc18t6qeg",
+      "playlist_video_url": "https://www.youtube.com/watch?v=cCJc18t6qeg&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=5",
+      "source_module_label": "Module II.II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[4].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 6,
+      "video_id": "0GuRPiHlkzQ",
+      "title": "HRM-101 | Module II.III | HR Planning | SydTek University",
+      "duration_display": "12:28",
+      "duration_seconds": 748,
+      "video_url": "https://www.youtube.com/watch?v=0GuRPiHlkzQ",
+      "playlist_video_url": "https://www.youtube.com/watch?v=0GuRPiHlkzQ&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=6",
+      "source_module_label": "Module II.III",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[5].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 7,
+      "video_id": "k6kzzETZetA",
+      "title": "HRM-101 | Module II.IV – Ethics of HRM | SydTek University",
+      "duration_display": "10:12",
+      "duration_seconds": 612,
+      "video_url": "https://www.youtube.com/watch?v=k6kzzETZetA",
+      "playlist_video_url": "https://www.youtube.com/watch?v=k6kzzETZetA&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=7",
+      "source_module_label": "Module II.IV",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[6].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 8,
+      "video_id": "x12XDmNOAeI",
+      "title": "HRM-101 | Module III Introduction: Job Design & Analysis",
+      "duration_display": "2:18",
+      "duration_seconds": 138,
+      "video_url": "https://www.youtube.com/watch?v=x12XDmNOAeI",
+      "playlist_video_url": "https://www.youtube.com/watch?v=x12XDmNOAeI&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=8",
+      "source_module_label": "Module III",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[7].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 9,
+      "video_id": "s56NPJg6Dgs",
+      "title": "HRM-101 | Module III.I Job Design and Analysis | SydTek University",
+      "duration_display": "16:31",
+      "duration_seconds": 991,
+      "video_url": "https://www.youtube.com/watch?v=s56NPJg6Dgs",
+      "playlist_video_url": "https://www.youtube.com/watch?v=s56NPJg6Dgs&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=9",
+      "source_module_label": "Module III.I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[8].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 10,
+      "video_id": "x-2V0rr54eM",
+      "title": "HRM-101 | Module III.II: Job Analysis | SydTek University",
+      "duration_display": "8:20",
+      "duration_seconds": 500,
+      "video_url": "https://www.youtube.com/watch?v=x-2V0rr54eM",
+      "playlist_video_url": "https://www.youtube.com/watch?v=x-2V0rr54eM&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=10",
+      "source_module_label": "Module III.II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[9].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 11,
+      "video_id": "lAlvfvK4uwE",
+      "title": "HRM-101 | Module III.III: Information Needed for Job Analysis | SydTek University",
+      "duration_display": "11:04",
+      "duration_seconds": 664,
+      "video_url": "https://www.youtube.com/watch?v=lAlvfvK4uwE",
+      "playlist_video_url": "https://www.youtube.com/watch?v=lAlvfvK4uwE&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=11",
+      "source_module_label": "Module III.III",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[10].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 12,
+      "video_id": "3EvfuwTdeZk",
+      "title": "HRM-101 | Module I.I: Employee and Labor Relations | SydTek University",
+      "duration_display": "12:12",
+      "duration_seconds": 732,
+      "video_url": "https://www.youtube.com/watch?v=3EvfuwTdeZk",
+      "playlist_video_url": "https://www.youtube.com/watch?v=3EvfuwTdeZk&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=12",
+      "source_module_label": "Module I.I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[11].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 13,
+      "video_id": "LYP-AwlCAFs",
+      "title": "HRM-101 | Module I.II: Compensation - Major Functions of Human Resources Mgt. | SydTek University",
+      "duration_display": "7:44",
+      "duration_seconds": 464,
+      "video_url": "https://www.youtube.com/watch?v=LYP-AwlCAFs",
+      "playlist_video_url": "https://www.youtube.com/watch?v=LYP-AwlCAFs&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=13",
+      "source_module_label": "Module I.II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[12].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 14,
+      "video_id": "EJ-9oTEXxUk",
+      "title": "HRM-101 | Module I.III: Human Resource Development | SydTek University",
+      "duration_display": "12:05",
+      "duration_seconds": 725,
+      "video_url": "https://www.youtube.com/watch?v=EJ-9oTEXxUk",
+      "playlist_video_url": "https://www.youtube.com/watch?v=EJ-9oTEXxUk&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=14",
+      "source_module_label": "Module I.III",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[13].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 15,
+      "video_id": "LUY6lc0kR7s",
+      "title": "HRM-101 | Introduction to HR Management | SydTek University",
+      "duration_display": "3:02",
+      "duration_seconds": 182,
+      "video_url": "https://www.youtube.com/watch?v=LUY6lc0kR7s",
+      "playlist_video_url": "https://www.youtube.com/watch?v=LUY6lc0kR7s&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=15",
+      "source_module_label": null,
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[14].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 16,
+      "video_id": "Ej-I3MdKSA0",
+      "title": "HRM-101 | Module I.IV: The Job Description | SydTek University",
+      "duration_display": "10:55",
+      "duration_seconds": 655,
+      "video_url": "https://www.youtube.com/watch?v=Ej-I3MdKSA0",
+      "playlist_video_url": "https://www.youtube.com/watch?v=Ej-I3MdKSA0&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=16",
+      "source_module_label": "Module I.IV",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[15].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 17,
+      "video_id": "y1Unk2oGfL4",
+      "title": "HRM-101 | Module IV Introduction: The Role of Recruiting | SydTek University",
+      "duration_display": "1:14",
+      "duration_seconds": 74,
+      "video_url": "https://www.youtube.com/watch?v=y1Unk2oGfL4",
+      "playlist_video_url": "https://www.youtube.com/watch?v=y1Unk2oGfL4&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=17",
+      "source_module_label": "Module IV",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[16].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 18,
+      "video_id": "vYdqGfWeJBg",
+      "title": "HRM-101 | Module IV.I: Employee Recruitment | SydTek University",
+      "duration_display": "9:13",
+      "duration_seconds": 553,
+      "video_url": "https://www.youtube.com/watch?v=vYdqGfWeJBg",
+      "playlist_video_url": "https://www.youtube.com/watch?v=vYdqGfWeJBg&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=18",
+      "source_module_label": "Module IV.I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[17].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 19,
+      "video_id": "-faOC0pEg9o",
+      "title": "HRM-101 | Module IV.II - Internal and External Recruitment Processes | SydTek University",
+      "duration_display": "14:31",
+      "duration_seconds": 871,
+      "video_url": "https://www.youtube.com/watch?v=-faOC0pEg9o",
+      "playlist_video_url": "https://www.youtube.com/watch?v=-faOC0pEg9o&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=19",
+      "source_module_label": "Module IV.II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[18].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 20,
+      "video_id": "PhhDAm2SCb4",
+      "title": "HRM-101 | Module IV.III - Environmental Factors Affecting Recruiting | | SydTek University",
+      "duration_display": "9:19",
+      "duration_seconds": 559,
+      "video_url": "https://www.youtube.com/watch?v=PhhDAm2SCb4",
+      "playlist_video_url": "https://www.youtube.com/watch?v=PhhDAm2SCb4&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=20",
+      "source_module_label": "Module IV.III",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[19].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 21,
+      "video_id": "e98psgFr3iY",
+      "title": "HRM-101 | Module V.I: Employee Matching | SydTek University",
+      "duration_display": "5:58",
+      "duration_seconds": 358,
+      "video_url": "https://www.youtube.com/watch?v=e98psgFr3iY",
+      "playlist_video_url": "https://www.youtube.com/watch?v=e98psgFr3iY&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=21",
+      "source_module_label": "Module V.I",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[20].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 22,
+      "video_id": "MJmlYpSTeZo",
+      "title": "HRM-101 | Module V.II - Interviews and Screening | SydTek University",
+      "duration_display": "15:54",
+      "duration_seconds": 954,
+      "video_url": "https://www.youtube.com/watch?v=MJmlYpSTeZo",
+      "playlist_video_url": "https://www.youtube.com/watch?v=MJmlYpSTeZo&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=22",
+      "source_module_label": "Module V.II",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[21].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 23,
+      "video_id": "l-2lfrZjOFI",
+      "title": "Week 5 - Employee Selection Process",
+      "duration_display": "8:24",
+      "duration_seconds": 504,
+      "video_url": "https://www.youtube.com/watch?v=l-2lfrZjOFI",
+      "playlist_video_url": "https://www.youtube.com/watch?v=l-2lfrZjOFI&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=23",
+      "source_module_label": null,
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[22].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 24,
+      "video_id": "Vs8nytFoJwk",
+      "title": "Beyond Employee Selection Intro Video",
+      "duration_display": "3:50",
+      "duration_seconds": 230,
+      "video_url": "https://www.youtube.com/watch?v=Vs8nytFoJwk",
+      "playlist_video_url": "https://www.youtube.com/watch?v=Vs8nytFoJwk&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=24",
+      "source_module_label": null,
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[23].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 25,
+      "video_id": "_iOa4LTG0Kc",
+      "title": "Module 1 Intro",
+      "duration_display": "3:50",
+      "duration_seconds": 230,
+      "video_url": "https://www.youtube.com/watch?v=_iOa4LTG0Kc",
+      "playlist_video_url": "https://www.youtube.com/watch?v=_iOa4LTG0Kc&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=25",
+      "source_module_label": "Module 1",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[24].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 26,
+      "video_id": "tH-7EL0kpVg",
+      "title": "Module 1: Employee Onboarding and Development",
+      "duration_display": "15:00",
+      "duration_seconds": 900,
+      "video_url": "https://www.youtube.com/watch?v=tH-7EL0kpVg",
+      "playlist_video_url": "https://www.youtube.com/watch?v=tH-7EL0kpVg&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=26",
+      "source_module_label": "Module 1",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[25].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 27,
+      "video_id": "n5PRqiMWKXc",
+      "title": "https://youtu.be/tH-7EL0kpVg",
+      "duration_display": "16:21",
+      "duration_seconds": 981,
+      "video_url": "https://www.youtube.com/watch?v=n5PRqiMWKXc",
+      "playlist_video_url": "https://www.youtube.com/watch?v=n5PRqiMWKXc&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=27",
+      "source_module_label": null,
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[26].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": true
+    },
+    {
+      "position": 28,
+      "video_id": "SIjxf14Bt3U",
+      "title": "Module 1: The Seven Principles of Training",
+      "duration_display": "10:02",
+      "duration_seconds": 602,
+      "video_url": "https://www.youtube.com/watch?v=SIjxf14Bt3U",
+      "playlist_video_url": "https://www.youtube.com/watch?v=SIjxf14Bt3U&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=28",
+      "source_module_label": "Module 1",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[27].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 29,
+      "video_id": "karlhJxD120",
+      "title": "Module 1: Preparing the Training Program",
+      "duration_display": "8:45",
+      "duration_seconds": 525,
+      "video_url": "https://www.youtube.com/watch?v=karlhJxD120",
+      "playlist_video_url": "https://www.youtube.com/watch?v=karlhJxD120&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=29",
+      "source_module_label": "Module 1",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[28].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 30,
+      "video_id": "ujb9kjzQqv8",
+      "title": "Module 1: Training and Development Metrics",
+      "duration_display": "11:53",
+      "duration_seconds": 713,
+      "video_url": "https://www.youtube.com/watch?v=ujb9kjzQqv8",
+      "playlist_video_url": "https://www.youtube.com/watch?v=ujb9kjzQqv8&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=30",
+      "source_module_label": "Module 1",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[29].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 31,
+      "video_id": "UTIkKhuKRHA",
+      "title": "Module 2 Introduction",
+      "duration_display": "1:48",
+      "duration_seconds": 108,
+      "video_url": "https://www.youtube.com/watch?v=UTIkKhuKRHA",
+      "playlist_video_url": "https://www.youtube.com/watch?v=UTIkKhuKRHA&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=31",
+      "source_module_label": "Module 2",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[30].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 32,
+      "video_id": "KJQHy3GsyIU",
+      "title": "Module 2: Uses of Performance Appraisals",
+      "duration_display": "12:12",
+      "duration_seconds": 732,
+      "video_url": "https://www.youtube.com/watch?v=KJQHy3GsyIU",
+      "playlist_video_url": "https://www.youtube.com/watch?v=KJQHy3GsyIU&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=32",
+      "source_module_label": "Module 2",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[31].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 33,
+      "video_id": "oq9GIJ-edLQ",
+      "title": "Module 2: Performance Appraisal Methods",
+      "duration_display": "13:15",
+      "duration_seconds": 795,
+      "video_url": "https://www.youtube.com/watch?v=oq9GIJ-edLQ",
+      "playlist_video_url": "https://www.youtube.com/watch?v=oq9GIJ-edLQ&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=33",
+      "source_module_label": "Module 2",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[32].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 34,
+      "video_id": "LnLeJ3fNLps",
+      "title": "Module 2: Discipline and Disciplinary Action",
+      "duration_display": "13:20",
+      "duration_seconds": 800,
+      "video_url": "https://www.youtube.com/watch?v=LnLeJ3fNLps",
+      "playlist_video_url": "https://www.youtube.com/watch?v=LnLeJ3fNLps&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=34",
+      "source_module_label": "Module 2",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[33].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 35,
+      "video_id": "2WJ3bXb5G4M",
+      "title": "Module 3 Introduction",
+      "duration_display": "1:19",
+      "duration_seconds": 79,
+      "video_url": "https://www.youtube.com/watch?v=2WJ3bXb5G4M",
+      "playlist_video_url": "https://www.youtube.com/watch?v=2WJ3bXb5G4M&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=35",
+      "source_module_label": "Module 3",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[34].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 36,
+      "video_id": "ihUkO9J8mfc",
+      "title": "Module 3: Types of Compensation",
+      "duration_display": "9:21",
+      "duration_seconds": 561,
+      "video_url": "https://www.youtube.com/watch?v=ihUkO9J8mfc",
+      "playlist_video_url": "https://www.youtube.com/watch?v=ihUkO9J8mfc&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=36",
+      "source_module_label": "Module 3",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[35].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 37,
+      "video_id": "nER0yA-X9WE",
+      "title": "Module 3: Discretionary Benefits",
+      "duration_display": "11:02",
+      "duration_seconds": 662,
+      "video_url": "https://www.youtube.com/watch?v=nER0yA-X9WE",
+      "playlist_video_url": "https://www.youtube.com/watch?v=nER0yA-X9WE&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=37",
+      "source_module_label": "Module 3",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[36].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 38,
+      "video_id": "PMEM4ybWnKQ",
+      "title": "Module 3: Job Pricing",
+      "duration_display": "10:04",
+      "duration_seconds": 604,
+      "video_url": "https://www.youtube.com/watch?v=PMEM4ybWnKQ",
+      "playlist_video_url": "https://www.youtube.com/watch?v=PMEM4ybWnKQ&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=38",
+      "source_module_label": "Module 3",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[37].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 39,
+      "video_id": "kHk2QkYxpRA",
+      "title": "Module 4 Introduction",
+      "duration_display": "1:23",
+      "duration_seconds": 83,
+      "video_url": "https://www.youtube.com/watch?v=kHk2QkYxpRA",
+      "playlist_video_url": "https://www.youtube.com/watch?v=kHk2QkYxpRA&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=39",
+      "source_module_label": "Module 4",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[38].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 40,
+      "video_id": "BIDr50DWDPk",
+      "title": "Module 4: Labor Unions and Collective Bargaining",
+      "duration_display": "10:39",
+      "duration_seconds": 639,
+      "video_url": "https://www.youtube.com/watch?v=BIDr50DWDPk",
+      "playlist_video_url": "https://www.youtube.com/watch?v=BIDr50DWDPk&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=40",
+      "source_module_label": "Module 4",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[39].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 41,
+      "video_id": "oiVUaLcQwn8",
+      "title": "Module 5 Introduction",
+      "duration_display": "1:56",
+      "duration_seconds": 116,
+      "video_url": "https://www.youtube.com/watch?v=oiVUaLcQwn8",
+      "playlist_video_url": "https://www.youtube.com/watch?v=oiVUaLcQwn8&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=41",
+      "source_module_label": "Module 5",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[40].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 42,
+      "video_id": "-TDMbSb6qN0",
+      "title": "Module 5: Entering Global Markets and Global Staffing",
+      "duration_display": "13:28",
+      "duration_seconds": 808,
+      "video_url": "https://www.youtube.com/watch?v=-TDMbSb6qN0",
+      "playlist_video_url": "https://www.youtube.com/watch?v=-TDMbSb6qN0&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=42",
+      "source_module_label": "Module 5",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[41].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 43,
+      "video_id": "-TDMbSb6qN0",
+      "title": "Module 5: Entering Global Markets and Global Staffing",
+      "duration_display": "13:28",
+      "duration_seconds": 808,
+      "video_url": "https://www.youtube.com/watch?v=-TDMbSb6qN0",
+      "playlist_video_url": "https://www.youtube.com/watch?v=-TDMbSb6qN0&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=43",
+      "source_module_label": "Module 5",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[42].playlistVideoRenderer"
+      },
+      "duplicate_of_position": 42,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 44,
+      "video_id": "65EsrvJz8Z8",
+      "title": "Module 4: Negotiation",
+      "duration_display": "7:38",
+      "duration_seconds": 458,
+      "video_url": "https://www.youtube.com/watch?v=65EsrvJz8Z8",
+      "playlist_video_url": "https://www.youtube.com/watch?v=65EsrvJz8Z8&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=44",
+      "source_module_label": "Module 4",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[43].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 45,
+      "video_id": "c-RDYWzXVYI",
+      "title": "Module 5: Global Compensation, Political and Legal Considerations",
+      "duration_display": "7:42",
+      "duration_seconds": 462,
+      "video_url": "https://www.youtube.com/watch?v=c-RDYWzXVYI",
+      "playlist_video_url": "https://www.youtube.com/watch?v=c-RDYWzXVYI&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=45",
+      "source_module_label": "Module 5",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[44].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 46,
+      "video_id": "H69cGtBr1mY",
+      "title": "Module 6: Flexibility in the Workplace",
+      "duration_display": "11:21",
+      "duration_seconds": 681,
+      "video_url": "https://www.youtube.com/watch?v=H69cGtBr1mY",
+      "playlist_video_url": "https://www.youtube.com/watch?v=H69cGtBr1mY&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=46",
+      "source_module_label": "Module 6",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[45].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 47,
+      "video_id": "6BlCSkczhyM",
+      "title": "Module 6 Introduction",
+      "duration_display": "2:15",
+      "duration_seconds": 135,
+      "video_url": "https://www.youtube.com/watch?v=6BlCSkczhyM",
+      "playlist_video_url": "https://www.youtube.com/watch?v=6BlCSkczhyM&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=47",
+      "source_module_label": "Module 6",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[46].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    },
+    {
+      "position": 48,
+      "video_id": "s-LdWHxZxV8",
+      "title": "Module 6: Corporate Social Responsibility",
+      "duration_display": "9:51",
+      "duration_seconds": 591,
+      "video_url": "https://www.youtube.com/watch?v=s-LdWHxZxV8",
+      "playlist_video_url": "https://www.youtube.com/watch?v=s-LdWHxZxV8&list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0&index=48",
+      "source_module_label": "Module 6",
+      "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+      "channel_name": "ENOCH | Golgotha Gospel & Golgotha Country",
+      "channel_url": "https://www.youtube.com/@ENOCHLIVE1",
+      "access_evidence": {
+        "playlist_metadata_is_playable": true,
+        "individual_playback_verified": false,
+        "embedding_permission_verified": false,
+        "source_json_path": "$.contents.twoColumnBrowseResultsRenderer.tabs[0].tabRenderer.content.sectionListRenderer.contents[0].itemSectionRenderer.contents[0].playlistVideoListRenderer.contents[47].playlistVideoRenderer"
+      },
+      "duplicate_of_position": null,
+      "source_title_requires_review": false
+    }
+  ]
+}

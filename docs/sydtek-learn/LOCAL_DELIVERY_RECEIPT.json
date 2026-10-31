@@ -1,0 +1,161 @@
+{
+  "completed_utc_date": "2026-10-31",
+  "repository": "projektgolgotha/GOLGOTHA_GROUP",
+  "local_branch": "codex/sydtek-learn-foundation",
+  "base_commit": "97f6de8c81d744e5bcaf06ead5b6934a668fb184",
+  "github_delivery": "BLOCKED_REMOTE_BRANCH_NOT_CREATED",
+  "shopify_publication": "PUBLISHED_VERIFIED_PUBLIC",
+  "production_deployment": "NOT_RUN",
+  "template_commit": "81eb98b6ca095eb0b92657f6007939a418f61955",
+  "foundation_checks": {
+    "tests": {
+      "passed": 6,
+      "failed": 0
+    },
+    "typecheck": "PASS",
+    "build": "PASS",
+    "lint": "PASS",
+    "session_migration": "PASS",
+    "public_routes": {
+      "paths": [
+        "/",
+        "/learn/hrm-101",
+        "/learner",
+        "/instructor"
+      ],
+      "http_status": 200,
+      "shopify_credentials_required": false
+    },
+    "protected_disconnected_routes": {
+      "paths": [
+        "/app",
+        "/auth/login"
+      ],
+      "http_status": 503
+    },
+    "health": {
+      "before_session_migration": 503,
+      "after_session_migration": 200
+    },
+    "root_readme_license": "UNCHANGED"
+  },
+  "course_inventory": {
+    "entries": 48,
+    "unique_video_ids": 47,
+    "duplicate_positions": [
+      42,
+      43
+    ]
+  },
+  "website_checks": {
+    "preserved_existing_education_destinations": 22,
+    "expected_existing_destinations": 22,
+    "public_site_links_http200": 27,
+    "public_site_links_checked": 27,
+    "html_nesting_errors": 0,
+    "duplicate_html_ids": 0,
+    "independent_source_review": "PASS",
+    "admin_read_back": "PASS",
+    "public_outside_preview": "PASS",
+    "desktop_rendering": "PASS",
+    "keyboard_navigation": "PASS",
+    "mobile_viewport": "NOT_RUN",
+    "unrelated_menu_branches_preserved": 6,
+    "expected_unrelated_menu_branches": 6,
+    "original_page_body_preserved": true
+  },
+  "not_run": [
+    "Local application browser rendering and keyboard interaction",
+    "Individual YouTube playback and embedding permission",
+    "Shopify OAuth/install/webhooks",
+    "Container packaging",
+    "Production deployment",
+    "Public website mobile viewport rendering"
+  ],
+  "not_implemented": [
+    "PostgreSQL academic records",
+    "Tenant and learner identity",
+    "Saved progress",
+    "Assessments and credential issuance",
+    "Donation collection"
+  ],
+  "known_limitation": "Inherited app-local Dockerfile does not include sibling course manifest; container deployment is unverified.",
+  "support_information_url": "https://enochworld.com/pages/sydtek-support",
+  "financial_status": {
+    "live_collection_enabled": false,
+    "recipient": null,
+    "payment_processor": null,
+    "charges_created": false
+  },
+  "artifact_hashes": [
+    {
+      "path": "docs/sydtek-learn/ARCHITECTURE.md",
+      "sha256": "fb45e085e9eb9dbf909f24e809eb618875b100f2316ad74ce0b0197b6727fcc9"
+    },
+    {
+      "path": "docs/sydtek-learn/BUILD_CHUNKS.md",
+      "sha256": "d83549e1514b993b5c2d4b77471fad2fcccb352d0566494be1e31f23b1043ac5"
+    },
+    {
+      "path": "docs/sydtek-learn/BUILD_CONTEXT.md",
+      "sha256": "7f2ea52f05942ea55b9ac07138ff9c3beacd777916f9381b48fa9b44654cb9d6"
+    },
+    {
+      "path": "docs/sydtek-learn/BUILD_LEDGER.md",
+      "sha256": "83b991b43f3aa064c46cb0d36ec75a92bed9c696143fd6ff9cd8ce427f21616b"
+    },
+    {
+      "path": "content/sydtek-learn/courses/hrm-101/README.md",
+      "sha256": "f172ff0ab0dc540238381a526420fdedcb4427fa7dea377e8f6fa0f2b875f3d6"
+    },
+    {
+      "path": "content/sydtek-learn/courses/hrm-101/course.json",
+      "sha256": "bbb248a5bfe905e601991fd593c14b77bfadb82667958b92f922f4a9849c284a"
+    },
+    {
+      "path": "website/sydtek-learn/README.md",
+      "sha256": "37a6a50d7b794d90e4b70ae4f5a27e7047b3f37459cf11f37aeede3c3b54ebf3"
+    },
+    {
+      "path": "website/sydtek-learn/content-checks.json",
+      "sha256": "7b2e0b41e79eafc8d44bee1b91e92eba7315bee9660aafdd1cb5cf1f52feb7e7"
+    },
+    {
+      "path": "website/sydtek-learn/deployment-plan.json",
+      "sha256": "34748a5de0c657b86d9f24f4b28d6219e1cd84bac3a1fc34b13ab19db9ac3fe6"
+    },
+    {
+      "path": "website/sydtek-learn/hub-fragment.html",
+      "sha256": "eb06b866a990c58de251218ec7665e20e8a49ecbb469ad340819f03e2da3cb50"
+    },
+    {
+      "path": "website/sydtek-learn/link-checks.json",
+      "sha256": "e90e4d4c1b5263c87a7bb00149972c433fb314b101773101588b6bf298743112"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-baseline.json",
+      "sha256": "4e2995d103214ef8ec66e4676fc8e68d1158e7556a339c77ef50ced7f7fb1317"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-proposal.json",
+      "sha256": "c9aad734987bbead27c1a2fdb7b49e0312d6527cac6fce808c063bfd9528ba3e"
+    },
+    {
+      "path": "website/sydtek-learn/preview.html",
+      "sha256": "fd283cae01165dc3e1683dd108d9a4b09d9e32289fb1a9ef4ee898e456abe76a"
+    }
+  ],
+  "github_delivery_detail": {
+    "owner_reauthorized_date": "2026-10-31",
+    "fresh_remote_main": "97f6de8c81d744e5bcaf06ead5b6934a668fb184",
+    "remote_feature_branch": "ABSENT_FINAL_READ",
+    "normal_git_push_dry_run": "FAILED_AUTHENTICATION_NO_REMOTE_WRITE",
+    "normal_git_error": "could not read Username for 'https://github.com': terminal prompts disabled",
+    "connector_identity": "projektgolgotha",
+    "connector_branch_creation": "REAUTHORIZED_RETRY_ABORTED_BY_USER_AFTER_884_3_SECONDS",
+    "pull_request": null,
+    "connector_update_ref": "HTTP_422_REFERENCE_DOES_NOT_EXIST_NO_BRANCH_CREATED",
+    "further_external_writes": "STOPPED"
+  },
+  "website_public_url": "https://enochworld.com/pages/sydtek#sydtek-learn"
+}

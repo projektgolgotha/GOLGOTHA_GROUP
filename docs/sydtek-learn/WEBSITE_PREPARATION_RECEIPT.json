@@ -1,0 +1,82 @@
+{
+  "task": "SydTek Learn Education hub and HRM-101 source preparation",
+  "date": "2026-10-30",
+  "site_publication": "SUPERSEDED_BY_WEBSITE_PUBLICATION_RECEIPT",
+  "payment_collection": "NOT_CONFIGURED",
+  "public_source_observation": {
+    "theme_id": 189733863535,
+    "theme_name": "ENOCH WORLD — MASTER Wakaboomee Fundraising",
+    "role": "main",
+    "authenticated_draft_inventory": "NOT_RUN"
+  },
+  "completed_checks": {
+    "course_source_inventory": {
+      "entries": 48,
+      "distinct_video_ids": 47
+    },
+    "education_destination_preservation": {
+      "retained": 22,
+      "expected": 22
+    },
+    "public_site_links": {
+      "http_200": 27,
+      "checked": 27
+    },
+    "saved_build_pack": {
+      "chunks": 18,
+      "active_token_symbol_requirements": 0
+    }
+  },
+  "not_run": [
+    "Authenticated page/menu mutation",
+    "Current newer-draft inventory",
+    "Rendered desktop/mobile/keyboard checks: browser binary unavailable and temporary download invalid",
+    "Individual YouTube playback and embed permissions",
+    "Live payment processing",
+    "Full LMS course completion and credential workflow"
+  ],
+  "artifacts": [
+    {
+      "path": "content/sydtek-learn/courses/hrm-101/README.md",
+      "sha256": "f172ff0ab0dc540238381a526420fdedcb4427fa7dea377e8f6fa0f2b875f3d6"
+    },
+    {
+      "path": "content/sydtek-learn/courses/hrm-101/course.json",
+      "sha256": "bbb248a5bfe905e601991fd593c14b77bfadb82667958b92f922f4a9849c284a"
+    },
+    {
+      "path": "docs/sydtek-learn/BUILD_CHUNKS.md",
+      "sha256": "d83549e1514b993b5c2d4b77471fad2fcccb352d0566494be1e31f23b1043ac5"
+    },
+    {
+      "path": "website/sydtek-learn/README.md",
+      "sha256": "37a6a50d7b794d90e4b70ae4f5a27e7047b3f37459cf11f37aeede3c3b54ebf3"
+    },
+    {
+      "path": "website/sydtek-learn/content-checks.json",
+      "sha256": "7b2e0b41e79eafc8d44bee1b91e92eba7315bee9660aafdd1cb5cf1f52feb7e7"
+    },
+    {
+      "path": "website/sydtek-learn/deployment-plan.json",
+      "sha256": "34748a5de0c657b86d9f24f4b28d6219e1cd84bac3a1fc34b13ab19db9ac3fe6"
+    },
+    {
+      "path": "website/sydtek-learn/hub-fragment.html",
+      "sha256": "eb06b866a990c58de251218ec7665e20e8a49ecbb469ad340819f03e2da3cb50"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-baseline.json",
+      "sha256": "4e2995d103214ef8ec66e4676fc8e68d1158e7556a339c77ef50ced7f7fb1317"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-proposal.json",
+      "sha256": "c9aad734987bbead27c1a2fdb7b49e0312d6527cac6fce808c063bfd9528ba3e"
+    },
+    {
+      "path": "website/sydtek-learn/preview.html",
+      "sha256": "fd283cae01165dc3e1683dd108d9a4b09d9e32289fb1a9ef4ee898e456abe76a"
+    }
+  ],
+  "superseded_by": "WEBSITE_PUBLICATION_RECEIPT.json",
+  "historical_preparation_status": "BLOCKED_AUTHENTICATION_REQUIRED_BEFORE_WORKING_CONNECTION_FOUND"
+}

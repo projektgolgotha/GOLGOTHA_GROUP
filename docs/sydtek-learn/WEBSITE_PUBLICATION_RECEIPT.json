@@ -1,0 +1,207 @@
+{
+  "task": "Publish SydTek Learn in ENOCH WORLD Education with HRM-101",
+  "execution_status": "PUBLISHED_VERIFIED_PUBLIC",
+  "page_url": "https://enochworld.com/pages/sydtek#sydtek-learn",
+  "completed_utc": "2026-10-31T00:13:27Z",
+  "source_course": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+  "course_inventory": {
+    "playlist_entries": 48,
+    "distinct_video_ids": 47
+  },
+  "changed_resources": [
+    {
+      "kind": "Shopify Page",
+      "id": "gid://shopify/Page/166880215151",
+      "handle": "sydtek",
+      "change": "Prepended scoped SydTek Learn hub; original body/title/template preserved",
+      "templateSuffix": "ew-learning"
+    },
+    {
+      "kind": "Shopify Menu",
+      "id": "gid://shopify/Menu/278637936751",
+      "handle": "enoch-primary",
+      "change": "Education -> SydTek Learn -> 26 destination leaves; 22 original distinct destinations retained",
+      "new_hub_item_id": "gid://shopify/MenuItem/821238235247"
+    }
+  ],
+  "theme_state": {
+    "main": "gid://shopify/OnlineStoreTheme/189733863535",
+    "newer_maintenance_draft": "gid://shopify/OnlineStoreTheme/189815685231",
+    "theme_files_changed": [],
+    "theme_publication": false,
+    "application": "Global page and menu resources; existing template and navigation renderer in live and maintenance draft consume these resources",
+    "evidence": "website/sydtek-learn/publication/source-fingerprints.json"
+  },
+  "validation": {
+    "official_graphql_schema": "PASS: pageUpdate and menuUpdate; 2026-10",
+    "admin_readback": {
+      "pagePublished": true,
+      "hubAtStart": true,
+      "existingBodyPreserved": true,
+      "titleAndTemplatePreserved": true,
+      "educationFirstChild": "SydTek Learn",
+      "educationLeafCount": 26,
+      "allOriginalDestinationsRetained": true,
+      "outsideEducation": [
+        {
+          "title": "Shop",
+          "unchanged": true
+        },
+        {
+          "title": "ROBLOX",
+          "unchanged": true
+        },
+        {
+          "title": "Sports",
+          "unchanged": true
+        },
+        {
+          "title": "Christ Calling",
+          "unchanged": true
+        },
+        {
+          "title": "Enterprise",
+          "unchanged": true
+        },
+        {
+          "title": "Company & Trust",
+          "unchanged": true
+        }
+      ],
+      "mainTheme": "gid://shopify/OnlineStoreTheme/189733863535"
+    },
+    "browser": {
+      "passed": 13,
+      "not_run": 1,
+      "scope": "Public desktop/keyboard, with homepage and fundraising query-route samples; outside preview",
+      "receipt": "website/sydtek-learn/publication/browser-qa.json"
+    },
+    "existing_content_preserved": true,
+    "original_education_urls": {
+      "retained": 22,
+      "expected": 22
+    },
+    "unrelated_menu_branches": {
+      "identical": 6,
+      "expected": 6
+    }
+  },
+  "resolved_issue": {
+    "issue": "Sticky header partly obscured hub heading after following menu anchor",
+    "change": "Scoped hub scroll-margin-top increased from 100px to 260px",
+    "verified": "Public browser reload, keyboard traversal, DOM measurement and screenshot review"
+  },
+  "rollback": {
+    "page_body": "website/sydtek-learn/rollback/page-before.html",
+    "page_metadata": "website/sydtek-learn/rollback/page-before.json",
+    "full_affected_menu": "website/sydtek-learn/rollback/menu-before.json",
+    "procedure": "Fresh-read first; restore only changed page/menu content while preserving concurrent edits. No theme rollback is needed."
+  },
+  "limitations": [
+    "Mobile viewport rendering NOT_RUN: browser API did not expose viewport resizing/device emulation",
+    "Individual YouTube playback and embedding permissions NOT_RUN",
+    "Full LMS authentication, progress, assessment and credential workflows NOT_IMPLEMENTED",
+    "Hosted LMS application deployment NOT_RUN",
+    "No comprehensive screen-reader or commerce transaction audit"
+  ],
+  "financial_status": {
+    "donation_collection": "NOT_CONFIGURED",
+    "support_information_url": "https://enochworld.com/pages/sydtek-support",
+    "contribution_required_for_public_lessons": false,
+    "recipient_entity": null,
+    "payment_provider": null,
+    "charges_created": false,
+    "observed_cost": null
+  },
+  "evidence_classification": {
+    "public_course_metadata": "Observed playlist source",
+    "LearnDay_Canadian_university_use": "Creator-reported; no named institutional endorsement added",
+    "website_state": "Authenticated Admin read-back and independent public browser verification"
+  },
+  "artifact_hashes": [
+    {
+      "path": "website/sydtek-learn/README.md",
+      "sha256": "37a6a50d7b794d90e4b70ae4f5a27e7047b3f37459cf11f37aeede3c3b54ebf3"
+    },
+    {
+      "path": "website/sydtek-learn/content-checks.json",
+      "sha256": "7b2e0b41e79eafc8d44bee1b91e92eba7315bee9660aafdd1cb5cf1f52feb7e7"
+    },
+    {
+      "path": "website/sydtek-learn/deployment-plan.json",
+      "sha256": "34748a5de0c657b86d9f24f4b28d6219e1cd84bac3a1fc34b13ab19db9ac3fe6"
+    },
+    {
+      "path": "website/sydtek-learn/hub-fragment.html",
+      "sha256": "eb06b866a990c58de251218ec7665e20e8a49ecbb469ad340819f03e2da3cb50"
+    },
+    {
+      "path": "website/sydtek-learn/link-checks.json",
+      "sha256": "e90e4d4c1b5263c87a7bb00149972c433fb314b101773101588b6bf298743112"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-baseline.json",
+      "sha256": "4e2995d103214ef8ec66e4676fc8e68d1158e7556a339c77ef50ced7f7fb1317"
+    },
+    {
+      "path": "website/sydtek-learn/navigation-proposal.json",
+      "sha256": "c9aad734987bbead27c1a2fdb7b49e0312d6527cac6fce808c063bfd9528ba3e"
+    },
+    {
+      "path": "website/sydtek-learn/preview.html",
+      "sha256": "fd283cae01165dc3e1683dd108d9a4b09d9e32289fb1a9ef4ee898e456abe76a"
+    },
+    {
+      "path": "website/sydtek-learn/publication/admin-verification.json",
+      "sha256": "d866508b501e1a25936a4f63358e2d443ab3df2aa203edc33dc050d1d7fed930"
+    },
+    {
+      "path": "website/sydtek-learn/publication/browser-qa.json",
+      "sha256": "535cea78f9e35152be22b64ee8daf263dbbfb2c64fd2a611855f4868cdac76eb"
+    },
+    {
+      "path": "website/sydtek-learn/publication/menu-candidate.json",
+      "sha256": "b01b1cec10ae4094922258e81af3e5ee421d2a243bb75999f28c08d26edef229"
+    },
+    {
+      "path": "website/sydtek-learn/publication/menu-published.json",
+      "sha256": "5f84a29cc60ec7df6f61b232005ec520023b9a248771466a151ea6eb3a325349"
+    },
+    {
+      "path": "website/sydtek-learn/publication/menu-update.graphql",
+      "sha256": "091c08821f088f9288017be31ef62ea16468f8ca4f6dfcbe2473d197b7ce4597"
+    },
+    {
+      "path": "website/sydtek-learn/publication/page-candidate.html",
+      "sha256": "3461e58d0abd9f8ca6b4d216dd9e4408d2bfe9b3b8274ce4d84afc989e6f04d8"
+    },
+    {
+      "path": "website/sydtek-learn/publication/page-published.html",
+      "sha256": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042"
+    },
+    {
+      "path": "website/sydtek-learn/publication/page-published.json",
+      "sha256": "44204ef0da2ac2035421bf3979e13c3fb6c4b8992a9d156126d326cb02d9e615"
+    },
+    {
+      "path": "website/sydtek-learn/publication/page-update.graphql",
+      "sha256": "fd72709617f26437618810982f3590482cc768c4ce39765cf57b099bdd85b990"
+    },
+    {
+      "path": "website/sydtek-learn/publication/source-fingerprints.json",
+      "sha256": "85b9d01beeeca25ba8d15113f0adc31dcbbc2a4acd3d5d480ae362aec37a2dec"
+    },
+    {
+      "path": "website/sydtek-learn/rollback/menu-before.json",
+      "sha256": "72c65bf08976b2ad1f6686976e2ebd0e8fe508a710c3a4ad71456127967d8687"
+    },
+    {
+      "path": "website/sydtek-learn/rollback/page-before.html",
+      "sha256": "a5a5bc1de1ae2a93db6a0e32b831a4e829a841780a9738f9d5ba194b3a866f5b"
+    },
+    {
+      "path": "website/sydtek-learn/rollback/page-before.json",
+      "sha256": "eede3c22ec135c80140f1a450838af0149e3196efbd3fbfd4dc3c5275c5aa54e"
+    }
+  ]
+}

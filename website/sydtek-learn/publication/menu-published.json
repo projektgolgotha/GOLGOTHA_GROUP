@@ -1,0 +1,1396 @@
+{
+  "id": "gid://shopify/Menu/278637936751",
+  "title": "ENOCH WORLD — Primary Navigation | School & Company",
+  "handle": "enoch-primary",
+  "isDefault": false,
+  "items": [
+    {
+      "id": "gid://shopify/MenuItem/820222951535",
+      "title": "Shop",
+      "type": "PAGE",
+      "url": "/pages/commerce-guide",
+      "resourceId": "gid://shopify/Page/166303137903",
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/821175517295",
+          "title": "Buy digital tools",
+          "type": "PAGE",
+          "url": "/pages/digital-toolkit-marketplace",
+          "resourceId": "gid://shopify/Page/166905217135",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821175550063",
+          "title": "Configure a learning package",
+          "type": "PAGE",
+          "url": "/pages/roblox-world-datasets",
+          "resourceId": "gid://shopify/Page/166961414255",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821175582831",
+          "title": "Commission a project",
+          "type": "HTTP",
+          "url": "/pages/enterprise#consulting-delivery",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821175615599",
+          "title": "Family learning bundles",
+          "type": "COLLECTION",
+          "url": "/collections/family-learning-bundles",
+          "resourceId": "gid://shopify/Collection/647869104239",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820660797551",
+          "title": "Hybrid Marketplace of Ideas",
+          "type": "COLLECTION",
+          "url": "/collections/hybrid-marketplace-of-ideas",
+          "resourceId": "gid://shopify/Collection/647730954351",
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820660830319",
+              "title": "All datasets & digital toolkits",
+              "type": "COLLECTION",
+              "url": "/collections/hybrid-marketplace-of-ideas",
+              "resourceId": "gid://shopify/Collection/647730954351",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820660863087",
+              "title": "Roblox worlds & learning datasets",
+              "type": "COLLECTION",
+              "url": "/collections/roblox-world-datasets",
+              "resourceId": "gid://shopify/Collection/647296090223",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820660895855",
+              "title": "Enterprise DIY datasets & SOPs",
+              "type": "COLLECTION",
+              "url": "/collections/enterprise-diy-datasets-sops",
+              "resourceId": "gid://shopify/Collection/647624753263",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221706351",
+          "title": "Books & Music",
+          "type": "HTTP",
+          "url": "/pages/books-and-scrolls",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820221739119",
+              "title": "Books & scrolls",
+              "type": "HTTP",
+              "url": "/pages/books-and-scrolls",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221771887",
+              "title": "Books & bestsellers",
+              "type": "HTTP",
+              "url": "/pages/sydtek-bestsellers",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221804655",
+              "title": "ENOCH music",
+              "type": "HTTP",
+              "url": "/pages/enoch-music",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820953088111",
+              "title": "Music gigs & opportunities",
+              "type": "PAGE",
+              "url": "/pages/music-gigs",
+              "resourceId": "gid://shopify/Page/167291748463",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221837423",
+              "title": "Free learning library",
+              "type": "HTTP",
+              "url": "/pages/free-learning-library",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221870191",
+              "title": "Creator partnerships",
+              "type": "HTTP",
+              "url": "/pages/creator-partnerships",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/821099364463",
+          "title": "Apparel & merchandise",
+          "type": "COLLECTION",
+          "url": "/collections/signature-collection",
+          "resourceId": "gid://shopify/Collection/646067683439",
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820223017071",
+              "title": "Signature collection",
+              "type": "HTTP",
+              "url": "/collections/signature-collection",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820223049839",
+              "title": "Headwear",
+              "type": "HTTP",
+              "url": "/collections/headwear",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820223082607",
+              "title": "Separates",
+              "type": "HTTP",
+              "url": "/collections/shop-separates",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820223115375",
+              "title": "Matching sets",
+              "type": "HTTP",
+              "url": "/collections/matching-sets",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222984303",
+          "title": "All products",
+          "type": "HTTP",
+          "url": "/collections/all",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820223180911",
+          "title": "Buying, licensing & delivery",
+          "type": "HTTP",
+          "url": "/pages/commerce-guide",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820223213679",
+          "title": "Customer support",
+          "type": "HTTP",
+          "url": "/pages/support",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820219445359",
+      "title": "ROBLOX",
+      "type": "HTTP",
+      "url": "/pages/roblox",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/820219478127",
+          "title": "Start here — ENOCH WORLD on Roblox",
+          "type": "HTTP",
+          "url": "/pages/roblox",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219510895",
+          "title": "World atlas",
+          "type": "HTTP",
+          "url": "/pages/world-atlas",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820219543663",
+              "title": "The Gate",
+              "type": "HTTP",
+              "url": "/pages/world-the-gate",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219576431",
+              "title": "Genesis",
+              "type": "HTTP",
+              "url": "/pages/world-genesis",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219609199",
+              "title": "Ocean City",
+              "type": "HTTP",
+              "url": "/pages/world-ocean-city",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219641967",
+              "title": "Ten Heavens",
+              "type": "HTTP",
+              "url": "/pages/world-ten-heavens",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219674735",
+              "title": "Best Farm & Monocacy",
+              "type": "HTTP",
+              "url": "/pages/world-best-farm",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219707503",
+              "title": "Patmos",
+              "type": "HTTP",
+              "url": "/pages/world-patmos",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219740271",
+              "title": "Red's Garage & Sturgis",
+              "type": "HTTP",
+              "url": "/pages/world-reds-garage",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219773039",
+          "title": "Schools & families",
+          "type": "HTTP",
+          "url": "/pages/roblox#schools",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219805807",
+          "title": "Guides & learning resources",
+          "type": "HTTP",
+          "url": "/pages/gaming-guides",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219838575",
+          "title": "Creators & partners",
+          "type": "HTTP",
+          "url": "/pages/creator-partnerships",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219871343",
+          "title": "Roadmap & release status",
+          "type": "HTTP",
+          "url": "/pages/public-roadmap",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820219904111",
+          "title": "Help & issue reporting",
+          "type": "HTTP",
+          "url": "/pages/support",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820219936879",
+      "title": "Education",
+      "type": "HTTP",
+      "url": "/pages/sydtek",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/821238235247",
+          "title": "SydTek Learn",
+          "type": "HTTP",
+          "url": "/pages/sydtek#sydtek-learn",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/821238268015",
+              "title": "Start HRM-101",
+              "type": "HTTP",
+              "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820219969647",
+              "title": "SydTek — education overview",
+              "type": "HTTP",
+              "url": "/pages/sydtek",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820956987503",
+              "title": "Future of education · Dataset explainer",
+              "type": "PAGE",
+              "url": "/pages/education-future-built-together",
+              "resourceId": "gid://shopify/Page/167292534895",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220002415",
+              "title": "SydTek Scholars — Pre-K–12",
+              "type": "HTTP",
+              "url": "/pages/sydtek-scholars",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220035183",
+              "title": "SydTek University — higher education development",
+              "type": "HTTP",
+              "url": "/pages/sydtek-university",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220067951",
+              "title": "SydTek Seminary",
+              "type": "HTTP",
+              "url": "/pages/sydtek-seminary",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220100719",
+              "title": "Trade school & progress",
+              "type": "HTTP",
+              "url": "/pages/sydtek-trade-school-ai-age",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220166255",
+              "title": "Progress tracker",
+              "type": "HTTP",
+              "url": "/pages/sydtek-trade-school-progress",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820813561967",
+              "title": "Industry & skills — nationwide",
+              "type": "PAGE",
+              "url": "/pages/sydtek-industry-skills",
+              "resourceId": "gid://shopify/Page/167259537519",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820813627503",
+              "title": "Ocean City pilot",
+              "type": "PAGE",
+              "url": "/pages/sydtek-ocean-city-pilot",
+              "resourceId": "gid://shopify/Page/167259603055",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820813660271",
+              "title": "Teaching recipe & packet",
+              "type": "PAGE",
+              "url": "/pages/sydtek-training-recipe",
+              "resourceId": "gid://shopify/Page/167259635823",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220199023",
+              "title": "Courses & language worlds",
+              "type": "HTTP",
+              "url": "/pages/sydtek-courses",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220264559",
+              "title": "Language worlds",
+              "type": "HTTP",
+              "url": "/pages/sydtek-languages",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220297327",
+              "title": "Classes & progress",
+              "type": "HTTP",
+              "url": "/pages/sydtek-connected-learning",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220330095",
+              "title": "Free learning library",
+              "type": "HTTP",
+              "url": "/pages/free-learning-library",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220362863",
+              "title": "Schools, parents & safeguards",
+              "type": "HTTP",
+              "url": "/pages/transparency-schools",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220428399",
+              "title": "Parents & guardians",
+              "type": "HTTP",
+              "url": "/pages/transparency-parents",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220461167",
+              "title": "Educational status & accreditation evidence",
+              "type": "HTTP",
+              "url": "/pages/sydtek-accreditation",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220493935",
+              "title": "Privacy & safety",
+              "type": "HTTP",
+              "url": "/pages/transparency-privacy-safety",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220526703",
+              "title": "Accessibility",
+              "type": "HTTP",
+              "url": "/pages/transparency-accessibility",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820950892655",
+              "title": "Fundraising",
+              "type": "PAGE",
+              "url": "/pages/education-fundraising",
+              "resourceId": "gid://shopify/Page/167291191407",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820950925423",
+              "title": "SydTek Saints · Athletic fundraiser",
+              "type": "HTTP",
+              "url": "/?view=ew-fundraising",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820950958191",
+              "title": "Laurel · Active build fundraiser",
+              "type": "PAGE",
+              "url": "/pages/laurel-school-fundraiser",
+              "resourceId": "gid://shopify/Page/167291224175",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821238300783",
+              "title": "Laurel learning-world project",
+              "type": "HTTP",
+              "url": "/pages/sydtek-scholars-laurel-roblox",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821238333551",
+              "title": "Laurel learning packages",
+              "type": "HTTP",
+              "url": "/pages/laurel-package-configurator",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821238366319",
+              "title": "Voluntary support",
+              "type": "HTTP",
+              "url": "/pages/sydtek-support",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820220559471",
+      "title": "Sports",
+      "type": "HTTP",
+      "url": "/pages/sydtek-saints",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/820220592239",
+          "title": "Esports · Gamers Guild",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-esports",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220625007",
+          "title": "All sports",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821186723951",
+          "title": "Athletic program fundraiser",
+          "type": "HTTP",
+          "url": "/?view=ew-fundraising",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220657775",
+          "title": "Baseball",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-baseball",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220690543",
+          "title": "Practice Like a Pro™ · Baseball sample",
+          "type": "HTTP",
+          "url": "/pages/play-like-a-pro",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220723311",
+          "title": "Softball · Coach Butler",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-softball",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220756079",
+          "title": "Basketball",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-basketball",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821100937327",
+          "title": "Football · Coach Shank",
+          "type": "PAGE",
+          "url": "/pages/sydtek-saints-football",
+          "resourceId": "gid://shopify/Page/167327465583",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/821204549743",
+          "title": "Golf · Boys & Girls",
+          "type": "PAGE",
+          "url": "/pages/sydtek-saints-golf",
+          "resourceId": "gid://shopify/Page/167339360367",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220788847",
+          "title": "Saints uniforms · One family",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-uniforms",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820939391087",
+          "title": "COACH_SHANK · Football coaching jobs",
+          "type": "PAGE",
+          "url": "/pages/coach-shank",
+          "resourceId": "gid://shopify/Page/167287783535",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820945256559",
+          "title": "BIG_CLIFF · Baseball coaching & scouting jobs",
+          "type": "PAGE",
+          "url": "/pages/big-cliff",
+          "resourceId": "gid://shopify/Page/167289258095",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820952203375",
+          "title": "SYDNEY · Basketball coaching & scouting jobs",
+          "type": "PAGE",
+          "url": "/pages/sydney-basketball",
+          "resourceId": "gid://shopify/Page/167291388015",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820220821615",
+          "title": "All sport programs",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints#sports",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820220854383",
+              "title": "Bat and ball",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-bat-and-ball",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220887151",
+              "title": "Field and invasion",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-field-and-invasion",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220919919",
+              "title": "Court and net",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-court-and-net",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220952687",
+              "title": "Racket and paddle",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-racket-and-paddle",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820220985455",
+              "title": "Track and endurance",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-track-and-endurance",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221018223",
+              "title": "Aquatic and water",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-aquatic-and-water",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221050991",
+              "title": "Combat and fencing",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-combat-and-fencing",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221083759",
+              "title": "Precision and target",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-precision-and-target",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221116527",
+              "title": "Gymnastics and performance",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-gymnastics-and-performance",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221149295",
+              "title": "Wheels winter and outdoor",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-wheels-winter-and-outdoor",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221182063",
+              "title": "Adaptive and para sport",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-adaptive-and-para-sport",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820221214831",
+              "title": "Mind and digital competition",
+              "type": "HTTP",
+              "url": "/pages/sydtek-saints#sports-family-mind-and-digital-competition",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221247599",
+          "title": "Worlds and overseers",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints#world-overseers",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221280367",
+          "title": "War in Heaven",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints#war-in-heaven",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221313135",
+          "title": "Playlists",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints#page-playlists",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221345903",
+          "title": "Founding prices",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-pricing",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221378671",
+          "title": "Student family office",
+          "type": "HTTP",
+          "url": "/pages/sydtek-family-office",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221411439",
+          "title": "Franchises and onsite audits",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-franchise",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221444207",
+          "title": "Cricket",
+          "type": "HTTP",
+          "url": "/pages/sydtek-saints-cricket",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820221476975",
+      "title": "Christ Calling",
+      "type": "HTTP",
+      "url": "/pages/christ-calling-ocean-city",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/820221509743",
+          "title": "Christ Calling — overview",
+          "type": "HTTP",
+          "url": "/pages/christ-calling-ocean-city",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221542511",
+          "title": "Auditions",
+          "type": "HTTP",
+          "url": "/pages/auditions",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221575279",
+          "title": "Baptism & testimony",
+          "type": "HTTP",
+          "url": "/pages/baptism",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221608047",
+          "title": "Ocean City world guide",
+          "type": "HTTP",
+          "url": "/pages/world-ocean-city",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221640815",
+          "title": "My testimony",
+          "type": "HTTP",
+          "url": "/pages/my-testimony",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820221673583",
+          "title": "Daily meditations",
+          "type": "HTTP",
+          "url": "/blogs/enochian-meditations",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820927660143",
+          "title": "Music gigs & opportunities",
+          "type": "PAGE",
+          "url": "/pages/music-gigs",
+          "resourceId": "gid://shopify/Page/167291748463",
+          "tags": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820221902959",
+      "title": "Enterprise",
+      "type": "HTTP",
+      "url": "/pages/enterprise",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/820972060783",
+          "title": "Jobs & Alerts",
+          "type": "PAGE",
+          "url": "/pages/jobs-alerts",
+          "resourceId": "gid://shopify/Page/167296434287",
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820965081199",
+              "title": "Enterprise AI consulting jobs",
+              "type": "PAGE",
+              "url": "/pages/enterprise-ai-consulting-jobs",
+              "resourceId": "gid://shopify/Page/167294894191",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820953120879",
+              "title": "AI gigs & opportunities",
+              "type": "PAGE",
+              "url": "/pages/ai-gigs",
+              "resourceId": "gid://shopify/Page/167291715695",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820927692911",
+              "title": "Speaker & Gig Agent",
+              "type": "PAGE",
+              "url": "/pages/speaker-gig-agent",
+              "resourceId": "gid://shopify/Page/167284867183",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820972093551",
+              "title": "Music gigs & opportunities",
+              "type": "PAGE",
+              "url": "/pages/music-gigs",
+              "resourceId": "gid://shopify/Page/167291748463",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820972126319",
+              "title": "COACH_SHANK · Football jobs",
+              "type": "PAGE",
+              "url": "/pages/coach-shank",
+              "resourceId": "gid://shopify/Page/167287783535",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820972159087",
+              "title": "BIG_CLIFF · Baseball jobs",
+              "type": "PAGE",
+              "url": "/pages/big-cliff",
+              "resourceId": "gid://shopify/Page/167289258095",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820972191855",
+              "title": "SYDNEY · Basketball jobs",
+              "type": "PAGE",
+              "url": "/pages/sydney-basketball",
+              "resourceId": "gid://shopify/Page/167291388015",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820972224623",
+          "title": "Consulting & Delivery",
+          "type": "HTTP",
+          "url": "/pages/enterprise#consulting-delivery",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222066799",
+              "title": "Consulting services",
+              "type": "HTTP",
+              "url": "/pages/consulting-services",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222034031",
+              "title": "Staff augmentation",
+              "type": "HTTP",
+              "url": "/pages/staff-augmentation",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222099567",
+              "title": "Build a world",
+              "type": "HTTP",
+              "url": "/",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820972257391",
+          "title": "AI & Security",
+          "type": "HTTP",
+          "url": "/pages/enterprise#ai-security",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820221968495",
+              "title": "AI due diligence",
+              "type": "HTTP",
+              "url": "/pages/enterprise-ai-due-diligence",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820891484271",
+              "title": "DISASTERPIECE · Security checks",
+              "type": "PAGE",
+              "url": "/pages/disasterpiece",
+              "resourceId": "gid://shopify/Page/167276576879",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222001263",
+              "title": "Agent skills & API information",
+              "type": "HTTP",
+              "url": "/pages/agent-skills-api",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820972290159",
+          "title": "Evidence & Resources",
+          "type": "HTTP",
+          "url": "/pages/enterprise#evidence-resources",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222132335",
+              "title": "References & proof of work",
+              "type": "HTTP",
+              "url": "/pages/proof-of-work",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222165103",
+          "title": "Business inquiry",
+          "type": "HTTP",
+          "url": "/pages/contact",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/MenuItem/820222197871",
+      "title": "Company & Trust",
+      "type": "HTTP",
+      "url": "/pages/company-and-trust",
+      "resourceId": null,
+      "tags": [],
+      "items": [
+        {
+          "id": "gid://shopify/MenuItem/820222230639",
+          "title": "Company & trust — overview",
+          "type": "HTTP",
+          "url": "/pages/company-and-trust",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820238221423",
+          "title": "Education, Founding & Technology Plan",
+          "type": "PAGE",
+          "url": "/pages/sydtek-education-founding-technology-plan",
+          "resourceId": "gid://shopify/Page/167157203055",
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222263407",
+          "title": "About ENOCH WORLD",
+          "type": "HTTP",
+          "url": "/pages/about-enoch-world",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222296175",
+          "title": "Ecosystem directory",
+          "type": "HTTP",
+          "url": "/pages/ecosystem",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222328943",
+          "title": "Research & evidence",
+          "type": "HTTP",
+          "url": "/pages/research-and-provenance",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222361711",
+              "title": "Research & provenance",
+              "type": "HTTP",
+              "url": "/pages/research-and-provenance",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222394479",
+              "title": "GOLGOTHA due-diligence case study",
+              "type": "HTTP",
+              "url": "/pages/golgotha-due-diligence",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222427247",
+              "title": "Abundance experiment",
+              "type": "HTTP",
+              "url": "/pages/ai-abundance-experiment",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222460015",
+              "title": "Proof of work",
+              "type": "HTTP",
+              "url": "/pages/proof-of-work",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/821226963055",
+          "title": "Divine Chain",
+          "type": "PAGE",
+          "url": "/pages/divine-chain",
+          "resourceId": "gid://shopify/Page/166896730223",
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/821226995823",
+              "title": "Architecture",
+              "type": "HTTP",
+              "url": "https://enochworld.com/pages/divine-chain#architecture",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821227028591",
+              "title": "Books and research vision",
+              "type": "HTTP",
+              "url": "https://enochworld.com/pages/divine-chain#book-vision",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821227061359",
+              "title": "DISASTERPIECE security",
+              "type": "PAGE",
+              "url": "/pages/disasterpiece",
+              "resourceId": "gid://shopify/Page/167276576879",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821227094127",
+              "title": "Transaction intent and observers",
+              "type": "HTTP",
+              "url": "https://enochworld.com/pages/divine-chain#intent",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821227126895",
+              "title": "PQC framework and postmortem",
+              "type": "PAGE",
+              "url": "/pages/disasterpiece-post-quantum-framework",
+              "resourceId": "gid://shopify/Page/167344046191",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821227159663",
+              "title": "Tokens and address registry",
+              "type": "HTTP",
+              "url": "https://enochworld.com/pages/divine-chain#token-registry",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/821231681647",
+              "title": "ENOCHIAN MEDITATIONS",
+              "type": "ARTICLE",
+              "url": "/blogs/enochian-meditations/2026-10-30-divine-chain-human-stewardship-web4-era",
+              "resourceId": "gid://shopify/Article/1002531553391",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222492783",
+          "title": "Long-term corporate development",
+          "type": "HTTP",
+          "url": "/pages/company-and-trust#development",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222525551",
+          "title": "Security, privacy & accessibility",
+          "type": "HTTP",
+          "url": "/pages/security-trust",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222558319",
+              "title": "Security & trust",
+              "type": "HTTP",
+              "url": "/pages/security-trust",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820891517039",
+              "title": "DISASTERPIECE · Public evidence",
+              "type": "PAGE",
+              "url": "/pages/disasterpiece",
+              "resourceId": "gid://shopify/Page/167276576879",
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222591087",
+              "title": "Privacy & safety",
+              "type": "HTTP",
+              "url": "/pages/transparency-privacy-safety",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222623855",
+              "title": "Accessibility",
+              "type": "HTTP",
+              "url": "/pages/transparency-accessibility",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222656623",
+          "title": "Roadmap & change history",
+          "type": "HTTP",
+          "url": "/pages/public-roadmap",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222689391",
+              "title": "Public roadmap",
+              "type": "HTTP",
+              "url": "/pages/public-roadmap",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222722159",
+              "title": "Change history",
+              "type": "HTTP",
+              "url": "/pages/transparency-changelog",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222754927",
+          "title": "Adult Web4 resources & disclosures",
+          "type": "HTTP",
+          "url": "/pages/company-and-trust#web4",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222787695",
+          "title": "Referrals & disclosures",
+          "type": "HTTP",
+          "url": "/pages/referrals",
+          "resourceId": null,
+          "tags": [],
+          "items": []
+        },
+        {
+          "id": "gid://shopify/MenuItem/820222820463",
+          "title": "Help, contact & full directory",
+          "type": "HTTP",
+          "url": "/pages/support",
+          "resourceId": null,
+          "tags": [],
+          "items": [
+            {
+              "id": "gid://shopify/MenuItem/820222853231",
+              "title": "Help & support",
+              "type": "HTTP",
+              "url": "/pages/support",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222885999",
+              "title": "Contact",
+              "type": "HTTP",
+              "url": "/pages/contact",
+              "resourceId": null,
+              "tags": []
+            },
+            {
+              "id": "gid://shopify/MenuItem/820222918767",
+              "title": "All website pages",
+              "type": "HTTP",
+              "url": "/pages/enoch-directory",
+              "resourceId": null,
+              "tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

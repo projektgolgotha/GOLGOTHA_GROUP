@@ -1,0 +1,38 @@
+{
+  "pagePublished": true,
+  "hubAtStart": true,
+  "existingBodyPreserved": true,
+  "titleAndTemplatePreserved": true,
+  "educationFirstChild": "SydTek Learn",
+  "educationLeafCount": 26,
+  "allOriginalDestinationsRetained": true,
+  "outsideEducation": [
+    {
+      "title": "Shop",
+      "unchanged": true
+    },
+    {
+      "title": "ROBLOX",
+      "unchanged": true
+    },
+    {
+      "title": "Sports",
+      "unchanged": true
+    },
+    {
+      "title": "Christ Calling",
+      "unchanged": true
+    },
+    {
+      "title": "Enterprise",
+      "unchanged": true
+    },
+    {
+      "title": "Company & Trust",
+      "unchanged": true
+    }
+  ],
+  "mainTheme": "gid://shopify/OnlineStoreTheme/189733863535",
+  "published_anchor_offset_px": 260,
+  "anchor_fix_scoped_to_new_section": true
+}

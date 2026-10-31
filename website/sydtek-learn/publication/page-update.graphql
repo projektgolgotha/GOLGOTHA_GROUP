@@ -1,0 +1,1 @@
+mutation SydTekPageUpdate($id:ID!,$page:PageUpdateInput!){pageUpdate(id:$id,page:$page){page{id handle title templateSuffix isPublished updatedAt}userErrors{field message code}}}

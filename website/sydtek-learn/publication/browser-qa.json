@@ -1,0 +1,117 @@
+{
+  "task": "SydTek Learn public page/menu rendered verification",
+  "agent": "/root/site_verification",
+  "status": "PASS_WITH_NOT_RUN_MOBILE_VIEWPORT",
+  "verified_urls": [
+    "https://enochworld.com/pages/sydtek#sydtek-learn",
+    "https://enochworld.com/",
+    "https://enochworld.com/?view=ew-fundraising"
+  ],
+  "browser": "Cloud Chrome via CUA; public storefront outside preview",
+  "viewport": {
+    "width": 1363,
+    "height": 936
+  },
+  "local_browser": "Unavailable: originating browser context required; public cloud browser used per Browser skill",
+  "checks": [
+    {
+      "name": "Published public page loads with SydTek Learn",
+      "status": "PASS"
+    },
+    {
+      "name": "New hub occurs once before existing learning hub",
+      "status": "PASS"
+    },
+    {
+      "name": "Education first/sole child is SydTek Learn with 26 destination leaves",
+      "status": "PASS",
+      "method": "Expanded rendered menu and DOM"
+    },
+    {
+      "name": "Education menu opens using Enter",
+      "status": "PASS"
+    },
+    {
+      "name": "Tab reaches SydTek Learn and Enter expands nested menu",
+      "status": "PASS"
+    },
+    {
+      "name": "Tab reaches exact HRM-101 playlist link",
+      "status": "PASS"
+    },
+    {
+      "name": "Hub anchor opens exact public URL and heading clears sticky header",
+      "status": "PASS",
+      "scroll_margin_px": 260,
+      "hub_top_px": 260.09375,
+      "heading_top_px": 346.890625
+    },
+    {
+      "name": "All three HRM-101 CTAs match supplied playlist URL",
+      "status": "PASS",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0"
+    },
+    {
+      "name": "Support copy explicitly allows course access without contribution; no forms/inputs",
+      "status": "PASS"
+    },
+    {
+      "name": "Sports tree, SydTek Saints, and Cricket retained",
+      "status": "PASS",
+      "method": "Expanded live menu"
+    },
+    {
+      "name": "Shared header, footer/directory, and ORDER MY STEPS audio controls retained",
+      "status": "PASS"
+    },
+    {
+      "name": "No horizontal overflow on three sampled route families",
+      "status": "PASS",
+      "measurements": [
+        {
+          "route": "/pages/sydtek#sydtek-learn",
+          "scrollWidth": 1363,
+          "clientWidth": 1363
+        },
+        {
+          "route": "/",
+          "scrollWidth": 1348,
+          "clientWidth": 1348
+        },
+        {
+          "route": "/?view=ew-fundraising",
+          "scrollWidth": 1348,
+          "clientWidth": 1348
+        }
+      ]
+    },
+    {
+      "name": "Homepage and fundraising route share new hub link, Sports/Cricket, and music controls",
+      "status": "PASS",
+      "method": "Browser-rendered DOM sample; not a full interactive test of these routes"
+    },
+    {
+      "name": "Mobile viewport rendering and interaction",
+      "status": "NOT_RUN",
+      "reason": "No advertised viewport resizing/device emulation API"
+    }
+  ],
+  "issue_resolved": {
+    "description": "Original100px hub anchor margin let sticky header clip heading",
+    "fix": "Root changed scoped hub margin to260px",
+    "verification": "Fresh public reload, keyboard navigation, computed DOM measurements, screenshot review"
+  },
+  "limitations": [
+    "Video playback not tested",
+    "Donation processing not activated or tested",
+    "No comprehensive screen reader audit",
+    "No full-site or commerce transaction test"
+  ],
+  "modifications": "None by verifier. Only public page inspection and UI navigation.",
+  "screenshots": "Reviewed in browser tool outputs; no screenshot file created",
+  "counts": {
+    "passed": 13,
+    "not_run": 1,
+    "total": 14
+  }
+}

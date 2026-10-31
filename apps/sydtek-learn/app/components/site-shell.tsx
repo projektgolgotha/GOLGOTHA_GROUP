@@ -1,0 +1,5 @@
+import type { ReactNode } from "react";
+import { Link, NavLink } from "react-router";
+export function SiteShell({ children }: { children: ReactNode }) {
+  return <div className="site-shell"><a className="skip-link" href="#main-content">Skip to content</a><header className="site-header"><Link className="brand" to="/" aria-label="SydTek Learn home"><span className="brand-mark">S</span><span>SydTek <strong>Learn</strong><small>A GOLGOTHA GROUP initiative</small></span></Link><nav aria-label="Main navigation"><NavLink to="/learn/hrm-101">Courses</NavLink><NavLink to="/learner">My learning</NavLink><NavLink to="/instructor">For instructors</NavLink><a className="nav-support" href="https://enochworld.com/pages/sydtek-support">Support learning</a></nav></header><main id="main-content">{children}</main><footer className="site-footer"><p><strong>SydTek Learn</strong> · Learn freely. Support voluntarily.</p><p>Public lessons are available without a donation. <a href="https://enochworld.com/pages/sydtek-support">Explore ways to support learning</a>.</p><p className="small">All systems are dedicated to Sydney Goldston.</p></footer></div>;
+}

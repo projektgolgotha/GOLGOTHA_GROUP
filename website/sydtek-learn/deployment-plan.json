@@ -1,0 +1,52 @@
+{
+  "status": "applied_verified_public",
+  "target_storefront": "https://enochworld.com",
+  "page_selector": {
+    "handle": "sydtek",
+    "resource_id": "gid://shopify/Page/166880215151"
+  },
+  "page_change": {
+    "operation": "insert_or_replace_scoped_fragment_at_top",
+    "fragment_file": "hub-fragment.html",
+    "fragment_id": "sydtek-learn",
+    "preserve_existing_page_body": true,
+    "preserve_template": true,
+    "publication_requested": true
+  },
+  "menu_change": {
+    "specification": "navigation-proposal.json",
+    "menu_id": "gid://shopify/Menu/278637936751",
+    "fresh_full_menu_required": true
+  },
+  "blocking_conditions": [],
+  "donations": {
+    "collection_enabled": false,
+    "information_url": "https://enochworld.com/pages/sydtek-support",
+    "recipient_entity": null,
+    "provider": null,
+    "learning_access_requires_payment": false
+  },
+  "rollback": {
+    "capture_current_admin_page_body": true,
+    "capture_full_affected_menu": true,
+    "capture_resource_ids_and_hashes": true,
+    "restore_only_changed_resources_if_authorized": true
+  },
+  "verification": [
+    "Public hub outside preview",
+    "Desktop/mobile/keyboard navigation",
+    "All current education destinations retained",
+    "Sports/SydTek Saints/Cricket retained",
+    "Shared header/footer/music retained",
+    "HRM-101 source link works",
+    "Contribution remains voluntary"
+  ],
+  "verification_status": {
+    "admin_read_back": "PASS",
+    "public_outside_preview": "PASS",
+    "desktop_rendering": "PASS",
+    "keyboard_navigation": "PASS",
+    "mobile_viewport": "NOT_RUN",
+    "dynamic_lms_catalog": "NOT_IMPLEMENTED"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "readScope": "Relevant shared layouts, template, navigation, footer, player, directory and styles; not every theme file",
+  "themes": [
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189434331247",
+      "name": "ENOCH WORLD — Search & Auditions v1.2",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T07:07:20Z",
+      "updatedAt": "2026-10-23T12:06:22Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189444948079",
+      "name": "ENOCH WORLD — Hardened Web4 & PONS v1.3",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T12:10:11Z",
+      "updatedAt": "2026-10-27T13:52:45Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189445374063",
+      "name": "ENOCH WORLD — Copy Trade & Receipts v1.4",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T12:21:05Z",
+      "updatedAt": "2026-10-23T12:54:08Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189462741103",
+      "name": "ENOCH WORLD — K–PhD & ENOCH ONE v2",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T18:53:14Z",
+      "updatedAt": "2026-10-23T19:00:14Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189467230319",
+      "name": "ENOCH WORLD — Languages & Skool navigation",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T20:40:43Z",
+      "updatedAt": "2026-10-24T00:34:40Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189471457391",
+      "name": "ENOCH WORLD — Christ Calling 2026 Venue",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T22:48:39Z",
+      "updatedAt": "2026-10-23T22:51:07Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189471621231",
+      "name": "ENOCH WORLD — v1.5.1 SEO & Audio Fixes",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-23T22:52:10Z",
+      "updatedAt": "2026-10-25T00:17:20Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189475291247",
+      "name": "ENOCH WORLD — Christ Calling 2026 Venue v2",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T00:55:08Z",
+      "updatedAt": "2026-10-24T04:31:00Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189475815535",
+      "name": "ENOCH — Security First Navigation Review",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T01:15:44Z",
+      "updatedAt": "2026-10-24T01:23:44Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189481943151",
+      "name": "ENOCH WORLD - Regular Hyphens Review - 2026-10-24",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T04:39:20Z",
+      "updatedAt": "2026-10-24T04:42:43Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189485056111",
+      "name": "ENOCH WORLD — v1.5.2 Music & Motion",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T06:42:13Z",
+      "updatedAt": "2026-10-24T06:45:58Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189515235439",
+      "name": "ENOCH WORLD - Saints navigation and playlists",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T20:07:22Z",
+      "updatedAt": "2026-10-24T20:39:18Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189520150639",
+      "name": "ENOCH WORLD - THE CANON review 2026-10-24",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-24T22:27:33Z",
+      "updatedAt": "2026-10-24T22:30:29Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189522673775",
+      "name": "ENOCH WORLD - Sports and Christ Calling dropdow...",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-25T00:06:56Z",
+      "updatedAt": "2026-10-25T03:55:09Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189525590127",
+      "name": "ENOCH WORLD — MASTER 2026-10-27",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-25T02:16:02Z",
+      "updatedAt": "2026-10-28T02:09:22Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189544824943",
+      "name": "ENOCH WORLD — MASTER Enter the Gate",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-25T11:48:46Z",
+      "updatedAt": "2026-10-28T14:56:05Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189699752047",
+      "name": "ENOCH WORLD — MASTER Navigation & Fundraising",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-28T02:14:08Z",
+      "updatedAt": "2026-10-28T17:41:13Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189700178031",
+      "name": "ENOCH WORLD — ROBLOX School Company Navigation",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-28T02:23:00Z",
+      "updatedAt": "2026-10-28T02:29:24Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189733863535",
+      "name": "ENOCH WORLD — MASTER Wakaboomee Fundraising",
+      "role": "MAIN",
+      "createdAt": "2026-10-28T15:20:39Z",
+      "updatedAt": "2026-10-28T17:41:13Z",
+      "processing": false,
+      "processingFailed": false
+    },
+    {
+      "id": "gid://shopify/OnlineStoreTheme/189815685231",
+      "name": "ENOCH WORLD — MASTER Maintenance Oct 30",
+      "role": "UNPUBLISHED",
+      "createdAt": "2026-10-30T00:18:52Z",
+      "updatedAt": "2026-10-30T20:16:23Z",
+      "processing": false,
+      "processingFailed": false
+    }
+  ],
+  "sharedSource": {
+    "main": {
+      "id": "gid://shopify/OnlineStoreTheme/189733863535",
+      "name": "ENOCH WORLD — MASTER Wakaboomee Fundraising",
+      "role": "MAIN",
+      "files": {
+        "layout/enoch-unified.liquid": {
+          "checksumMd5": "11699f36e032b23bcdd7d450594feb20"
+        },
+        "layout/enoch.liquid": {
+          "checksumMd5": "5ce5d36bff695604a19f6a70343d7390"
+        },
+        "layout/theme.liquid": {
+          "checksumMd5": "4b42c4ae384e9dd62d7c807efc2359c2"
+        },
+        "snippets/ew-institutional-navigation.liquid": {
+          "checksumMd5": "cd7e43c51abb92fe4966194c828ea3f9"
+        },
+        "templates/index.liquid": {
+          "checksumMd5": "f274702ba6afd391a93485664b231894"
+        },
+        "templates/page.ew-learning.liquid": {
+          "checksumMd5": "5f0d009bbe42f69c49f2ecb9c9de74df"
+        },
+        "assets/enoch-learning.css": {
+          "checksumMd5": "b6a77c846df54177426bdd9ec07331f5"
+        },
+        "assets/ew2027.css": {
+          "checksumMd5": "20e9587f3fc63d303f6cdd8998638d5c"
+        },
+        "assets/ew2027.js": {
+          "checksumMd5": "039a6ebb5d1e82b5786a442e0077464e"
+        },
+        "snippets/ew2027-directory-data.liquid": {
+          "checksumMd5": "d3e8a08e6e567cff2f3d187affb8504c"
+        },
+        "snippets/ew2027-footer.liquid": {
+          "checksumMd5": "8f6e0c71aa1db85124e82d89d8f8f700"
+        },
+        "snippets/ew2027-header.liquid": {
+          "checksumMd5": "57613fedb08895e1098c09ee459103df"
+        },
+        "snippets/ew2027-player.liquid": {
+          "checksumMd5": "dd32cc9e6474b2e5a6f2eb3fd8059faa"
+        }
+      }
+    },
+    "draft": {
+      "id": "gid://shopify/OnlineStoreTheme/189815685231",
+      "name": "ENOCH WORLD — MASTER Maintenance Oct 30",
+      "role": "UNPUBLISHED",
+      "files": {
+        "layout/enoch-unified.liquid": {
+          "checksumMd5": "11699f36e032b23bcdd7d450594feb20"
+        },
+        "layout/enoch.liquid": {
+          "checksumMd5": "5ce5d36bff695604a19f6a70343d7390"
+        },
+        "layout/theme.liquid": {
+          "checksumMd5": "4b42c4ae384e9dd62d7c807efc2359c2"
+        },
+        "snippets/ew-institutional-navigation.liquid": {
+          "checksumMd5": "cd7e43c51abb92fe4966194c828ea3f9"
+        },
+        "templates/index.liquid": {
+          "checksumMd5": "f274702ba6afd391a93485664b231894"
+        },
+        "templates/page.ew-learning.liquid": {
+          "checksumMd5": "5f0d009bbe42f69c49f2ecb9c9de74df"
+        },
+        "assets/enoch-learning.css": {
+          "checksumMd5": "b6a77c846df54177426bdd9ec07331f5"
+        },
+        "assets/ew2027.css": {
+          "checksumMd5": "20e9587f3fc63d303f6cdd8998638d5c"
+        },
+        "assets/ew2027.js": {
+          "checksumMd5": "039a6ebb5d1e82b5786a442e0077464e"
+        },
+        "snippets/ew2027-directory-data.liquid": {
+          "checksumMd5": "4e5e04bd48571bf0c5df051e89859977"
+        },
+        "snippets/ew2027-footer.liquid": {
+          "checksumMd5": "8f6e0c71aa1db85124e82d89d8f8f700"
+        },
+        "snippets/ew2027-header.liquid": {
+          "checksumMd5": "4301451a2ff34b12cffa60db2d9538a6"
+        },
+        "snippets/ew2027-player.liquid": {
+          "checksumMd5": "dd32cc9e6474b2e5a6f2eb3fd8059faa"
+        }
+      }
+    }
+  }
+}

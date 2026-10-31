@@ -1,0 +1,146 @@
+{
+  "status": "applied",
+  "target_site": "https://enochworld.com",
+  "existing_parent_label": "Education",
+  "new_first_child": {
+    "title": "SydTek Learn",
+    "url": "/pages/sydtek#sydtek-learn",
+    "items": [
+      {
+        "title": "Start HRM-101",
+        "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0"
+      },
+      {
+        "title": "SydTek education overview",
+        "url": "/pages/sydtek",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Future of education \u00b7 Dataset explainer",
+        "url": "/pages/education-future-built-together",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "SydTek Scholars \u2014 Pre-K\u201312",
+        "url": "/pages/sydtek-scholars",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "SydTek University \u2014 higher education development",
+        "url": "/pages/sydtek-university",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "SydTek Seminary",
+        "url": "/pages/sydtek-seminary",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Trade school & progress",
+        "url": "/pages/sydtek-trade-school-ai-age",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Progress tracker",
+        "url": "/pages/sydtek-trade-school-progress",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Industry & skills \u2014 nationwide",
+        "url": "/pages/sydtek-industry-skills",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Ocean City pilot",
+        "url": "/pages/sydtek-ocean-city-pilot",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Teaching recipe & packet",
+        "url": "/pages/sydtek-training-recipe",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Courses & language worlds",
+        "url": "/pages/sydtek-courses",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Language worlds",
+        "url": "/pages/sydtek-languages",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Classes & progress",
+        "url": "/pages/sydtek-connected-learning",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Free learning library",
+        "url": "/pages/free-learning-library",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Schools, parents & safeguards",
+        "url": "/pages/transparency-schools",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Parents & guardians",
+        "url": "/pages/transparency-parents",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Educational status & accreditation evidence",
+        "url": "/pages/sydtek-accreditation",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Privacy & safety",
+        "url": "/pages/transparency-privacy-safety",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Accessibility",
+        "url": "/pages/transparency-accessibility",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Fundraising",
+        "url": "/pages/education-fundraising",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "SydTek Saints \u00b7 Athletic fundraiser",
+        "url": "/?view=ew-fundraising",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Laurel \u00b7 Active build fundraiser",
+        "url": "/pages/laurel-school-fundraiser",
+        "preserve_existing_resource_identity": true
+      },
+      {
+        "title": "Laurel learning-world project",
+        "url": "/pages/sydtek-scholars-laurel-roblox"
+      },
+      {
+        "title": "Laurel learning packages",
+        "url": "/pages/laurel-package-configurator"
+      },
+      {
+        "title": "Voluntary support",
+        "url": "/pages/sydtek-support"
+      }
+    ]
+  },
+  "group_existing_education_descendants_under_new_child": true,
+  "preserve_all_existing_destination_urls": true,
+  "flatten_to_supported_depth": true,
+  "other_top_level_branches": "preserve_unchanged",
+  "observed_unique_education_destinations": 22,
+  "requires_fresh_admin_menu_and_renderer_read": true,
+  "actual_menu_snapshot": "publication/menu-published.json",
+  "authenticated_existing_entries": 26,
+  "consolidated_duplicate_menu_entries": 4
+}

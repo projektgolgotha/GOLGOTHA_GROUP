@@ -1,0 +1,123 @@
+{
+  "source": "https://enochworld.com/",
+  "captured_date": "2026-10-30",
+  "html_sha256": "c78a11f4450c586765bc8859c541b091d17047ea3fe00ccf16602f9f1bb3387a",
+  "observed_published_theme": {
+    "name": "ENOCH WORLD \u2014 MASTER Wakaboomee Fundraising",
+    "id": 189733863535,
+    "schema_name": "Horizon",
+    "schema_version": "4.3.0",
+    "theme_store_id": null,
+    "role": "main"
+  },
+  "education_links": [
+    {
+      "title": "Education",
+      "url": "/pages/sydtek"
+    },
+    {
+      "title": "SydTek \u2014 education overview",
+      "url": "/pages/sydtek"
+    },
+    {
+      "title": "Future of education \u00b7 Dataset explainer",
+      "url": "/pages/education-future-built-together"
+    },
+    {
+      "title": "SydTek Scholars \u2014 Pre-K\u201312",
+      "url": "/pages/sydtek-scholars"
+    },
+    {
+      "title": "SydTek University \u2014 higher education development",
+      "url": "/pages/sydtek-university"
+    },
+    {
+      "title": "SydTek Seminary",
+      "url": "/pages/sydtek-seminary"
+    },
+    {
+      "title": "Trade school & progress",
+      "url": "/pages/sydtek-trade-school-ai-age"
+    },
+    {
+      "title": "Trade-school overview",
+      "url": "/pages/sydtek-trade-school-ai-age"
+    },
+    {
+      "title": "Progress tracker",
+      "url": "/pages/sydtek-trade-school-progress"
+    },
+    {
+      "title": "Industry & skills \u2014 nationwide",
+      "url": "/pages/sydtek-industry-skills"
+    },
+    {
+      "title": "Nationwide framework",
+      "url": "/pages/sydtek-industry-skills"
+    },
+    {
+      "title": "Ocean City pilot",
+      "url": "/pages/sydtek-ocean-city-pilot"
+    },
+    {
+      "title": "Teaching recipe & packet",
+      "url": "/pages/sydtek-training-recipe"
+    },
+    {
+      "title": "Courses & language worlds",
+      "url": "/pages/sydtek-courses"
+    },
+    {
+      "title": "Courses",
+      "url": "/pages/sydtek-courses"
+    },
+    {
+      "title": "Language worlds",
+      "url": "/pages/sydtek-languages"
+    },
+    {
+      "title": "Classes & progress",
+      "url": "/pages/sydtek-connected-learning"
+    },
+    {
+      "title": "Free learning library",
+      "url": "/pages/free-learning-library"
+    },
+    {
+      "title": "Schools, parents & safeguards",
+      "url": "/pages/transparency-schools"
+    },
+    {
+      "title": "School evaluation",
+      "url": "/pages/transparency-schools"
+    },
+    {
+      "title": "Parents & guardians",
+      "url": "/pages/transparency-parents"
+    },
+    {
+      "title": "Educational status & accreditation evidence",
+      "url": "/pages/sydtek-accreditation"
+    },
+    {
+      "title": "Privacy & safety",
+      "url": "/pages/transparency-privacy-safety"
+    },
+    {
+      "title": "Accessibility",
+      "url": "/pages/transparency-accessibility"
+    },
+    {
+      "title": "Fundraising",
+      "url": "/pages/education-fundraising"
+    },
+    {
+      "title": "SydTek Saints \u00b7 Athletic fundraiser",
+      "url": "/?view=ew-fundraising"
+    },
+    {
+      "title": "Laurel \u00b7 Active build fundraiser",
+      "url": "/pages/laurel-school-fundraiser"
+    }
+  ]
+}
