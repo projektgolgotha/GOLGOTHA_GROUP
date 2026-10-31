@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "project": "SydTek Seminary",
   "release": "Accreditation Navigator + FAQ + Ask ENOCH retrieval",
   "released_at": "2026-10-31T03:16:06Z",
@@ -41,7 +41,28 @@
     "supplement_sha256": "74dbbb4900151b2120d2ba8a5b39b248099aa35864d6d1eaa2f55ad7791a1856",
     "shopify_cdn_file": "ask-enoch-seminary-supplement-v1.js",
     "global_script_tag_status": "not enabled; connected Shopify app lacks write_script_tags scope",
-    "implemented_scope": "Dedicated Ask ENOCH Seminary page loads the supplement and provides a self-contained FAQ retrieval interface."
+    "implemented_scope": "Dedicated Ask ENOCH Seminary page loads the supplement, provides its own FAQ retrieval interface, and enriches the shared header-level Ask ENOCH component on that page."
+  },
+  "verification": {
+    "public_readback": {
+      "navigator": "PASS",
+      "faq": "PASS",
+      "ask_enoch_seminary": "PASS",
+      "dataset_collection": "PASS"
+    },
+    "dedicated_retrieval_test": {
+      "query": "Is SydTek Seminary accredited?",
+      "result": "PASS",
+      "grounded_answers": 5,
+      "first_answer": "No. SydTek Seminary is currently in noncredit curriculum and institutional-development status; no accreditation award, applicant status, candidate status, degree authority or transferable academic credit is claimed."
+    },
+    "shared_header_ask_enoch_test": {
+      "query": "What is the SydTek Seminary accreditation path?",
+      "result": "PASS",
+      "published_answers": 4,
+      "related_pages": 6,
+      "first_answer": "The Accreditation Navigator separates completed curriculum and evidence from the legal, governance, faculty, student-record, financial, operating-history and external-review gates still required."
+    }
   },
   "important_limits": [
     "Accreditation requirements can change and must be confirmed with the responsible authority and accreditor.",
