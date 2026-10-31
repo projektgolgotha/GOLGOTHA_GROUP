@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "release_id": "FR-OT-01",
+  "checked_at": "2026-10-31",
+  "status": "PASS_WITH_ACADEMIC_DECISIONS_PENDING",
+  "checks": {
+    "course_files_present": {
+      "result": "PASS",
+      "expected": [
+        "SEM-102_ISRAELS_HISTORY_AND_RESTORATION.md",
+        "SEM-103_ENOCH_JUBILEES_MEQABYAN.md",
+        "SEM-104_WISDOM_PRAYER_FORMATION.md",
+        "SEM-105_MAJOR_PROPHETS.md",
+        "SEM-106_TWELVE_PROPHETS.md"
+      ]
+    },
+    "remaining_old_testament_registry_coverage": {
+      "result": "PASS",
+      "units_in_sem_102_through_106": 38,
+      "unique_units": 38,
+      "missing_from_assigned_scope": [],
+      "duplicate_assignments": []
+    },
+    "complete_old_testament_delivery_map_with_sem_101": {
+      "result": "PASS",
+      "expected_range": "OT-01 through OT-46",
+      "mapped_units": 46,
+      "unique_units": 46,
+      "missing_units": [],
+      "duplicate_units": [],
+      "extra_units": []
+    },
+    "planning_hours": {
+      "sem_102_through_106": 188,
+      "sem_101_through_106": 228,
+      "qualification": "Editorial workload estimates only; not academic credits, attendance, or validated completion time."
+    },
+    "review_controls": {
+      "result": "PASS",
+      "faculty_review_instrument_present": true,
+      "machine_readable_register_present": true,
+      "status_language_says_not_adopted": true,
+      "high_risk_text_identity_decisions_visible": true,
+      "credit_or_accreditation_claim_created": false
+    }
+  },
+  "academic_decisions_still_pending": [
+    "primary editions and exact reading scopes",
+    "ambiguous text identities and grouped-corpus boundaries",
+    "candidate teaching-source review",
+    "faculty qualifications and appointments",
+    "library and learning-resource sufficiency",
+    "accessibility and learner-support review",
+    "assessment moderation and secure academic records",
+    "controlled pilot evidence and workload validation"
+  ]
+}
