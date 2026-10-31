@@ -1,0 +1,40 @@
+{
+  "observedAt": "2026-10-31T02:03:49.117Z",
+  "checks": {
+    "sydtek-seminary": {
+      "id": "gid://shopify/Page/166882574447",
+      "isPublished": true,
+      "templateSuffix": "ew-learning",
+      "updatedAt": "2026-10-31T02:02:18Z",
+      "exactBody": false,
+      "normalizedBody": true,
+      "bodyChars": 54081,
+      "candidateChars": 53278
+    },
+    "sydtek": {
+      "id": "gid://shopify/Page/166880215151",
+      "isPublished": true,
+      "templateSuffix": "ew-learning",
+      "updatedAt": "2026-10-31T02:02:23Z",
+      "exactBody": false,
+      "normalizedBody": true,
+      "bodyChars": 46319,
+      "candidateChars": 46302
+    },
+    "menuUnchanged": true,
+    "themeInventoryUnchanged": false,
+    "activeThemeUnchanged": true,
+    "relevantDraftTemplateUnchanged": true,
+    "draftMetadataChangeObserved": {
+      "themeId": "gid://shopify/OnlineStoreTheme/189815685231",
+      "before": "2026-10-30T20:16:23Z",
+      "after": "2026-10-31T01:58:05Z",
+      "themeWritesByThisDelivery": 0
+    }
+  },
+  "notes": [
+    "Published HTML differs only in whitespace between tags from the prepared bodies.",
+    "The maintenance draft metadata timestamp changed independently; active identity/role and inspected live/draft template files remain identical.",
+    "No menu or theme mutations were made."
+  ]
+}

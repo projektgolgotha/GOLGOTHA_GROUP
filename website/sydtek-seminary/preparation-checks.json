@@ -7,11 +7,11 @@
     "text_identity_review": 13,
     "no_candidate_identified": 3
   },
-  "skool_publication_verified": false,
+  "skool_publication_verified": true,
   "hub_baseline_preserved_exactly": true,
   "menu_change_required": false,
   "theme_file_changes": [],
   "intended_page_template": "ew-learning",
-  "page_candidate_sha256": "aaee03dd7410c216e3b6ac286284c71bf44c3364e53897836bc0764af57d0441",
-  "hub_candidate_sha256": "9d64caae912cabf5b16e2011f6cf5aeed1877757baf660b480e877011cbb8394"
+  "page_candidate_sha256": "7601e6091b8310344cbf9209673f739e7b5c6bdf94c25a124384722e4b3711fb",
+  "hub_candidate_sha256": "a03a7844ff736dd546f0743be45783a84dd91dc92d1a9b702124a04ada6952fb"
 }

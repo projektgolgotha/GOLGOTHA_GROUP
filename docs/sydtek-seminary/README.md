@@ -2,6 +2,12 @@
 
 This package develops an 81-entry study pathway within the existing **ECS-300 Certificate in Ethiopian Canon Studies** institutional design. It is a **noncredit curriculum release**. This build does not confer accreditation, degree authority, ordination, or an academic award.
 
+## Current release
+
+The [SydTek Seminary classroom](https://www.skool.com/ai-at-work-101-7709/classroom/4fca2aef?md=120c886478f8447fb72c96e10bd7661e) is published in the existing Academy with **nine substantive pages**: a welcome, four orientation lessons, a formative study check, its explanatory answer key, an 81-entry canon map, and a Genesis–Ruth pilot guide. All-member access was verified in Skool's Standard member preview. The [ENOCH WORLD Seminary page](https://enochworld.com/pages/sydtek-seminary) and the education-hub feature are live.
+
+The remainder of the twelve-part survey is a course outline and resource map. Detailed readings, assessments, faculty adoption, the distinct history requirement, and institutional evidence still need the academic development described below.
+
 ## Start here
 
 - [SEM-000 orientation](SEM-000_ORIENTATION.md): four lessons, activities, a formative study check, and a first portfolio.
@@ -18,7 +24,7 @@ This package develops an 81-entry study pathway within the existing **ECS-300 Ce
 - [`curriculum-manifest.json`](../../content/sydtek-seminary/canon/curriculum-manifest.json): twelve delivery parts and estimated workload.
 - [Source inventory](../../content/sydtek-seminary/sources/README.md): 118 public playlists, one individually identified John video, screenshot evidence, alternate collections, and exact-text review gaps.
 - [Website source](../../website/sydtek-seminary/README.md): generated page, source checks, rollback, and publication records.
-- Skool classroom materials and observed publication evidence are recorded in the final delivery receipt.
+- [Skool delivery](skool/README.md): published classroom content backup and observed access/publication evidence.
 
 ## Destinations
 

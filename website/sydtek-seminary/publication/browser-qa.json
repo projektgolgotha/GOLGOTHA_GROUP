@@ -1,0 +1,202 @@
+{
+  "schema_version": "1.0",
+  "reviewer": "seminary_sources independent child agent",
+  "reviewed_at": "2026-10-31T02:08:21.678604+00:00",
+  "overall_status": "PASS",
+  "scope": "Independent public desktop-browser QA after root-confirmed publication; read-only DOM inspection plus ordinary course disclosure, anchor, navigation, keyboard, and scrolling interactions.",
+  "root_reported_publication_timestamps": {
+    "seminary": "2026-10-31T02:02:18Z",
+    "education_hub": "2026-10-31T02:02:23Z"
+  },
+  "browser": {
+    "surface": "cloud Chrome",
+    "tab_id": "47",
+    "skool_editing_tab_46_not_used": true,
+    "viewport": {
+      "width": 1363,
+      "height": 936
+    },
+    "local_extension_unavailable": true,
+    "fallback": "Browser skill permitted public cloud-browser fallback"
+  },
+  "checks": [
+    {
+      "check": "published_seminary_rendered",
+      "status": "PASS",
+      "evidence": {
+        "url": "https://enochworld.com/pages/sydtek-seminary",
+        "observed_title": "SydTek Seminary | Ethiopian Canon Studies – ENOCH WORLD",
+        "new_content_visible": true,
+        "noncredit_and_unestablished_accreditation_award_language_visible": true
+      }
+    },
+    {
+      "check": "81_canon_units_exactly_once_live_dom",
+      "status": "PASS",
+      "evidence": {
+        "unit_count": 81,
+        "distinct_unit_count": 81,
+        "old_testament_units": 46,
+        "new_testament_units": 35
+      }
+    },
+    {
+      "check": "live_source_gating",
+      "status": "PASS",
+      "evidence": {
+        "units_with_direct_links": 65,
+        "exact_text_review_units_without_links": 13,
+        "resource_preparation_units_without_links": 3,
+        "candidate_source_mapping_fnv1a32": "f0e4f67",
+        "live_source_mapping_fnv1a32": "f0e4f67",
+        "comparison_scope": "Every unit ID and its ordered descendant link destinations were compared through a deterministic checksum; this is an integrity comparison, not a cryptographic security claim."
+      }
+    },
+    {
+      "check": "live_link_targets_match_current_candidate",
+      "status": "PASS",
+      "evidence": {
+        "page_link_count": 109,
+        "candidate_resolved_link_fnv1a32": "c847d3b6",
+        "live_link_fnv1a32": "c847d3b6",
+        "internal_anchor_resolution": "Candidate fragment links were resolved against https://enochworld.com/pages/sydtek-seminary before comparison. External URLs remain unchanged.",
+        "skool_welcome_url": "https://www.skool.com/ai-at-work-101-7709/classroom/4fca2aef?md=120c886478f8447fb72c96e10bd7661e",
+        "skool_welcome_link_count": 3
+      }
+    },
+    {
+      "check": "excluded_mixed_topic_collection_absent",
+      "status": "PASS",
+      "evidence": {
+        "excluded_playlist_id": "PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+        "live_link_found": false
+      }
+    },
+    {
+      "check": "all_12_course_disclosures_open",
+      "status": "PASS",
+      "evidence": {
+        "opened_course_count": 12,
+        "course_ids": [
+          "sem-000",
+          "sem-101",
+          "sem-102",
+          "sem-103",
+          "sem-104",
+          "sem-105",
+          "sem-106",
+          "sem-107",
+          "sem-108",
+          "sem-109",
+          "sem-110",
+          "sem-199"
+        ],
+        "method": "Actual summary-control interactions; open state read from the live DOM."
+      }
+    },
+    {
+      "check": "keyboard_course_and_link_navigation",
+      "status": "PASS",
+      "evidence": {
+        "enter_opens_sem_101": true,
+        "enter_closes_sem_101": true,
+        "tab_reaches_syllabus_link": true,
+        "native_tab_reaches_genesis_resource": true,
+        "focus_visible": true,
+        "focus_outline_width": "3px",
+        "focus_outline_style": "solid",
+        "observed_syllabus_focus_rect": {
+          "top": 458.015625,
+          "bottom": 478.015625
+        },
+        "observed_genesis_focus_rect": {
+          "top": 590.1875,
+          "bottom": 607.1875
+        },
+        "viewport_height": 936
+      }
+    },
+    {
+      "check": "desktop_horizontal_overflow",
+      "status": "PASS",
+      "evidence": {
+        "viewport_width": 1363,
+        "viewport_height": 936,
+        "seminary_document_scroll_width": 1363,
+        "seminary_body_scroll_width": 1363,
+        "seminary_component_scroll_width": 1178,
+        "seminary_component_client_width": 1178,
+        "hub_document_scroll_width": 1363,
+        "hub_body_scroll_width": 1363,
+        "seminary_test_state": "All twelve course sections open"
+      }
+    },
+    {
+      "check": "sticky_header_and_heading_visibility",
+      "status": "PASS",
+      "evidence": {
+        "seminary_hero": "Visually inspected after reload; title was below the site header.",
+        "study_map_anchor": "Clicked Explore the 81-book study map; the course-pathway heading and explanatory text were visible below the sticky header.",
+        "hub_feature_heading_top_px": 445.90625,
+        "hub_sticky_header_bottom_px": 222.09375,
+        "hub_feature_heading_not_obscured": true,
+        "screenshot_inspection": "Public page and hub screenshots were inspected in the cloud-browser tool output; screenshots were not exported as files."
+      }
+    },
+    {
+      "check": "education_hub_feature_order_and_destinations",
+      "status": "PASS",
+      "evidence": {
+        "url": "https://enochworld.com/pages/sydtek#sydtek-learn",
+        "observed_title": "SydTek | A K-PhD Learning Vision – ENOCH WORLD",
+        "feature_order": [
+          "stl-hrm-101",
+          "stl-seminary"
+        ],
+        "first_feature_title": "Introduction to Human Resource Management",
+        "hrm_playlist_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S1ptnw-a0Q030421d6jHd0",
+        "seminary_feature_url": "https://enochworld.com/pages/sydtek-seminary",
+        "seminary_feature_skool_url": "https://www.skool.com/ai-at-work-101-7709/classroom/4fca2aef?md=120c886478f8447fb72c96e10bd7661e",
+        "both_seminary_feature_buttons_visually_visible": true
+      }
+    },
+    {
+      "check": "existing_education_menu_operates",
+      "status": "PASS",
+      "evidence": {
+        "education_menu_visible": true,
+        "native_accessibility_click_expanded_menu": true,
+        "sydtek_learn_submenu_visually_present": true,
+        "note": "The generic Playwright button-role lookup did not match this menu; the native accessibility control succeeded. No menu or theme edits were made."
+      }
+    },
+    {
+      "check": "final_static_source_qa_refreshed",
+      "status": "PASS",
+      "evidence": {
+        "report": "../source-qa.json",
+        "checks_passed": 14,
+        "checks_not_run": 3,
+        "page_candidate_sha256": "7601e6091b8310344cbf9209673f739e7b5c6bdf94c25a124384722e4b3711fb",
+        "hub_candidate_sha256": "a03a7844ff736dd546f0743be45783a84dd91dc92d1a9b702124a04ada6952fb",
+        "note": "The separate static report retains its original scope; this browser report supplies the live-browser checks."
+      }
+    },
+    {
+      "check": "mobile_viewport_validation",
+      "status": "NOT_RUN",
+      "reason": "No viewport resize or mobile emulation capability is advertised by this browser connection. No page CSS or browser fingerprint was altered to simulate a mobile device."
+    },
+    {
+      "check": "exhaustive_external_endpoint_availability",
+      "status": "NOT_RUN",
+      "reason": "All rendered destinations were compared with the verified source manifest/current candidate. The reviewer did not open or health-check every external YouTube, GitHub, or institutional endpoint."
+    }
+  ],
+  "findings": [],
+  "limitations": [
+    "This confirms the reviewed desktop rendering and interactions, not substantive teaching completeness or accreditation.",
+    "Skool publishing and account-state verification are owned by the Skool agent; this review confirms the public pages use the supplied published welcome URL."
+  ],
+  "content_or_account_writes_performed": false
+}

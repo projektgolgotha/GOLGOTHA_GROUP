@@ -1,0 +1,61 @@
+{
+  "checks": {
+    "live": {
+      "sameThemeId": true,
+      "sameRole": true,
+      "checkedFiles": [
+        {
+          "filename": "layout/theme.liquid",
+          "checksumMd5": "4b42c4ae384e9dd62d7c807efc2359c2",
+          "unchanged": true
+        },
+        {
+          "filename": "sections/main-page.liquid",
+          "checksumMd5": "0c217bd3bbb0d1be7d6ee85fd3668337",
+          "unchanged": true
+        },
+        {
+          "filename": "templates/page.ew-learning.liquid",
+          "checksumMd5": "5f0d009bbe42f69c49f2ecb9c9de74df",
+          "unchanged": true
+        },
+        {
+          "filename": "templates/page.json",
+          "checksumMd5": "eb9984ce584bd0df3a0af0a16abd22fd",
+          "unchanged": true
+        }
+      ],
+      "updatedAtBefore": "2026-10-28T17:41:13Z",
+      "updatedAtAfter": "2026-10-28T17:41:13Z"
+    },
+    "draft": {
+      "sameThemeId": true,
+      "sameRole": true,
+      "checkedFiles": [
+        {
+          "filename": "layout/theme.liquid",
+          "checksumMd5": "4b42c4ae384e9dd62d7c807efc2359c2",
+          "unchanged": true
+        },
+        {
+          "filename": "sections/main-page.liquid",
+          "checksumMd5": "0c217bd3bbb0d1be7d6ee85fd3668337",
+          "unchanged": true
+        },
+        {
+          "filename": "templates/page.ew-learning.liquid",
+          "checksumMd5": "5f0d009bbe42f69c49f2ecb9c9de74df",
+          "unchanged": true
+        },
+        {
+          "filename": "templates/page.json",
+          "checksumMd5": "eb9984ce584bd0df3a0af0a16abd22fd",
+          "unchanged": true
+        }
+      ],
+      "updatedAtBefore": "2026-10-30T20:16:23Z",
+      "updatedAtAfter": "2026-10-31T01:58:05Z"
+    }
+  },
+  "note": "An unrelated maintenance draft metadata timestamp advanced during this session. This delivery made no theme mutation. The active theme identity, role, and inspected files were read again after the page updates."
+}

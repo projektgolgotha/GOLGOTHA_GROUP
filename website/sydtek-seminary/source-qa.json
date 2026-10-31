@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0",
   "reviewer": "seminary_sources independent child agent",
-  "reviewed_at": "2026-10-31T01:52:30.798605+00:00",
+  "reviewed_at": "2026-10-31T02:02:37.079972+00:00",
   "scope": "Static independent source-integrity QA of generated Seminary page, bounded Education hub insertion, generator source, curriculum and preparation manifests.",
   "overall_status": "PASS",
   "reviewed_file_sha256": {
-    "page-candidate.html": "aaee03dd7410c216e3b6ac286284c71bf44c3364e53897836bc0764af57d0441",
-    "hub-candidate.html": "9d64caae912cabf5b16e2011f6cf5aeed1877757baf660b480e877011cbb8394",
-    "hub-feature.html": "ea33614f77710534b410ff3c82f248ed1c148f0f572e0c31ef96250892c9fe75",
+    "page-candidate.html": "7601e6091b8310344cbf9209673f739e7b5c6bdf94c25a124384722e4b3711fb",
+    "hub-candidate.html": "a03a7844ff736dd546f0743be45783a84dd91dc92d1a9b702124a04ada6952fb",
+    "hub-feature.html": "420054bc817ab18b3deac327be365d9e718d3e1e06e43200b55903e67edaca54",
     "build_site.py": "af641100ea5e752f99dbeb5e0e94790910ab065d00c7b4d7c746a0c0aacc5add",
-    "site-config.json": "a5b88e29c74bfa7a034a0bdf79ed4b02f203cd05005a83d7e59faf0d862732e8",
-    "preparation-checks.json": "69a9ad2715f54d07f8f438e4e80dd58fa9a3925fac75607fd8d02b3cf856667d",
+    "site-config.json": "46de18178dce09e2dd027530950eea49468865a3d538ac14a656070ae018f116",
+    "preparation-checks.json": "b20d20017d33e2ba63fabe061045021d9a4d6a6339366b36ec978337fbd6aa7e",
     "rollback/sydtek-before.html": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042",
     "rollback/sydtek-seminary-before.html": "47fa28d57d4725e85c8cc124405d714996041092b5901ec596effaf8b18a4696"
   },

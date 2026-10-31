@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "project": "SydTek Seminary",
+  "task": "SEM-001 and SEM-002 first noncredit release",
+  "recorded_at": "2026-10-31T02:10:09.020505+00:00",
+  "delivery_status": "published_first_learning_release_with_academic_development_pack",
+  "source_checkpoint": {
+    "repository": "projektgolgotha/GOLGOTHA_GROUP",
+    "commit": "4afa98803e023b7caa80c4ad94791e5c9f29ce15",
+    "tree": "cf1993e97b5da51dd6ddc46769ec94d511cd4943",
+    "read_back_verified": true
+  },
+  "public_destinations": {
+    "seminary": {
+      "url": "https://enochworld.com/pages/sydtek-seminary",
+      "status": "published",
+      "published_at": "2026-10-31T02:02:18Z"
+    },
+    "education_hub": {
+      "url": "https://enochworld.com/pages/sydtek#sydtek-learn",
+      "status": "published",
+      "published_at": "2026-10-31T02:02:23Z"
+    },
+    "skool": {
+      "url": "https://www.skool.com/ai-at-work-101-7709/classroom/4fca2aef?md=120c886478f8447fb72c96e10bd7661e",
+      "status": "published",
+      "pages": 9,
+      "member_preview_verified": true,
+      "native_autograded_quiz": false,
+      "assessment": "written formative study check, answer key, and proposed instructor-reviewed portfolio"
+    }
+  },
+  "academic_package": {
+    "canon_units": 81,
+    "old_testament_units": 46,
+    "new_testament_units": 35,
+    "delivery_parts": 12,
+    "estimated_survey_study_hours": 420,
+    "hours_status": "editorial_planning_estimate_noncredit",
+    "existing_program_reference": "ECS-300",
+    "starter_materials": [
+      "SEM-000 orientation",
+      "SEM-101 Genesis–Ruth pilot guide and syllabus"
+    ],
+    "other_materials": [
+      "unit worksheet",
+      "capstone guide and rubric",
+      "assessment-record schema",
+      "existing-repository alignment",
+      "accreditation development pathway"
+    ],
+    "faculty_adoption_verified": false,
+    "credential_issued": false,
+    "accreditation_awarded": false
+  },
+  "source_inventory": {
+    "public_playlists": 118,
+    "additional_individually_identified_videos": 1,
+    "ordinary_title_candidate_units": 65,
+    "exact_text_review_units": 13,
+    "no_direct_candidate_units": 3,
+    "verified_academic_coverage_units": 0,
+    "excluded_mixed_topic_collections": 1,
+    "analytics_evidence": "content/sydtek-seminary/sources/analytics-evidence.json"
+  },
+  "verification": {
+    "static_source_review": {
+      "PASS": 14,
+      "NOT_RUN": 3
+    },
+    "public_browser_review": {
+      "PASS": 12,
+      "NOT_RUN": 2
+    },
+    "browser_report": "website/sydtek-seminary/publication/browser-qa.json",
+    "admin_readback": "website/sydtek-seminary/publication/admin-verification.json",
+    "skool_readback": "docs/sydtek-seminary/skool/published-classroom-pages.json",
+    "published_body_normalized_matches": true,
+    "menu_unchanged": true,
+    "active_theme_unchanged": true,
+    "existing_skool_courses_retained": 26,
+    "no_open_content_or_layout_findings": true,
+    "limits": [
+      "Mobile viewport testing not run: browser capability not available.",
+      "Exhaustive external-endpoint availability not run; links verified against retrieved metadata and candidates.",
+      "Academic content adoption and student achievement not independently validated.",
+      "JSON schema meta-validator not available; schema is a proposed structural template."
+    ]
+  },
+  "scope_limits": [
+    "No accredited or authorized degree or certificate is issued by this release.",
+    "Complete ECS-300 readiness still requires its distinct Ethiopian church-history requirement and adopted program outcomes.",
+    "Three direct-source gaps and thirteen text-identity review units remain open.",
+    "Private student submissions, gradebook, automated credential issuance, and cross-platform account/progress synchronization were not implemented.",
+    "The existing SydTek Learn custom application was not deployed or changed by this seminary release.",
+    "The support link points to existing voluntary-support information; no new donation checkout was configured."
+  ],
+  "institutional_followups": [
+    "Confirm the Seminary legal entity, operating jurisdiction, and intended award level.",
+    "Correct and adopt the existing statement-of-faith record, which currently contains registry material.",
+    "Assign academic and Ethiopic-text reviewers, select editions, and adopt pilot criteria.",
+    "Complete ECS-302 history teaching and assessment.",
+    "Document governance, faculty, resources, student operations, financial sustainability, and actual learning outcomes before accreditation review."
+  ],
+  "rollback": {
+    "page_bodies": "website/sydtek-seminary/rollback/",
+    "theme_mutations": 0,
+    "menu_mutations": 0,
+    "skool_new_course_id": "4fca2aef",
+    "skool_existing_courses_changed": 0
+  },
+  "payment_status": "no_payment_or_billing_mutation_performed",
+  "outbound_messages_sent": 0,
+  "cost": {
+    "value": null,
+    "currency": null,
+    "status": "tool_and_compute_cost_not_reported"
+  },
+  "next_action": "Academic adoption of the orientation/SEM-101 pilot after the institutional entity and jurisdiction are confirmed."
+}

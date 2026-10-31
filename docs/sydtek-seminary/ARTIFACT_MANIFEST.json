@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-31T02:10:09.022247+00:00",
+  "excludes_self": true,
+  "file_count": 55,
+  "files": [
+    {
+      "path": "content/sydtek-seminary/canon/canon-registry.json",
+      "bytes": 32649,
+      "sha256": "3244beaf50e4d66d455e876a8de6cea742d796752184845184e97cdbbefd835d"
+    },
+    {
+      "path": "content/sydtek-seminary/canon/curriculum-manifest.json",
+      "bytes": 6222,
+      "sha256": "dd1ca5cb2fd5aa04e57f9b6dcf6451955d084eaeb5542471ecf5d2fda997aa35"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/README.md",
+      "bytes": 6643,
+      "sha256": "94ef557c810d5bf5aa5c2bebd80d33de1feb53f60c90bf5d202b5d43a7eac33f"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/analytics-evidence.json",
+      "bytes": 1003,
+      "sha256": "b0c97a6248df056361668c838532f274b15d6a28189f875aa89892bbfc3831b6"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/canon-source-map.json",
+      "bytes": 87412,
+      "sha256": "ca2a169fb628a2c3bc30dfde68e3ce23df16e71eec118ea2947b36b66bc90225"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/curation-findings.json",
+      "bytes": 3362,
+      "sha256": "35943833fe6104c016590665944747de79147eacfdfa738865041ebb57cdf85c"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/duplicates-and-alternates.json",
+      "bytes": 6158,
+      "sha256": "a9e9557822a4f0a1672372011495640cc14323d34a4329ef89029440b0f45014"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/existing-framework.json",
+      "bytes": 3690,
+      "sha256": "96fbba1fb46bb5c44bf7cc6544257ad22fad08002237198da2f7025316a5d6d2"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/playlist-inventory.json",
+      "bytes": 146232,
+      "sha256": "6a37a5b6ff763e9f010f9ea76fe3451ca5cf16af2914b92672db2600e0d14e27"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/retrieval-receipt.json",
+      "bytes": 1882,
+      "sha256": "42a07271e3ea51b45abfe4cb01f6f250364944b7facf1eb1fda326ed8d658ae2"
+    },
+    {
+      "path": "content/sydtek-seminary/sources/screenshot-observations.json",
+      "bytes": 99447,
+      "sha256": "11cea281d4509df152e0bb65b5b5ca315f290f245ef51fa195fcc102436055af"
+    },
+    {
+      "path": "docs/sydtek-seminary/ACADEMIC_PROGRAM.md",
+      "bytes": 14623,
+      "sha256": "80d6d7323fd2ecc28398e43f63b745a7fe0320b8d254d5da9c91b12926423e01"
+    },
+    {
+      "path": "docs/sydtek-seminary/ACADEMIC_REVIEW_NOTE.json",
+      "bytes": 1223,
+      "sha256": "c1626cf2475e50086444f8edfd13ddb669c2dc01c34cd3c386a4a0988d2f347d"
+    },
+    {
+      "path": "docs/sydtek-seminary/ACCREDITATION_PATHWAY.md",
+      "bytes": 13108,
+      "sha256": "813caa8447ae954086b7ad9a79f58c30e20eab33dd2af7237d73ee1ddbecfc6f"
+    },
+    {
+      "path": "docs/sydtek-seminary/BUILD_CHUNKS.md",
+      "bytes": 4358,
+      "sha256": "1443725c10a0595930d0062d04180093382b8fdda4d2b76378ed2b37b4e07036"
+    },
+    {
+      "path": "docs/sydtek-seminary/BUILD_CONTEXT.md",
+      "bytes": 3433,
+      "sha256": "2a38eb4acb472f0fd72db99395f4f095b2c0a38a715ac5406571d4f473a2b9c3"
+    },
+    {
+      "path": "docs/sydtek-seminary/CANON_BASIS.md",
+      "bytes": 4814,
+      "sha256": "36508284b08d4aadef2cf5b36061eed13cb830af5772bf2bc3c727a62b24679c"
+    },
+    {
+      "path": "docs/sydtek-seminary/CAPSTONE_GUIDE.md",
+      "bytes": 6128,
+      "sha256": "2b655e8a9339a656e62efbda598a1c5eb39cca87e14b5d5bd6ccbf79d3150190"
+    },
+    {
+      "path": "docs/sydtek-seminary/DELIVERY_RECEIPT.json",
+      "bytes": 5124,
+      "sha256": "f6f58b64943897709849e0f5cab108814319de35ac3c88a71edfa920c030a4d1"
+    },
+    {
+      "path": "docs/sydtek-seminary/EXISTING_REPOSITORY_ALIGNMENT.md",
+      "bytes": 3105,
+      "sha256": "dfbe5ba22f7e87396b28c2d6ea7ae335f5bd6b3ce38694bbd1a048dee316f75e"
+    },
+    {
+      "path": "docs/sydtek-seminary/README.md",
+      "bytes": 3429,
+      "sha256": "621211a2334293f691474a371f2fc20932f2087e98752746468797a7e7cb26ec"
+    },
+    {
+      "path": "docs/sydtek-seminary/SEM-000_ORIENTATION.md",
+      "bytes": 10347,
+      "sha256": "120874b1fe4e39934841cf1cf6711fe210830f949195191d6b5b8d4701a4bbc5"
+    },
+    {
+      "path": "docs/sydtek-seminary/SEM-101_SYLLABUS_AND_LESSONS.md",
+      "bytes": 11966,
+      "sha256": "7e6db19eee0ad10c866be88e3fc354bddc8e3b9ad282ca565dd0fe2dd93f7b1d"
+    },
+    {
+      "path": "docs/sydtek-seminary/UNIT_WORKSHEET.md",
+      "bytes": 2552,
+      "sha256": "05d1658dc2ac5a80e9212996cbfbd8011c0ed965dbd97e7ae9df9c79fe723d8e"
+    },
+    {
+      "path": "docs/sydtek-seminary/assessment-record.schema.json",
+      "bytes": 6517,
+      "sha256": "238326c5ec2cdc3d4b2bc034fffa9aaaae8be8e5f32bef8fcf5f3e48c59f720e"
+    },
+    {
+      "path": "docs/sydtek-seminary/research-sources.json",
+      "bytes": 7838,
+      "sha256": "aa757aa188673f33e0d17d78ebfa2d69d1bfac1ff8d02e561b8679fcf1397505"
+    },
+    {
+      "path": "docs/sydtek-seminary/skool/CLASSROOM_COPY.md",
+      "bytes": 25871,
+      "sha256": "61cba7004a3fd4f480f2ab87dbcd1060a3f0fc2e7bbba989f4f215d6d4e1bb00"
+    },
+    {
+      "path": "docs/sydtek-seminary/skool/README.md",
+      "bytes": 4419,
+      "sha256": "d3f22384c893bdd9d2912cbba168edd8cb6ada86747cdd4e84e0b7cf85121d96"
+    },
+    {
+      "path": "docs/sydtek-seminary/skool/publication-receipt.json",
+      "bytes": 2573,
+      "sha256": "b006b4370de060ce39399ac43ae245a9e9e0dc251d1f65cd4e89fb98fbc1f5ea"
+    },
+    {
+      "path": "docs/sydtek-seminary/skool/published-classroom-pages.json",
+      "bytes": 59659,
+      "sha256": "40c27361ae621bb74250b26bc0bfada9fc41d6af7e969456d021c01aedb0cd4e"
+    },
+    {
+      "path": "website/sydtek-seminary/README.md",
+      "bytes": 3153,
+      "sha256": "25ff9d1702f320d5cc5f8ee9308bd0708c09bf5bdde27ad277d0b928e4051b01"
+    },
+    {
+      "path": "website/sydtek-seminary/build_site.py",
+      "bytes": 21958,
+      "sha256": "af641100ea5e752f99dbeb5e0e94790910ab065d00c7b4d7c746a0c0aacc5add"
+    },
+    {
+      "path": "website/sydtek-seminary/deployment-plan.json",
+      "bytes": 1313,
+      "sha256": "c1661fa4aa5914130716753af90badd6dfc120f4a5b0682ff3896d2db18227ef"
+    },
+    {
+      "path": "website/sydtek-seminary/hub-candidate.html",
+      "bytes": 46380,
+      "sha256": "a03a7844ff736dd546f0743be45783a84dd91dc92d1a9b702124a04ada6952fb"
+    },
+    {
+      "path": "website/sydtek-seminary/hub-feature.html",
+      "bytes": 1310,
+      "sha256": "420054bc817ab18b3deac327be365d9e718d3e1e06e43200b55903e67edaca54"
+    },
+    {
+      "path": "website/sydtek-seminary/page-candidate.html",
+      "bytes": 53458,
+      "sha256": "7601e6091b8310344cbf9209673f739e7b5c6bdf94c25a124384722e4b3711fb"
+    },
+    {
+      "path": "website/sydtek-seminary/page-update.graphql",
+      "bytes": 186,
+      "sha256": "02bffc590e28edd1438b2b83db1e1d65c8f5fb695d689be59e38e1d9470c66e5"
+    },
+    {
+      "path": "website/sydtek-seminary/preparation-checks.json",
+      "bytes": 587,
+      "sha256": "b20d20017d33e2ba63fabe061045021d9a4d6a6339366b36ec978337fbd6aa7e"
+    },
+    {
+      "path": "website/sydtek-seminary/preview.html",
+      "bytes": 53744,
+      "sha256": "5032c35d6f69f95850f4305e963459f7c0aca7c1cc1e8fa0856c169e5b1169e2"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/admin-verification.json",
+      "bytes": 1323,
+      "sha256": "4499d0577d5a4c2026b2f1fee3650e38de134307bbceb0d543f54b9bf8228065"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/browser-qa.json",
+      "bytes": 7954,
+      "sha256": "b04d1cc2a171562c744b1ca48c275be21ebee6d9effd7207bb240fe0c1421888"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/sydtek-published.html",
+      "bytes": 46398,
+      "sha256": "d24613e994c41b2024a3e03a64a816083adbdff38593013f265aa7a3aea25f85"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/sydtek-published.json",
+      "bytes": 212,
+      "sha256": "02f939bcfa73314fee6409fa706485f60c9f5249e2418947804640efacfd8a0f"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/sydtek-seminary-published.html",
+      "bytes": 54262,
+      "sha256": "643f3afe61fe7782df941e1a94b13ef487f1e3cbe3b0aa08e5d94d082416e57e"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/sydtek-seminary-published.json",
+      "bytes": 230,
+      "sha256": "a5a3c53ca91fe1dbd3312181ca2f10179453828cc0fcd82c5828e503d12b6df3"
+    },
+    {
+      "path": "website/sydtek-seminary/publication/theme-verification.json",
+      "bytes": 1926,
+      "sha256": "4a201f51ff07e05bcdb605b3092dee443e2f6ba7c603fa579805968eb8802ef4"
+    },
+    {
+      "path": "website/sydtek-seminary/rollback/site-baseline.json",
+      "bytes": 54438,
+      "sha256": "a703d69c1b87c6406934e1a836f6532b11b245d9880b00f482768681a4c17a02"
+    },
+    {
+      "path": "website/sydtek-seminary/rollback/sydtek-before.html",
+      "bytes": 45070,
+      "sha256": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042"
+    },
+    {
+      "path": "website/sydtek-seminary/rollback/sydtek-before.json",
+      "bytes": 212,
+      "sha256": "f9f9f1fe3b1b9b7c0a24fd2ab2610230447603a3762ab7ddfcec3f3c6e96d94d"
+    },
+    {
+      "path": "website/sydtek-seminary/rollback/sydtek-seminary-before.html",
+      "bytes": 18084,
+      "sha256": "47fa28d57d4725e85c8cc124405d714996041092b5901ec596effaf8b18a4696"
+    },
+    {
+      "path": "website/sydtek-seminary/rollback/sydtek-seminary-before.json",
+      "bytes": 225,
+      "sha256": "f65bd10bd8f9e8cf20ae269f875a835f683b5c632ec7eabe8907bc8a8939a42f"
+    },
+    {
+      "path": "website/sydtek-seminary/site-baseline.graphql",
+      "bytes": 571,
+      "sha256": "976a466ff303c6f7314650981ff77b2e041d907c15879d6dde329a05a619f4ec"
+    },
+    {
+      "path": "website/sydtek-seminary/site-config.json",
+      "bytes": 778,
+      "sha256": "46de18178dce09e2dd027530950eea49468865a3d538ac14a656070ae018f116"
+    },
+    {
+      "path": "website/sydtek-seminary/source-qa.json",
+      "bytes": 6030,
+      "sha256": "b4e665f648d07870e9d79c8987b1bb63217b2ac601e0aec7792887fbd5c875d4"
+    },
+    {
+      "path": "website/sydtek-seminary/theme-guard.graphql",
+      "bytes": 800,
+      "sha256": "9388f9192f8fa6eecf31efc23c4e16d3151c8ba2dc7e3fa21276a21f1a9ccb96"
+    }
+  ]
+}
