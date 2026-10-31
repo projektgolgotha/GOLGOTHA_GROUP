@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "project": "SydTek Seminary",
+  "release": "Accreditation Navigator + FAQ + Ask ENOCH retrieval",
+  "released_at": "2026-10-31T03:16:06Z",
+  "public_pages": {
+    "navigator": "https://enochworld.com/pages/sydtek-seminary-accreditation-navigator",
+    "faq": "https://enochworld.com/pages/sydtek-seminary-faq",
+    "ask_enoch_seminary": "https://enochworld.com/pages/ask-enoch-seminary",
+    "seminary": "https://enochworld.com/pages/sydtek-seminary",
+    "datasets": "https://enochworld.com/collections/sydtek-seminary-datasets-accreditation-toolkit"
+  },
+  "navigator": {
+    "stage_gates": 10,
+    "primary_benchmark": "ABHE 2026 Conditions of Eligibility and Institutional Accreditation Standards",
+    "future_benchmark": "ATS membership/accreditation pathway for graduate theological education",
+    "status_language": "noncredit curriculum and institutional development; no accreditation or degree authority claimed"
+  },
+  "faq": {
+    "published_answers": 32,
+    "client_side_search": true,
+    "faq_schema_present": true,
+    "coverage": [
+      "81-book curriculum and source map",
+      "SEM-000 and SEM-101",
+      "Skool delivery and assessment",
+      "source gaps and Meqabyan distinction",
+      "legal authority and governance",
+      "faculty, library, student systems and finance",
+      "enrollment and graduate eligibility evidence",
+      "dataset catalog and delivery boundaries",
+      "Ask ENOCH and website-as-knowledge-interface boundaries"
+    ]
+  },
+  "ask_enoch": {
+    "mode": "source-grounded browser retrieval",
+    "public_records_only": true,
+    "private_student_records": false,
+    "general_purpose_llm": false,
+    "supplement_source": "website/sydtek-seminary/knowledge/ask-enoch-seminary-supplement-v1.js",
+    "supplement_sha256": "74dbbb4900151b2120d2ba8a5b39b248099aa35864d6d1eaa2f55ad7791a1856",
+    "shopify_cdn_file": "ask-enoch-seminary-supplement-v1.js",
+    "global_script_tag_status": "not enabled; connected Shopify app lacks write_script_tags scope",
+    "implemented_scope": "Dedicated Ask ENOCH Seminary page loads the supplement and provides a self-contained FAQ retrieval interface."
+  },
+  "important_limits": [
+    "Accreditation requirements can change and must be confirmed with the responsible authority and accreditor.",
+    "The navigator is an evidence-management tool, not legal advice or an accreditation decision.",
+    "The active theme knowledge catalog was preserved; live-theme writes are blocked by the connector.",
+    "The website is a machine-readable retrieval and knowledge interface, not itself a foundation model.",
+    "No grades, credentials, state authorization or accreditation status are created by this release."
+  ]
+}
