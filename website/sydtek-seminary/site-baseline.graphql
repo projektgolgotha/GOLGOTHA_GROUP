@@ -1,0 +1,11 @@
+query SeminarySiteBaseline {
+ shop { id name myshopifyDomain url }
+ pages(first:50, query:"handle:sydtek-seminary OR handle:sydtek OR handle:sydtek-support") {
+  nodes { id handle title body templateSuffix isPublished updatedAt }
+  pageInfo { hasNextPage endCursor }
+ }
+ themes(first:50) { nodes { id name role createdAt updatedAt } pageInfo { hasNextPage endCursor } }
+ menu(id:"gid://shopify/Menu/278637936751") {
+  id title handle items { id title type url resourceId tags items { id title type url resourceId tags items { id title type url resourceId tags } } }
+ }
+}

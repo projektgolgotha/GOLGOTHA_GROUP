@@ -1,0 +1,2499 @@
+{
+  "schema_version": "1.0",
+  "registry_file": "../canon/canon-registry.json",
+  "registry_source_url": "https://ethiopianorthodox.org/english/canonical/books.html",
+  "status": "candidate_mapping_not_verified_coverage",
+  "basis": "Explicit book/topic title matches from live public metadata, with grouped and ambiguous Ethiopic texts withheld from automatic direct-watch assignment.",
+  "summary": {
+    "canon_units": 81,
+    "candidate_mapping_status_counts": {
+      "candidate_sources_found": 65,
+      "text_identity_review": 13,
+      "no_candidate_identified": 3
+    },
+    "canon_units_with_candidate_playlist": 77,
+    "canon_units_with_candidate_video_only": 1,
+    "verified_academic_coverage_units": 0
+  },
+  "units": [
+    {
+      "canon_id": "OT-01",
+      "course_id": "SEM-101",
+      "display_title": "Genesis",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Genesis",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-02",
+      "course_id": "SEM-101",
+      "display_title": "Exodus",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Exodus",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-03",
+      "course_id": "SEM-101",
+      "display_title": "Leviticus",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Leviticus",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-04",
+      "course_id": "SEM-101",
+      "display_title": "Numbers",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Numbers",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-05",
+      "course_id": "SEM-101",
+      "display_title": "Deuteronomy",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+        "PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+        "youtube-playlist:PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Deuteronomy",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+            "PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-06",
+      "course_id": "SEM-101",
+      "display_title": "Joshua",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Joshua",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-07",
+      "course_id": "SEM-101",
+      "display_title": "Judges",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Judges",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-08",
+      "course_id": "SEM-101",
+      "display_title": "Ruth",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ruth",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-09",
+      "course_id": "SEM-102",
+      "display_title": "1 and 2 Samuel",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj",
+        "PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj",
+        "youtube-playlist:PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Samuel",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        },
+        {
+          "component": "2 Samuel",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-10",
+      "course_id": "SEM-102",
+      "display_title": "1 and 2 Kings",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg",
+        "PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg",
+        "youtube-playlist:PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Kings",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        },
+        {
+          "component": "2 Kings",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-11",
+      "course_id": "SEM-102",
+      "display_title": "1 Chronicles",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Chronicles",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-12",
+      "course_id": "SEM-102",
+      "display_title": "2 Chronicles",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Chronicles",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-13",
+      "course_id": "SEM-103",
+      "display_title": "Jubilees",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Jubilees",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-14",
+      "course_id": "SEM-103",
+      "display_title": "1 Enoch",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Enoch",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "The existing Enoch module is a topic candidate. Verify the teaching is based on 1 Enoch, its selected Ethiopic edition, and the required divisions before confirming coverage."
+    },
+    {
+      "canon_id": "OT-15",
+      "course_id": "SEM-102",
+      "display_title": "Ezra and Nehemiah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4",
+        "PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4",
+        "youtube-playlist:PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ezra",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        },
+        {
+          "component": "Nehemiah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-16",
+      "course_id": "SEM-102",
+      "display_title": "Ezra II and Ezra Sutuel",
+      "status": "no_candidate_identified",
+      "candidate_playlist_ids": [],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ezra II — edition identity to verify",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        },
+        {
+          "component": "Ezra Sutuel — apocalypse edition to verify",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "No title-specific candidate for Ezra II or Ezra Sutuel was found in the public channel catalog or the reviewed overview-entry metadata. Ezra/Nehemiah cannot fill this unit by name alone."
+    },
+    {
+      "canon_id": "OT-17",
+      "course_id": "SEM-102",
+      "display_title": "Tobit",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Tobit",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-18",
+      "course_id": "SEM-102",
+      "display_title": "Judith",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Judith",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-19",
+      "course_id": "SEM-102",
+      "display_title": "Esther",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Esther",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-20",
+      "course_id": "SEM-103",
+      "display_title": "1 Meqabyan",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Meqabyan",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-21",
+      "course_id": "SEM-103",
+      "display_title": "2 and 3 Meqabyan",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW",
+        "PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW",
+        "youtube-playlist:PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Meqabyan",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        },
+        {
+          "component": "3 Meqabyan",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-22",
+      "course_id": "SEM-104",
+      "display_title": "Job",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Job",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-23",
+      "course_id": "SEM-104",
+      "display_title": "Psalms",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Psalms",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-24",
+      "course_id": "SEM-104",
+      "display_title": "Proverbs / Messale",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Proverbs 1–24 — standard crosswalk candidate",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "A general Proverbs playlist was found; review the selected edition and actual chapter scope before mapping Proverbs/Messale and its distinct Tegsats division."
+    },
+    {
+      "canon_id": "OT-25",
+      "course_id": "SEM-104",
+      "display_title": "Reproof / Tegsats",
+      "status": "no_candidate_identified",
+      "candidate_playlist_ids": [],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [],
+      "context_only_playlist_ids": [
+        "PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS"
+      ],
+      "components": [
+        {
+          "component": "Proverbs 25–31 — standard crosswalk candidate",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "The general Proverbs collection is contextual only. No entry explicitly identified as Tegsats/Reproof or a verified Proverbs 25–31 course segment was established."
+    },
+    {
+      "canon_id": "OT-26",
+      "course_id": "SEM-104",
+      "display_title": "Wisdom / Metsihafe Tibeb",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Wisdom / Metsihafe Tibeb",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "Wisdom of Solomon is a plausible title-level candidate for the registry’s Wisdom/Metsihafe Tibeb unit; confirm exact text and edition."
+    },
+    {
+      "canon_id": "OT-27",
+      "course_id": "SEM-104",
+      "display_title": "Ecclesiastes",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ecclesiastes",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-28",
+      "course_id": "SEM-104",
+      "display_title": "Song of Songs",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+        "PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+        "youtube-playlist:PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Song of Songs",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+            "PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-29",
+      "course_id": "SEM-105",
+      "display_title": "Isaiah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Isaiah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-30",
+      "course_id": "SEM-105",
+      "display_title": "Jeremiah corpus",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE",
+        "PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN",
+        "PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE",
+        "youtube-playlist:PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN",
+        "youtube-playlist:PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Jeremiah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        },
+        {
+          "component": "Lamentations — verify selected edition",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        },
+        {
+          "component": "Baruch — verify selected edition",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        },
+        {
+          "component": "Rest of Jeremiah — verify selected edition",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "Separate Jeremiah, Lamentations, and Baruch topic playlists were found. No title-specific Rest of Jeremiah source was established; exact corpus components and text editions need review."
+    },
+    {
+      "canon_id": "OT-31",
+      "course_id": "SEM-105",
+      "display_title": "Ezekiel",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ezekiel",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-32",
+      "course_id": "SEM-105",
+      "display_title": "Daniel corpus",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+        "PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+        "youtube-playlist:PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Daniel",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+            "PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        },
+        {
+          "component": "Susanna — verify selected edition",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        },
+        {
+          "component": "Rest of Daniel — verify selected edition",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "Daniel topic playlists were found. No title-specific Susanna or Rest of Daniel source was established; exact corpus components and text editions need review."
+    },
+    {
+      "canon_id": "OT-33",
+      "course_id": "SEM-106",
+      "display_title": "Hosea",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+        "PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+        "youtube-playlist:PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Hosea",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+            "PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-34",
+      "course_id": "SEM-106",
+      "display_title": "Amos",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+        "PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+        "youtube-playlist:PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Amos",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+            "PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-35",
+      "course_id": "SEM-106",
+      "display_title": "Micah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+        "PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+        "youtube-playlist:PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Micah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+            "PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-36",
+      "course_id": "SEM-106",
+      "display_title": "Joel",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Joel",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-37",
+      "course_id": "SEM-106",
+      "display_title": "Obadiah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+        "PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+        "youtube-playlist:PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Obadiah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+            "PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-38",
+      "course_id": "SEM-106",
+      "display_title": "Jonah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Jonah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-39",
+      "course_id": "SEM-106",
+      "display_title": "Nahum",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+        "PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+        "youtube-playlist:PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Nahum",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+            "PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-40",
+      "course_id": "SEM-106",
+      "display_title": "Habakkuk",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+        "PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+        "youtube-playlist:PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Habakkuk",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+            "PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-41",
+      "course_id": "SEM-106",
+      "display_title": "Zephaniah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Zephaniah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-42",
+      "course_id": "SEM-106",
+      "display_title": "Haggai",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+        "PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+        "youtube-playlist:PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Haggai",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+            "PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-43",
+      "course_id": "SEM-106",
+      "display_title": "Zechariah",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+        "PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+        "youtube-playlist:PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Zechariah",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+            "PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-44",
+      "course_id": "SEM-106",
+      "display_title": "Malachi",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Malachi",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-45",
+      "course_id": "SEM-104",
+      "display_title": "Sirach",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Sirach",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "OT-46",
+      "course_id": "SEM-102",
+      "display_title": "Joseph ben Gorion / Josippon",
+      "status": "no_candidate_identified",
+      "candidate_playlist_ids": [],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [],
+      "context_only_playlist_ids": [
+        "PLtS4zDr2sp3TQbCPnpws0dRMucsU6GB5s"
+      ],
+      "components": [
+        {
+          "component": "Joseph ben Gorion / Josippon",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [],
+          "status": "no_candidate_identified",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "The Josephus historical playlist is contextual only. Flavius Josephus is not automatically the canonical Joseph ben Gorion/Josippon text; no direct candidate was established."
+    },
+    {
+      "canon_id": "NT-01",
+      "course_id": "SEM-107",
+      "display_title": "Matthew",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Matthew",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-02",
+      "course_id": "SEM-107",
+      "display_title": "Mark",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+        "PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+        "youtube-playlist:PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Mark",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+            "PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-03",
+      "course_id": "SEM-107",
+      "display_title": "Luke",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Luke",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-04",
+      "course_id": "SEM-107",
+      "display_title": "John",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [],
+      "candidate_video_ids": [
+        "SsAIEvo6Xbw"
+      ],
+      "candidate_source_ids": [
+        "youtube-video:SsAIEvo6Xbw"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "John",
+          "candidate_playlist_ids": [],
+          "candidate_video_ids": [
+            "SsAIEvo6Xbw"
+          ],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "No standalone John playlist was found in the public channel catalog. A John Explained video was observed as position 49 of the broad All Books playlist; only this specific video is mapped as a candidate."
+    },
+    {
+      "canon_id": "NT-05",
+      "course_id": "SEM-107",
+      "display_title": "Acts",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Acts",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-06",
+      "course_id": "SEM-108",
+      "display_title": "Romans",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Romans",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-07",
+      "course_id": "SEM-108",
+      "display_title": "1 Corinthians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Corinthians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-08",
+      "course_id": "SEM-108",
+      "display_title": "2 Corinthians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Corinthians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-09",
+      "course_id": "SEM-108",
+      "display_title": "Galatians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Galatians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-10",
+      "course_id": "SEM-108",
+      "display_title": "Ephesians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ephesians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-11",
+      "course_id": "SEM-108",
+      "display_title": "Philippians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Philippians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-12",
+      "course_id": "SEM-108",
+      "display_title": "Colossians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Colossians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-13",
+      "course_id": "SEM-108",
+      "display_title": "1 Thessalonians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Thessalonians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-14",
+      "course_id": "SEM-108",
+      "display_title": "2 Thessalonians",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Thessalonians",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-15",
+      "course_id": "SEM-108",
+      "display_title": "1 Timothy",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Timothy",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-16",
+      "course_id": "SEM-108",
+      "display_title": "2 Timothy",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Timothy",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-17",
+      "course_id": "SEM-108",
+      "display_title": "Titus",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Titus",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-18",
+      "course_id": "SEM-108",
+      "display_title": "Philemon",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Philemon",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-19",
+      "course_id": "SEM-108",
+      "display_title": "Hebrews",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+        "PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+        "youtube-playlist:PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Hebrews",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+            "PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-20",
+      "course_id": "SEM-109",
+      "display_title": "1 Peter",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 Peter",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-21",
+      "course_id": "SEM-109",
+      "display_title": "2 Peter",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 Peter",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-22",
+      "course_id": "SEM-109",
+      "display_title": "1 John",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "1 John",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-23",
+      "course_id": "SEM-109",
+      "display_title": "2 John",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "2 John",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-24",
+      "course_id": "SEM-109",
+      "display_title": "3 John",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "3 John",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-25",
+      "course_id": "SEM-109",
+      "display_title": "James",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "James",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-26",
+      "course_id": "SEM-109",
+      "display_title": "Jude",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+        "PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+        "youtube-playlist:PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Jude",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+            "PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-27",
+      "course_id": "SEM-109",
+      "display_title": "Revelation",
+      "status": "candidate_sources_found",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Revelation",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K"
+          ],
+          "candidate_video_ids": [],
+          "status": "title_candidate",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": true,
+      "review_note": "Metadata identifies related video resources. Faculty review of the exact text, lesson sequence, primary readings, and assessments is still required."
+    },
+    {
+      "canon_id": "NT-28",
+      "course_id": "SEM-110",
+      "display_title": "Sirate Tsion / Sinodos I",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Sirate Tsion / Sinodos I",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One generic Sinodos playlist exists; separate Sirate Tsion content has not been verified."
+    },
+    {
+      "canon_id": "NT-29",
+      "course_id": "SEM-110",
+      "display_title": "Tizaz / Sinodos II",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Tizaz / Sinodos II",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One generic Sinodos playlist exists; separate Tizaz content has not been verified."
+    },
+    {
+      "canon_id": "NT-30",
+      "course_id": "SEM-110",
+      "display_title": "Gitsew / Sinodos III",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Gitsew / Sinodos III",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One generic Sinodos playlist exists; separate Gitsew content has not been verified."
+    },
+    {
+      "canon_id": "NT-31",
+      "course_id": "SEM-110",
+      "display_title": "Abtilis / Sinodos IV",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Abtilis / Sinodos IV",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One generic Sinodos playlist exists; separate Abtilis content has not been verified."
+    },
+    {
+      "canon_id": "NT-32",
+      "course_id": "SEM-110",
+      "display_title": "Book of the Covenant I",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Book of the Covenant I",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One Book of the Covenant playlist exists; part I content has not been independently distinguished from part II."
+    },
+    {
+      "canon_id": "NT-33",
+      "course_id": "SEM-110",
+      "display_title": "Book of the Covenant II",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Book of the Covenant II",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "One Book of the Covenant playlist exists; part II content has not been independently distinguished from part I."
+    },
+    {
+      "canon_id": "NT-34",
+      "course_id": "SEM-110",
+      "display_title": "Ethiopic Clement",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ethiopic Clement",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "The Clement title does not establish that the source teaches the Ethiopic Clement text rather than another Clement tradition. Exact text identity requires review."
+    },
+    {
+      "canon_id": "NT-35",
+      "course_id": "SEM-110",
+      "display_title": "Ethiopic Didascalia",
+      "status": "text_identity_review",
+      "candidate_playlist_ids": [
+        "PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP"
+      ],
+      "candidate_video_ids": [],
+      "candidate_source_ids": [
+        "youtube-playlist:PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP"
+      ],
+      "context_only_playlist_ids": [],
+      "components": [
+        {
+          "component": "Ethiopic Didascalia",
+          "candidate_playlist_ids": [
+            "PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP"
+          ],
+          "candidate_video_ids": [],
+          "status": "text_identity_review",
+          "coverage_verified": false
+        }
+      ],
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "automatic_direct_watch_allowed": false,
+      "review_note": "Didascalia Apostolorum in the playlist title does not establish equivalence to the Ethiopic Didascalia in this registry. Exact text identity requires review."
+    }
+  ],
+  "critical_distinctions": [
+    "1–3 Meqabyan are not substituted with the Greek Maccabees historical playlist.",
+    "Josephus is not substituted for Joseph ben Gorion/Josippon.",
+    "Generic Sinodos, Covenant, Clement, and Didascalia titles do not prove the identity or full scope of the individual Ethiopic canonical texts.",
+    "The All Books playlist is not assigned wholesale to fill missing units. John uses one specifically identified video.",
+    "General Proverbs is not automatically assigned as Tegsats/Reproof.",
+    "Canonical source numbering uses 46 Old Testament and 35 New Testament registry units; combined units retain component-level candidates."
+  ]
+}

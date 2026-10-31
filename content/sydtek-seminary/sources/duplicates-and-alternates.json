@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "same_subject_alternate_groups": [
+    {
+      "canon_id": "OT-05",
+      "subject": "Deuteronomy",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+        "PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-28",
+      "subject": "Song of Songs",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+        "PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-32",
+      "subject": "Daniel",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+        "PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-33",
+      "subject": "Hosea",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+        "PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-34",
+      "subject": "Amos",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+        "PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-35",
+      "subject": "Micah",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+        "PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-37",
+      "subject": "Obadiah",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+        "PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-39",
+      "subject": "Nahum",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+        "PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-40",
+      "subject": "Habakkuk",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+        "PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-42",
+      "subject": "Haggai",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+        "PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "OT-43",
+      "subject": "Zechariah",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+        "PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "NT-02",
+      "subject": "Mark",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+        "PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "NT-19",
+      "subject": "Hebrews",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+        "PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP"
+      ],
+      "video_overlap_measured": false
+    },
+    {
+      "canon_id": "NT-26",
+      "subject": "Jude",
+      "relation": "same_subject_alternate_playlists",
+      "playlist_ids": [
+        "PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+        "PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN"
+      ],
+      "video_overlap_measured": false
+    }
+  ],
+  "repeated_screenshot_observations": {
+    "PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd": [
+      "OBS-113",
+      "OBS-119"
+    ],
+    "PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT": [
+      "OBS-114",
+      "OBS-120"
+    ],
+    "PLtS4zDr2sp3Sze0x4xGpLJ-MeWIAuPSiS": [
+      "OBS-115",
+      "OBS-121"
+    ],
+    "PLtS4zDr2sp3RNba9txGUIYHwjEacDJAs2": [
+      "OBS-116",
+      "OBS-122"
+    ],
+    "PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T": [
+      "OBS-117",
+      "OBS-123"
+    ],
+    "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt": [
+      "OBS-118",
+      "OBS-124"
+    ],
+    "PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP": [
+      "OBS-125",
+      "OBS-126"
+    ],
+    "PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE": [
+      "OBS-092",
+      "OBS-132"
+    ],
+    "PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs": [
+      "OBS-098",
+      "OBS-099"
+    ],
+    "PLtS4zDr2sp3TGr-zy_iH_7bYSCR-tN8R2": [
+      "OBS-105",
+      "OBS-106"
+    ],
+    "PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA": [
+      "OBS-071",
+      "OBS-112"
+    ],
+    "PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK": [
+      "OBS-077",
+      "OBS-078"
+    ],
+    "PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA": [
+      "OBS-084",
+      "OBS-085"
+    ],
+    "PLtS4zDr2sp3TfO1diCNfoIwJp3RV6T9G9": [
+      "OBS-063",
+      "OBS-091"
+    ],
+    "PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q": [
+      "OBS-056",
+      "OBS-069"
+    ],
+    "PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO": [
+      "OBS-057",
+      "OBS-070"
+    ],
+    "PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828": [
+      "OBS-049",
+      "OBS-062"
+    ],
+    "PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI": [
+      "OBS-042",
+      "OBS-055"
+    ],
+    "PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm": [
+      "OBS-028",
+      "OBS-041"
+    ],
+    "PLtS4zDr2sp3TLTCJ_ANnn7hDFm6AbRYQM": [
+      "OBS-021",
+      "OBS-034"
+    ],
+    "PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD": [
+      "OBS-014",
+      "OBS-027"
+    ],
+    "PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_": [
+      "OBS-001",
+      "OBS-013"
+    ]
+  },
+  "cross_playlist_video_overlap_measured": false,
+  "deduplication_rule": "Use playlist_id to distinguish source collections. Do not sum repeated screenshots or delete same-title playlists without entry-level comparison."
+}

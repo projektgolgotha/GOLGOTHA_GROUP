@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "version": "0.1",
+  "prepared_date": "2026-10-30",
+  "program_id": "ECS-300",
+  "program_title": "Certificate in Ethiopian Canon Studies — development track",
+  "delivery_track_id": "ECS-300-81-SURVEY",
+  "status": "curriculum_draft_noncredit",
+  "canonical_program_repository": "https://github.com/GoldstonianConcordanceBible/SydTek-Seminary",
+  "canonical_program_path": "SydTek_Seminary/PROGRAMS/CERTIFICATES/CERTIFICATE_IN_ETHIOPIAN_CANON_STUDIES.md",
+  "numbering_note": "SEM delivery codes supplement the existing ECS-301 through ECS-306 curriculum; they do not supersede or rename those program requirements.",
+  "estimated_total_study_hours": 420,
+  "hours_note": "Editorial workload estimates for a survey using selected passages, not credit awards, verified attendance, full-text completion claims, or validated workload measurements.",
+  "award_status": "No certificate or degree issued by this build. Assessed awards require academic adoption, authorized issuer, instructor review, and student records.",
+  "unresolved_existing_requirement": "ECS-302 History of Ethiopian Christianity requires a distinct history learning sequence and assessment; source playlists are candidates, not a completed course.",
+  "courses": [
+    {
+      "code": "SEM-000",
+      "title": "Start Here: Orientation",
+      "unit_ids": [],
+      "estimated_study_hours": 8,
+      "summary": "Prepare a study plan, learn the canon numbering basis, and create a traceable reading record.",
+      "status": "authored_draft"
+    },
+    {
+      "code": "SEM-101",
+      "title": "Torah and Israel’s Beginnings",
+      "unit_ids": [
+        "OT-01",
+        "OT-02",
+        "OT-03",
+        "OT-04",
+        "OT-05",
+        "OT-06",
+        "OT-07",
+        "OT-08"
+      ],
+      "estimated_study_hours": 40,
+      "summary": "Study creation, covenant, liberation, law, land, leadership, and belonging across the first eight registry entries.",
+      "status": "authored_draft"
+    },
+    {
+      "code": "SEM-102",
+      "title": "Israel’s History and Restoration",
+      "unit_ids": [
+        "OT-09",
+        "OT-10",
+        "OT-11",
+        "OT-12",
+        "OT-15",
+        "OT-16",
+        "OT-17",
+        "OT-18",
+        "OT-19",
+        "OT-46"
+      ],
+      "estimated_study_hours": 44,
+      "summary": "Examine monarchy, exile, return, communal identity, and the transmission of historical traditions.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-103",
+      "title": "Enoch, Jubilees, and Meqabyan",
+      "unit_ids": [
+        "OT-13",
+        "OT-14",
+        "OT-20",
+        "OT-21"
+      ],
+      "estimated_study_hours": 32,
+      "summary": "Read selected Ethiopic texts with attention to textual identity, covenant, judgment, and historical context.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-104",
+      "title": "Wisdom, Prayer, and Formation",
+      "unit_ids": [
+        "OT-22",
+        "OT-23",
+        "OT-24",
+        "OT-25",
+        "OT-26",
+        "OT-27",
+        "OT-28",
+        "OT-45"
+      ],
+      "estimated_study_hours": 36,
+      "summary": "Compare wisdom instruction, prayer, suffering, love, and moral formation through close reading.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-105",
+      "title": "Major Prophets",
+      "unit_ids": [
+        "OT-29",
+        "OT-30",
+        "OT-31",
+        "OT-32"
+      ],
+      "estimated_study_hours": 40,
+      "summary": "Interpret judgment, restoration, hope, and prophetic literature while documenting grouped-text boundaries.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-106",
+      "title": "The Twelve Prophets",
+      "unit_ids": [
+        "OT-33",
+        "OT-34",
+        "OT-35",
+        "OT-36",
+        "OT-37",
+        "OT-38",
+        "OT-39",
+        "OT-40",
+        "OT-41",
+        "OT-42",
+        "OT-43",
+        "OT-44"
+      ],
+      "estimated_study_hours": 36,
+      "summary": "Analyze prophetic voices, literary forms, justice, worship, exile, and restoration.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-107",
+      "title": "Gospels and Acts",
+      "unit_ids": [
+        "NT-01",
+        "NT-02",
+        "NT-03",
+        "NT-04",
+        "NT-05"
+      ],
+      "estimated_study_hours": 40,
+      "summary": "Compare Gospel narratives and study the formation and mission of early Christian communities.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-108",
+      "title": "Pauline Letters and Hebrews",
+      "unit_ids": [
+        "NT-06",
+        "NT-07",
+        "NT-08",
+        "NT-09",
+        "NT-10",
+        "NT-11",
+        "NT-12",
+        "NT-13",
+        "NT-14",
+        "NT-15",
+        "NT-16",
+        "NT-17",
+        "NT-18",
+        "NT-19"
+      ],
+      "estimated_study_hours": 44,
+      "summary": "Analyze letter argument, community ethics, theology, and Hebrews without assuming Pauline authorship of Hebrews.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-109",
+      "title": "General Epistles and Revelation",
+      "unit_ids": [
+        "NT-20",
+        "NT-21",
+        "NT-22",
+        "NT-23",
+        "NT-24",
+        "NT-25",
+        "NT-26",
+        "NT-27"
+      ],
+      "estimated_study_hours": 36,
+      "summary": "Study faith, practice, witness, conflict, and apocalyptic interpretation with attention to genre.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-110",
+      "title": "Ethiopian Church Order",
+      "unit_ids": [
+        "NT-28",
+        "NT-29",
+        "NT-30",
+        "NT-31",
+        "NT-32",
+        "NT-33",
+        "NT-34",
+        "NT-35"
+      ],
+      "estimated_study_hours": 40,
+      "summary": "Distinguish the specified Sinodos, Covenant, Clement, and Didascalia texts and examine church life and teaching.",
+      "status": "outline_draft"
+    },
+    {
+      "code": "SEM-199",
+      "title": "Canon Studies Capstone",
+      "unit_ids": [],
+      "estimated_study_hours": 24,
+      "summary": "Defend an evidence portfolio, compare canonical traditions, and present a reviewed teaching project.",
+      "status": "outline_draft"
+    }
+  ]
+}

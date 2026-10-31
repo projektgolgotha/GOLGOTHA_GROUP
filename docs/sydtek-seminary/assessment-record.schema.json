@@ -1,0 +1,310 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SydTek Seminary proposed private noncredit assessment record",
+  "description": "Structural template only. No learner records, reviewer appointments, grading service, access control, or credential issuance are implemented by this schema.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "record_id",
+    "learner_id",
+    "program_id",
+    "course_code",
+    "assessment_id",
+    "assessment_type",
+    "curriculum_version",
+    "record_status",
+    "submitted_at",
+    "submission_references",
+    "canon_unit_ids",
+    "rubric_version",
+    "rubric_results",
+    "reviewer_id",
+    "reviewed_at",
+    "feedback",
+    "revision_of",
+    "integrity_review",
+    "final_decision",
+    "academic_credit_awarded",
+    "credential_issued"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.1"
+    },
+    "record_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "learner_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Internal pseudonymous learner key; keep the identity crosswalk private."
+    },
+    "program_id": {
+      "const": "ECS-300"
+    },
+    "course_code": {
+      "type": "string",
+      "pattern": "^SEM-(000|10[1-9]|110|199)$"
+    },
+    "assessment_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "assessment_type": {
+      "enum": [
+        "orientation_portfolio",
+        "unit_worksheet",
+        "interpretation_essay",
+        "study_check",
+        "teaching_demonstration",
+        "history_assessment",
+        "capstone",
+        "discussion_reflection"
+      ]
+    },
+    "curriculum_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "record_status": {
+      "enum": [
+        "draft",
+        "submitted",
+        "revision_required",
+        "reviewed",
+        "completed"
+      ]
+    },
+    "submitted_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "submission_references": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Private record references, not public student-portfolio URLs by default."
+    },
+    "canon_unit_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^(OT-(0[1-9]|[1-3][0-9]|4[0-6])|NT-(0[1-9]|[1-2][0-9]|3[0-5]))$"
+      }
+    },
+    "component_scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Specified component texts and assigned passage ranges."
+    },
+    "reading_scope": {
+      "enum": [
+        "selected_passages",
+        "full_text",
+        "approved_alternative",
+        "not_applicable"
+      ]
+    },
+    "rubric_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rubric_results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "criterion_id",
+          "score",
+          "evidence_note"
+        ],
+        "properties": {
+          "criterion_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "score": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3
+          },
+          "evidence_note": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "study_check_correct": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "study_check_total": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "reviewer_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "second_reviewer_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "feedback": {
+      "type": "string"
+    },
+    "moderation_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "revision_of": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "integrity_review": {
+      "enum": [
+        "pending",
+        "cleared",
+        "unresolved"
+      ]
+    },
+    "final_decision": {
+      "enum": [
+        "pending",
+        "revise",
+        "pass",
+        "incomplete"
+      ]
+    },
+    "academic_credit_awarded": {
+      "const": 0,
+      "description": "This pilot is noncredit."
+    },
+    "credential_issued": {
+      "const": false,
+      "description": "An assessment record does not itself issue a credential."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "record_status": {
+            "enum": [
+              "reviewed",
+              "completed"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "reviewer_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reviewed_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "submission_references": {
+            "minItems": 1
+          },
+          "feedback": {
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "record_status": {
+            "const": "completed"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "final_decision": {
+            "const": "pass"
+          },
+          "integrity_review": {
+            "const": "cleared"
+          },
+          "submitted_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "assessment_type": {
+            "const": "capstone"
+          },
+          "record_status": {
+            "const": "completed"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "second_reviewer_id",
+          "moderation_note"
+        ],
+        "properties": {
+          "second_reviewer_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "moderation_note": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rubric_results": {
+            "minItems": 5,
+            "maxItems": 5
+          }
+        }
+      }
+    }
+  ]
+}

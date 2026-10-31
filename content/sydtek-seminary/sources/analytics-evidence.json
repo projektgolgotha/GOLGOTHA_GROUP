@@ -1,0 +1,28 @@
+{
+  "source_file": "IMG_0751.jpeg",
+  "sha256": "9d505d9ff4a0c02c0a59e0048e6ebfe257a6d4029f7b9ebaaaecdea92de51936",
+  "provided_by": "creator in current conversation",
+  "evidence_kind": "cropped YouTube Analytics screenshot",
+  "metric_label": "Views",
+  "value": 4195671,
+  "selected_period": "365D",
+  "axis_labels_visible": [
+    "Oct 30",
+    "Apr 30",
+    "Oct 29"
+  ],
+  "calendar_year_visible": false,
+  "channel_header_visible": false,
+  "source_account_independently_verified": false,
+  "verification_level": "creator_supplied_screenshot_read",
+  "not_established": [
+    "unique viewers",
+    "unique learners",
+    "all views attributable to SydTek Seminary",
+    "course completions",
+    "learning outcomes",
+    "organic versus paid or automated traffic",
+    "accreditation status"
+  ],
+  "approved_narrow_description": "The creator supplied an analytics screenshot showing 4,195,671 views with the 365D period selected. The crop does not display the channel header or calendar year."
+}

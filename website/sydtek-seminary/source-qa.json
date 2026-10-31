@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "reviewer": "seminary_sources independent child agent",
+  "reviewed_at": "2026-10-31T01:52:30.798605+00:00",
+  "scope": "Static independent source-integrity QA of generated Seminary page, bounded Education hub insertion, generator source, curriculum and preparation manifests.",
+  "overall_status": "PASS",
+  "reviewed_file_sha256": {
+    "page-candidate.html": "aaee03dd7410c216e3b6ac286284c71bf44c3364e53897836bc0764af57d0441",
+    "hub-candidate.html": "9d64caae912cabf5b16e2011f6cf5aeed1877757baf660b480e877011cbb8394",
+    "hub-feature.html": "ea33614f77710534b410ff3c82f248ed1c148f0f572e0c31ef96250892c9fe75",
+    "build_site.py": "af641100ea5e752f99dbeb5e0e94790910ab065d00c7b4d7c746a0c0aacc5add",
+    "site-config.json": "a5b88e29c74bfa7a034a0bdf79ed4b02f203cd05005a83d7e59faf0d862732e8",
+    "preparation-checks.json": "69a9ad2715f54d07f8f438e4e80dd58fa9a3925fac75607fd8d02b3cf856667d",
+    "rollback/sydtek-before.html": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042",
+    "rollback/sydtek-seminary-before.html": "47fa28d57d4725e85c8cc124405d714996041092b5901ec596effaf8b18a4696"
+  },
+  "checks": [
+    {
+      "check": "81_canon_units_rendered_once",
+      "status": "PASS",
+      "detail": {
+        "rendered_unit_count": 81,
+        "distinct_unit_ids": 81,
+        "unexpected": [],
+        "missing": [],
+        "duplicated": []
+      }
+    },
+    {
+      "check": "source_gating_65_direct_13_review_3_missing",
+      "status": "PASS",
+      "detail": {
+        "units_with_direct_resources": 65,
+        "gated_unit_status_counts": {
+          "text_identity_review": 13,
+          "no_candidate_identified": 3
+        },
+        "mismatches": []
+      }
+    },
+    {
+      "check": "excluded_mixed_collection_never_linked",
+      "status": "PASS",
+      "detail": {
+        "forbidden_urls_found": [],
+        "excluded_collection_count": 1
+      }
+    },
+    {
+      "check": "all_youtube_links_exact_verified_sources",
+      "status": "PASS",
+      "detail": {
+        "unique_youtube_links": 86,
+        "unverified_or_modified_links": []
+      }
+    },
+    {
+      "check": "external_link_provenance",
+      "status": "PASS",
+      "detail": {
+        "unknown_external_urls": [],
+        "basis": "YouTube inventory; existing institutional source links; official church list; configured Skool destination; locally authored GitHub document targets."
+      }
+    },
+    {
+      "check": "existing_institutional_repository_links_retained",
+      "status": "PASS",
+      "detail": {
+        "baseline_external_source_links": [
+          "https://github.com/GoldstonianConcordanceBible/SydTek-Seminary",
+          "https://github.com/GoldstonianConcordanceBible/canonical-index"
+        ],
+        "missing_from_candidate": []
+      }
+    },
+    {
+      "check": "hub_baseline_exact_feature_only_addition",
+      "status": "PASS",
+      "detail": {
+        "feature_occurrences": 1,
+        "original_hub_sha256": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042",
+        "removed_feature_candidate_sha256": "da45d211a0fcdf21b30f7d50c381033ca20c80757b41fb5846cc07dace06e042"
+      }
+    },
+    {
+      "check": "hub_all_original_links_retained",
+      "status": "PASS",
+      "detail": {
+        "lost_original_links": [],
+        "original_anchor_count": 100,
+        "candidate_anchor_count": 102
+      }
+    },
+    {
+      "check": "grouped_component_wording_accurate",
+      "status": "PASS",
+      "detail": {
+        "incorrect_both_wording": []
+      }
+    },
+    {
+      "check": "public_status_and_coverage_language",
+      "status": "PASS",
+      "detail": {
+        "noncredit_and_no_award_statement_present": true,
+        "coverage_review_statement_present": true,
+        "manual_review": "Reviewed rendered prose and generator strings. The page describes a developing noncredit survey and related resources, estimated hours, future assessment, and an accreditation pathway; it does not claim an accreditation award or completed assessed coverage."
+      }
+    },
+    {
+      "check": "study_hours_and_course_count_match_manifest",
+      "status": "PASS",
+      "detail": {
+        "courses": 12,
+        "sum_estimated_hours": 420
+      }
+    },
+    {
+      "check": "prepared_hash_manifest_matches_candidates",
+      "status": "PASS",
+      "detail": {
+        "page_sha256_matches": true,
+        "hub_sha256_matches": true
+      }
+    },
+    {
+      "check": "12_course_sections_rendered_once",
+      "status": "PASS",
+      "detail": {
+        "rendered_course_ids": [
+          "sem-000",
+          "sem-101",
+          "sem-102",
+          "sem-103",
+          "sem-104",
+          "sem-105",
+          "sem-106",
+          "sem-107",
+          "sem-108",
+          "sem-109",
+          "sem-110",
+          "sem-199"
+        ]
+      }
+    },
+    {
+      "check": "existing_modules_I_III_IV_X_preserved",
+      "status": "PASS",
+      "detail": {
+        "module_count": 4,
+        "missing_module_urls": []
+      }
+    },
+    {
+      "check": "browser_visual_mobile_keyboard_qa",
+      "status": "NOT_RUN",
+      "detail": "Independent source QA only. Browser control remains with Skool agent/root."
+    },
+    {
+      "check": "remote_live_page_publication_and_link_availability",
+      "status": "NOT_RUN",
+      "detail": "Prepared local candidates reviewed; this review does not establish Shopify publication, Skool course availability, or current endpoint responses."
+    },
+    {
+      "check": "teaching_content_or_accreditation_substantive_validation",
+      "status": "NOT_RUN",
+      "detail": "Metadata and public claim wording only; primary text identity, instruction, assessments, institutional authorization and accreditation are outside this QA scope."
+    }
+  ],
+  "findings": [],
+  "test_execution": "Python standard-library HTML parsing and exact source/manifest comparisons; source/generator prose reviewed. Generator not executed or modified by this reviewer.",
+  "source_inventory_changed": false
+}

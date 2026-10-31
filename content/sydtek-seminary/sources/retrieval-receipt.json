@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "retrieved_at": "2026-10-31T01:35:49.149826+00:00",
+  "public_source_url": "https://www.youtube.com/@ENOCHLIVE1/playlists",
+  "public_channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+  "method": "Public HTTPS channel HTML and unauthenticated public browse continuation metadata via the environment’s configured network proxy.",
+  "pages": [
+    {
+      "page": 1,
+      "rows": 28,
+      "has_continuation": true
+    },
+    {
+      "page": 2,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 3,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 4,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 5,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 6,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 7,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 8,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 9,
+      "rows": 6,
+      "has_continuation": false
+    }
+  ],
+  "channel_listing_complete_for_retrieved_public_playlist_continuation": true,
+  "public_playlist_records": 244,
+  "selected_seminary_playlists": 118,
+  "additional_individual_video_candidates": 1,
+  "initial_html_sha256": "11c58990c0629e51050c4e554058bcdb15ea39257d06f80fb1cb2152855a10c8",
+  "initial_parsed_json_sha256": "82b6309f1f7401f57e2b809b78b90aeeae60f9b683d8dfedbd2af8575ed5b922",
+  "scope_limits": [
+    "No authenticated account or private analytics was queried.",
+    "No video, audio, captions, or transcript was downloaded.",
+    "A public listing can omit private, unlisted, unavailable, or removed material.",
+    "Counts can change after this retrieval.",
+    "No independent validation of learning content, accreditation, unique learners, or learning outcomes was performed."
+  ]
+}

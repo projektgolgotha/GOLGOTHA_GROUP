@@ -1,0 +1,12 @@
+query SeminaryThemeGuard {
+ live: theme(id:"gid://shopify/OnlineStoreTheme/189733863535") {
+  id name role updatedAt files(first:20,filenames:["layout/theme.liquid","templates/page.liquid","templates/page.json","sections/main-page.liquid","templates/page.ew-learning.liquid"]) {
+   nodes { filename checksumMd5 body { ... on OnlineStoreThemeFileBodyText { content } } } pageInfo { hasNextPage endCursor }
+  }
+ }
+ draft: theme(id:"gid://shopify/OnlineStoreTheme/189815685231") {
+  id name role updatedAt files(first:20,filenames:["layout/theme.liquid","templates/page.liquid","templates/page.json","sections/main-page.liquid","templates/page.ew-learning.liquid"]) {
+   nodes { filename checksumMd5 body { ... on OnlineStoreThemeFileBodyText { content } } } pageInfo { hasNextPage endCursor }
+  }
+ }
+}

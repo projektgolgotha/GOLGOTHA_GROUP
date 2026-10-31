@@ -1,0 +1,6 @@
+mutation SeminaryPageUpdate($id:ID!,$page:PageUpdateInput!){
+ pageUpdate(id:$id,page:$page){
+  page { id handle title templateSuffix updatedAt }
+  userErrors { field message code }
+ }
+}

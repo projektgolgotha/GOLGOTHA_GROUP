@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "status": "existing_source_framework_preserved",
+  "modules": [
+    {
+      "source_module_label": "MODULE I",
+      "title": "☦️ MODULE I | Introduction to the Ethiopian Canon: The Biblical World Beyond the 66-Book Framework | SydTek Seminary Course - The Gateway☦️",
+      "playlist_id": "PLtS4zDr2sp3Ro-Aik9XYsI5ggCJDf0cb4",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Ro-Aik9XYsI5ggCJDf0cb4",
+      "entry_count": 14,
+      "curriculum_role": "Orientation to Ethiopian canon study",
+      "verification_level": "public_channel_playlist_metadata",
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "source_module_number_is_lms_course_number": false,
+      "implementation_note": "Preserve the existing source title and module label. New LMS units may have their own sequence and assessments; do not imply missing source modules II or V–IX were supplied."
+    },
+    {
+      "source_module_label": "MODULE III",
+      "title": "☦️ MODULE III | Enoch: Watchers, Judgment, Righteousness, and the Expanded Biblical Imagination | SydTek Seminary☦️",
+      "playlist_id": "PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s",
+      "entry_count": 42,
+      "curriculum_role": "Existing Enoch teaching module",
+      "verification_level": "public_channel_playlist_metadata",
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "source_module_number_is_lms_course_number": false,
+      "implementation_note": "Preserve the existing source title and module label. New LMS units may have their own sequence and assessments; do not imply missing source modules II or V–IX were supplied."
+    },
+    {
+      "source_module_label": "MODULE IV",
+      "title": "☦️ MODULE IV | What Is the Goldstonian Concordance Bible?: The Living Framework of Scripture, Doctrine, and Formation | SydTek Seminary☦️",
+      "playlist_id": "PLtS4zDr2sp3Sykf7gmiPLQMAlbXbJSTq5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Sykf7gmiPLQMAlbXbJSTq5",
+      "entry_count": 12,
+      "curriculum_role": "Introduction to the creator’s Goldstonian Concordance Bible framework",
+      "verification_level": "public_channel_playlist_metadata",
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "source_module_number_is_lms_course_number": false,
+      "implementation_note": "Preserve the existing source title and module label. New LMS units may have their own sequence and assessments; do not imply missing source modules II or V–IX were supplied."
+    },
+    {
+      "source_module_label": "MODULE X",
+      "title": "☦️MODULE X | The Ethiopian Canon Deep Dive: Enoch, Jubilees, Meqabyan, and the Expanded Biblical Witness☦️",
+      "playlist_id": "PLtS4zDr2sp3SsS-LCoFSFojGRGZiM9WW5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SsS-LCoFSFojGRGZiM9WW5",
+      "entry_count": 2,
+      "curriculum_role": "Advanced orientation to the expanded Ethiopian witness",
+      "verification_level": "public_channel_playlist_metadata",
+      "content_reviewed": false,
+      "coverage_verified": false,
+      "source_module_number_is_lms_course_number": false,
+      "implementation_note": "Preserve the existing source title and module label. New LMS units may have their own sequence and assessments; do not imply missing source modules II or V–IX were supplied."
+    }
+  ],
+  "scope_note": "These four named modules were found in the public playlist catalog. This is a metadata inventory, not a claim that they constitute a complete or accredited program."
+}

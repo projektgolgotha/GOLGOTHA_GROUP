@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "status": "metadata_findings_not_content_review",
+  "findings": [
+    {
+      "finding_id": "CUR-001",
+      "playlist_id": "PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+      "title": "LAYER I - THE OFFICIAL CANON: The Book of Genesis: The Goldstonian Concordance Bible - All 81 Books",
+      "excluded_from_recommended_learning": true,
+      "reason": "Trading-related entry titles are present in a collection whose title refers to Genesis and All 81 Books. The collection must be curated before use as a learning sequence.",
+      "evidence_kind": "public_playlist_entry_metadata",
+      "retrieved_at": "2026-10-31T01:38:27.633395+00:00",
+      "observed_examples": [
+        {
+          "video_id": "JYU08mz9kk0",
+          "url": "https://www.youtube.com/watch?v=JYU08mz9kk0&list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+          "title": "ENOCH ONE: MRNA Short +22.44% | Profit at 10:30 PM | Protecting the Trade",
+          "position": 163
+        },
+        {
+          "video_id": "YbZPlElE8Mc",
+          "url": "https://www.youtube.com/watch?v=YbZPlElE8Mc&list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+          "title": "ENOCH ONE Control Tower LIVE: DELL Long, Order Books on GDex.pro & U.S. Market Open",
+          "position": 164
+        },
+        {
+          "video_id": "zwfB_xBb1gk",
+          "url": "https://www.youtube.com/watch?v=zwfB_xBb1gk&list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+          "title": "Copytrade ENOCH ONE One on GDex.pro with referral link: https://gdex.pro/?ref=pFPVk9bjAV68Bwd1aupE",
+          "position": 165
+        }
+      ],
+      "content_watched": false
+    },
+    {
+      "finding_id": "CUR-002",
+      "playlist_id": "PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "title": "LAYER I - THE OFFICIAL CANON: The Bible Explained (All Books) | Complete Canon Study | Goldstonian Concordance Bible",
+      "excluded_from_recommended_learning": false,
+      "automatic_all_units_assignment_allowed": false,
+      "reason": "The broad overview collection contains varied book introductions and other entries; its title does not independently establish full 81-unit coverage. A specific John introduction was located and preserved as a distinct video candidate.",
+      "evidence_kind": "public_playlist_entry_metadata",
+      "retrieved_at": "2026-10-31T01:38:27.405642+00:00",
+      "observed_examples": [
+        {
+          "video_id": "SsAIEvo6Xbw",
+          "url": "https://www.youtube.com/watch?v=SsAIEvo6Xbw&list=PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+          "title": "John Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+          "position": 49
+        }
+      ],
+      "visible_entry_rows_observed": 120,
+      "channel_entry_count": 122,
+      "pagination_completeness_verified": false,
+      "content_watched": false
+    }
+  ],
+  "rules": [
+    "Use exact source IDs and faculty-approved selections for learning sequences.",
+    "Keep removed/unavailable entries and changing playlist counts separate from learning progress and completion evidence.",
+    "Review the substantive lesson content and primary-text basis before designing scored knowledge assessments."
+  ]
+}

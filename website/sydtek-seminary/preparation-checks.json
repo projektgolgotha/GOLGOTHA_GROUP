@@ -1,0 +1,17 @@
+{
+  "status": "prepared_not_published",
+  "canon_units": 81,
+  "courses": 12,
+  "resource_status_counts": {
+    "candidate_sources_found": 65,
+    "text_identity_review": 13,
+    "no_candidate_identified": 3
+  },
+  "skool_publication_verified": false,
+  "hub_baseline_preserved_exactly": true,
+  "menu_change_required": false,
+  "theme_file_changes": [],
+  "intended_page_template": "ew-learning",
+  "page_candidate_sha256": "aaee03dd7410c216e3b6ac286284c71bf44c3364e53897836bc0764af57d0441",
+  "hub_candidate_sha256": "9d64caae912cabf5b16e2011f6cf5aeed1877757baf660b480e877011cbb8394"
+}

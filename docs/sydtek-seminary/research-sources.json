@@ -1,0 +1,174 @@
+{
+  "research_date": "2026-10-30",
+  "status": "retrieved_reference_inventory_not_an_approval",
+  "sources": [
+    {
+      "id": "EOTC-CANON",
+      "publisher": "Ethiopian Orthodox Tewahedo Church",
+      "title": "The Bible: canonical books",
+      "url": "https://ethiopianorthodox.org/english/canonical/books.html",
+      "used_for": "Primary published 46 OT / 35 NT numbering list.",
+      "source_type": "church_primary"
+    },
+    {
+      "id": "EOTC-MK",
+      "publisher": "EOTC Mahibere Kidusan",
+      "title": "Holy Scriptures",
+      "url": "https://eotcmk.org/e/holy-scriptures/",
+      "used_for": "Corresponding church-department inventory.",
+      "source_type": "church_primary"
+    },
+    {
+      "id": "MIKRE-1993",
+      "publisher": "G. A. Mikre-Sellassie / The Bible Translator",
+      "title": "The Bible and its Canon in the Ethiopian Orthodox Church",
+      "url": "https://translation.bible/wp-content/uploads/2024/06/mikre-sellassie-1993-the-bible-and-its-canon-in-the-ethiopian-orthodox-church.pdf",
+      "used_for": "Original scholarly study of canonical counting and textual groupings; pp. 120–123 particularly relevant.",
+      "source_type": "original_research"
+    },
+    {
+      "id": "UBS-MEQ-1",
+      "publisher": "United Bible Societies TIPs",
+      "title": "The Book of 1 Meqabyan",
+      "url": "https://tips.translation.bible/story/the-book-of-1-meqabyan/",
+      "used_for": "Translator-provided resource distinguishes the Ethiopic work from 1 Maccabees.",
+      "source_type": "translation_primary"
+    },
+    {
+      "id": "UBS-MEQ-3",
+      "publisher": "United Bible Societies TIPs",
+      "title": "The Book of 3 Meqabyan",
+      "url": "https://tips.translation.bible/story/the-book-of-3-meqabyan/",
+      "used_for": "Translator-provided resource distinguishes the Ethiopic work from 3 Maccabees.",
+      "source_type": "translation_primary"
+    },
+    {
+      "id": "ATS-MEMBERSHIP",
+      "publisher": "Association of Theological Schools",
+      "title": "Membership",
+      "url": "https://www.ats.edu/Membership",
+      "used_for": "Graduate theological institutional scope and distinction between Associate Membership and accreditation.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ATS-INSTRUCTIONS",
+      "publisher": "Association of Theological Schools",
+      "title": "Associate Membership Application Instructions",
+      "url": "https://www.ats.edu/files/galleries/ats-associate-membership-application-instructions.pdf",
+      "used_for": "Entry process for institutions offering graduate professional theological degrees. Search index retrieved; direct web fetch timed out.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ATS-PROCESS",
+      "publisher": "Association of Theological Schools",
+      "title": "Membership Process",
+      "url": "https://www.ats.edu/Membership-Process",
+      "used_for": "Published application calendar; next listed deadline September 1, 2027. Search index retrieved; direct web fetch timed out.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ATS-ACCREDITATION",
+      "publisher": "ATS Commission on Accrediting",
+      "title": "Accreditation",
+      "url": "https://www.ats.edu/Accreditation",
+      "used_for": "Association membership and Commission accreditation are related but distinct.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ABHE-ELIGIBILITY-2026",
+      "publisher": "ABHE Commission on Accreditation",
+      "title": "2026 Institutional Conditions of Eligibility",
+      "url": "https://www.abhe.org/wp-content/uploads/2026/03/2026-Institutional-Conditions-of-Eligibility.pdf",
+      "used_for": "Current published eligibility: entity, governance, program size/history, enrollment, graduates, audit.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ABHE-STANDARDS-2026",
+      "publisher": "ABHE Commission on Accreditation",
+      "title": "2026 Institutional Accreditation Standards",
+      "url": "https://www.abhe.org/wp-content/uploads/2026/03/2026-Institutional-Standards.pdf",
+      "used_for": "Institutional academic, governance, assessment and operational standards.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "ABHE-FAQ",
+      "publisher": "ABHE Commission on Accreditation",
+      "title": "Accreditation FAQs",
+      "url": "https://www.abhe.org/about-the-commission/accreditation-frequently-asked-questions/",
+      "used_for": "Scope differences between USDE and CHEA recognition.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "TRACS-ABOUT",
+      "publisher": "TRACS",
+      "title": "Get to Know TRACS",
+      "url": "https://www.tracs.org/about",
+      "used_for": "Institutional scope and evangelical Protestant faith-statement expectation.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "TRACS-IER-2026",
+      "publisher": "TRACS",
+      "title": "Institutional Eligibility Requirements, October 2026",
+      "url": "https://www.tracs.org/_files/ugd/a8a4b6_49ef5fc42eb34aaea65282777960b13d.pdf",
+      "used_for": "Current retrieved entry requirements including financial evidence and operational authority.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "TRACS-MANUAL",
+      "publisher": "TRACS",
+      "title": "Accreditation Manual",
+      "url": "https://www.tracs.org/_files/ugd/a8a4b6_12b267bf919f43b698806cf97fd9f17a.pdf",
+      "used_for": "Standards including credit hours and distance-education processes.",
+      "source_type": "agency_primary"
+    },
+    {
+      "id": "NC-116-15",
+      "publisher": "North Carolina General Assembly",
+      "title": "G.S. 116-15",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_116/GS_116-15.html",
+      "used_for": "Covered degree activity and religious exemption provision.",
+      "source_type": "government_primary"
+    },
+    {
+      "id": "UNC-AUTHORIZATION",
+      "publisher": "UNC System",
+      "title": "State Authorization",
+      "url": "https://www.northcarolina.edu/offices-and-services/academic-affairs/licensure-department/",
+      "used_for": "Application process; religious exemption is not a program-quality determination or UNC endorsement.",
+      "source_type": "government_primary"
+    },
+    {
+      "id": "UNC-EXEMPTION",
+      "publisher": "UNC System",
+      "title": "Religious Exemption",
+      "url": "https://www.northcarolina.edu/offices-and-services/academic-affairs/licensure-department/religious-exempt-institutions/",
+      "used_for": "Directory and program-specific scope of declared exemptions.",
+      "source_type": "government_primary"
+    },
+    {
+      "id": "NC-115D",
+      "publisher": "North Carolina General Assembly",
+      "title": "Chapter 115D, Article 8",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_115D/Article_8.html",
+      "used_for": "Nondegree proprietary-school definition and licensing framework.",
+      "source_type": "government_primary"
+    },
+    {
+      "id": "NC-115D-88",
+      "publisher": "North Carolina General Assembly",
+      "title": "G.S. 115D-88",
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_115d/gs_115d-88.html",
+      "used_for": "Specified exemptions, including qualifying nonprofit religious-school circumstances.",
+      "source_type": "government_primary"
+    },
+    {
+      "id": "NCCCS-DISTANCE",
+      "publisher": "North Carolina Community College System",
+      "title": "Distance Education",
+      "url": "https://www.nccommunitycolleges.edu/about-us/state-board/state-board-of-proprietary-schools/distance-education/",
+      "used_for": "Agency explanation of physical presence and nondegree oversight.",
+      "source_type": "government_primary"
+    }
+  ]
+}

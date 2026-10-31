@@ -1,0 +1,34 @@
+{
+  "status": "prepared",
+  "shop_id": "gid://shopify/Shop/81345740911",
+  "site": "https://enochworld.com",
+  "operations": [
+    {
+      "page_id": "gid://shopify/Page/166882574447",
+      "handle": "sydtek-seminary",
+      "body_file": "page-candidate.html",
+      "title": "SydTek Seminary | Ethiopian Canon Studies",
+      "templateSuffix": "ew-learning"
+    },
+    {
+      "page_id": "gid://shopify/Page/166880215151",
+      "handle": "sydtek",
+      "body_file": "hub-candidate.html",
+      "preserve_title_and_template": true
+    }
+  ],
+  "menu_write": false,
+  "theme_file_write": false,
+  "theme_publish": false,
+  "publication_preconditions": [
+    "Current page bodies still match the captured baseline",
+    "Exact Skool destination publication verified",
+    "Source package on the authorized GitHub main branch",
+    "GraphQL operation validated",
+    "Candidate content review passed"
+  ],
+  "rollback_files": [
+    "rollback/sydtek-seminary-before.html",
+    "rollback/sydtek-before.html"
+  ]
+}

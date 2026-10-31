@@ -1,0 +1,3593 @@
+{
+  "schema_version": "1.0",
+  "status": "metadata_verified_curriculum_coverage_under_review",
+  "retrieved_at": "2026-10-31T01:35:49.149826+00:00",
+  "channel_url": "https://www.youtube.com/@ENOCHLIVE1/playlists",
+  "channel_id": "UCQNpDafX4DE5tl2jLkgwhRw",
+  "retrieval_method": "Unauthenticated public channel HTML ytInitialData and ordinary public browse continuation metadata. No videos or transcripts downloaded.",
+  "retrieval_pages": [
+    {
+      "page": 1,
+      "rows": 28,
+      "has_continuation": true
+    },
+    {
+      "page": 2,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 3,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 4,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 5,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 6,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 7,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 8,
+      "rows": 30,
+      "has_continuation": true
+    },
+    {
+      "page": 9,
+      "rows": 6,
+      "has_continuation": false
+    }
+  ],
+  "playlist_metadata_verified": true,
+  "course_coverage_verified": false,
+  "playlists": [
+    {
+      "playlist_id": "PLtS4zDr2sp3SsS-LCoFSFojGRGZiM9WW5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SsS-LCoFSFojGRGZiM9WW5",
+      "title": "☦️MODULE X | The Ethiopian Canon Deep Dive: Enoch, Jubilees, Meqabyan, and the Expanded Biblical Witness☦️",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 3,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "existing_seminary_module",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SsS-LCoFSFojGRGZiM9WW5",
+      "existing_module_label": "MODULE X"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Sykf7gmiPLQMAlbXbJSTq5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Sykf7gmiPLQMAlbXbJSTq5",
+      "title": "☦️ MODULE IV | What Is the Goldstonian Concordance Bible?: The Living Framework of Scripture, Doctrine, and Formation | SydTek Seminary☦️",
+      "entry_count": 12,
+      "entry_count_display": "12 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 3,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "existing_seminary_module",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Sykf7gmiPLQMAlbXbJSTq5",
+      "existing_module_label": "MODULE IV"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Ro-Aik9XYsI5ggCJDf0cb4",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Ro-Aik9XYsI5ggCJDf0cb4",
+      "title": "☦️ MODULE I | Introduction to the Ethiopian Canon: The Biblical World Beyond the 66-Book Framework | SydTek Seminary Course - The Gateway☦️",
+      "entry_count": 14,
+      "entry_count_display": "14 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 3,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "existing_seminary_module",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Ro-Aik9XYsI5ggCJDf0cb4",
+      "existing_module_label": "MODULE I"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf",
+      "title": "Jude Explained | Contend for the Faith, False Teachers, and God’s Judgment | Goldstonian Concordance Bible (GCB)",
+      "entry_count": 10,
+      "entry_count_display": "10 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 4,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-26",
+          "component": "Jude",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Jude"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QkaWXD1_bfYwGCLSd_6SKf"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq",
+      "title": "The Book of Daniel Explained | GCB",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 4,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-32",
+          "component": "Daniel",
+          "status": "text_identity_review",
+          "reason": "Daniel topic playlists were found. No title-specific Susanna or Rest of Daniel source was established; exact corpus components and text editions need review."
+        }
+      ],
+      "subject_keys": [
+        "Daniel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TSL1URuKIqpZLUgB9n0gpq"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd",
+      "title": "2 Peter Explained | GCB – The Certainty of Christ’s Return",
+      "entry_count": 14,
+      "entry_count_display": "14 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-113",
+        "OBS-119"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-21",
+          "component": "2 Peter",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Peter"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3R3UcP7kV0wrqqhXJcxVKEd"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT",
+      "title": "1 Peter - The First Epistle of Peter Explained | GCB – Goldstonian Concordance Bible | SydTek Scholars",
+      "entry_count": 14,
+      "entry_count_display": "14 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-114",
+        "OBS-120"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-20",
+          "component": "1 Peter",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Peter"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TnuJ2BIPe9YqwvF-56bUoT"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Sze0x4xGpLJ-MeWIAuPSiS",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Sze0x4xGpLJ-MeWIAuPSiS",
+      "title": "Ethiopian Orthodox Tewahedo Church — One of the Oldest Christian Traditions",
+      "entry_count": 30,
+      "entry_count_display": "30 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-115",
+        "OBS-121"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Sze0x4xGpLJ-MeWIAuPSiS"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RNba9txGUIYHwjEacDJAs2",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RNba9txGUIYHwjEacDJAs2",
+      "title": "Women in Scripture Explained | GCB – Faith, Leadership, and Covenant",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-116",
+        "OBS-122"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RNba9txGUIYHwjEacDJAs2"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T",
+      "title": "Clement Explained | GCB – Apostolic Tradition and Early Church Instruction",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-117",
+        "OBS-123"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-34",
+          "component": "Ethiopic Clement",
+          "status": "text_identity_review",
+          "reason": "The Clement title does not establish that the source teaches the Ethiopic Clement text rather than another Clement tradition. Exact text identity requires review."
+        }
+      ],
+      "subject_keys": [
+        "Ethiopic Clement"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RAE8Cw0NAi9CZq8ANU_K-T"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt",
+      "title": "Book of the Covenant in the Ethiopian Bible | GCB",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-118",
+        "OBS-124"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-32",
+          "component": "Book of the Covenant I",
+          "status": "text_identity_review",
+          "reason": "One Book of the Covenant playlist exists; part I content has not been independently distinguished from part II."
+        },
+        {
+          "canon_id": "NT-33",
+          "component": "Book of the Covenant II",
+          "status": "text_identity_review",
+          "reason": "One Book of the Covenant playlist exists; part II content has not been independently distinguished from part I."
+        }
+      ],
+      "subject_keys": [
+        "Book of the Covenant I",
+        "Book of the Covenant II"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SjtTFube5gjDlwo-SinDAt"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP",
+      "title": "Didascalia Apostolorum Explained | GCB – Apostolic Teaching and Church Discipline",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-125",
+        "OBS-126"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-35",
+          "component": "Ethiopic Didascalia",
+          "status": "text_identity_review",
+          "reason": "Didascalia Apostolorum in the playlist title does not establish equivalence to the Ethiopic Didascalia in this registry. Exact text identity requires review."
+        }
+      ],
+      "subject_keys": [
+        "Ethiopic Didascalia"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3S6B4xKQp0NY_LYsVWRTXXP"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5",
+      "title": "Sinodos Explained | GCB – Apostolic Church Order and Early Christian Discipline",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-127"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-28",
+          "component": "Sirate Tsion / Sinodos I",
+          "status": "text_identity_review",
+          "reason": "One generic Sinodos playlist exists; separate Sirate Tsion content has not been verified."
+        },
+        {
+          "canon_id": "NT-29",
+          "component": "Tizaz / Sinodos II",
+          "status": "text_identity_review",
+          "reason": "One generic Sinodos playlist exists; separate Tizaz content has not been verified."
+        },
+        {
+          "canon_id": "NT-30",
+          "component": "Gitsew / Sinodos III",
+          "status": "text_identity_review",
+          "reason": "One generic Sinodos playlist exists; separate Gitsew content has not been verified."
+        },
+        {
+          "canon_id": "NT-31",
+          "component": "Abtilis / Sinodos IV",
+          "status": "text_identity_review",
+          "reason": "One generic Sinodos playlist exists; separate Abtilis content has not been verified."
+        }
+      ],
+      "subject_keys": [
+        "Sirate Tsion / Sinodos I",
+        "Tizaz / Sinodos II",
+        "Gitsew / Sinodos III",
+        "Abtilis / Sinodos IV"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TMOOgDdjxwlA4ZJ1v0PAA5"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN",
+      "title": "Jude Explained | GCB – Contending for the Faith",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-128"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-26",
+          "component": "Jude",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Jude"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QNywED0BFhV-xuiJ3lLrDN"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR",
+      "title": "3 John Explained | GCB – Faithfulness, Hospitality, and Walking in Truth",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-129"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-24",
+          "component": "3 John",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "3 John"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T-ZofObExGO3SaM4b5g3CR"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI",
+      "title": "2 John Explained | GCB – Walking in Truth and Guarding Against Deception",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-130"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-23",
+          "component": "2 John",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 John"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TdKGuNjVlyN_Zq8eFhAWKI"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa",
+      "title": "1 John Explained | GCB – Walking in the Light and the Assurance of Truth",
+      "entry_count": 110,
+      "entry_count_display": "110 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-131"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-22",
+          "component": "1 John",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 John"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SFBCoj6YT3_AY2eTzfeiPa"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE",
+      "title": "James Explained | GCB – Faith That Produces Action",
+      "entry_count": 21,
+      "entry_count_display": "21 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-092",
+        "OBS-132"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-25",
+          "component": "James",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "James"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QOxNhr4wIuC49z7Ejk21XE"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A",
+      "title": "Hebrews Explained | GCB – Christ the Eternal High Priest",
+      "entry_count": 24,
+      "entry_count_display": "24 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-093"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-19",
+          "component": "Hebrews",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Hebrews"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RELUodkKFZQDvlFuMWjo1A"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm",
+      "title": "Philemon Explained | GCB – Forgiveness, Brotherhood, and Christian Reconciliation",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-094"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-18",
+          "component": "Philemon",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Philemon"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Q6omgv_rYNO-Ay1lt0cCcm"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII",
+      "title": "Titus Explained | GCB – Sound Doctrine and Godly Living",
+      "entry_count": 5,
+      "entry_count_display": "5 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-095"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-17",
+          "component": "Titus",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Titus"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SfPLrxwf78_pHWLFf9ZwII"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0",
+      "title": "2 Timothy Explained | GCB – Endurance, Faithfulness, and Finishing the Race",
+      "entry_count": 12,
+      "entry_count_display": "12 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-096"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-16",
+          "component": "2 Timothy",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Timothy"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3R1SrebbY8GTjN2QbfNYmC0"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU",
+      "title": "1 Timothy Explained | GCB – Leadership, Doctrine, and the Order of the Church",
+      "entry_count": 9,
+      "entry_count_display": "9 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-097"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-15",
+          "component": "1 Timothy",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Timothy"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SRUVmDjrgy60vdR4Aa6MfU"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs",
+      "title": "2 Thessalonians Explained | GCB – The Day of the Lord and Standing Firm",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-098",
+        "OBS-099"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-14",
+          "component": "2 Thessalonians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Thessalonians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Qyqj0M_hG9ApveGCe-Q4zs"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo",
+      "title": "1 Thessalonians Explained | GCB – Hope, Holiness, and the Return of Christ",
+      "entry_count": 9,
+      "entry_count_display": "9 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-100"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-13",
+          "component": "1 Thessalonians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Thessalonians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RFdZfUzDfywJ1XqxIY9peo"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq",
+      "title": "Colossians Explained | GCB – The Supremacy of Christ",
+      "entry_count": 6,
+      "entry_count_display": "6 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-101"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-12",
+          "component": "Colossians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Colossians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SA1U8poj7sIojKyjr2tMXq"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5",
+      "title": "Philippians Explained | GCB – Joy, Humility, and Strength in Christ",
+      "entry_count": 11,
+      "entry_count_display": "11 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-102"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-11",
+          "component": "Philippians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Philippians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QdnGT4ul1MrwoW3ofzt-p5"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n",
+      "title": "1 Corinthians Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "entry_count": 37,
+      "entry_count_display": "37 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-103"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-07",
+          "component": "1 Corinthians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Corinthians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TWMIeR7ChjPFQwZLVCzR8n"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T9Bx5EN42Nm8Qe9de-mH9I",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T9Bx5EN42Nm8Qe9de-mH9I",
+      "title": "New Atheism Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "entry_count": 92,
+      "entry_count_display": "92 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-104"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T9Bx5EN42Nm8Qe9de-mH9I"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TGr-zy_iH_7bYSCR-tN8R2",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TGr-zy_iH_7bYSCR-tN8R2",
+      "title": "Mythological Drift Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "entry_count": 31,
+      "entry_count_display": "31 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-105",
+        "OBS-106"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TGr-zy_iH_7bYSCR-tN8R2"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N",
+      "title": "Mark Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-107"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-02",
+          "component": "Mark",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Mark"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RQh7VtlHJF3YaG2M5unE8N"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TXKfme8WlRUZJ8qyq4Ze0C",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TXKfme8WlRUZJ8qyq4Ze0C",
+      "title": "The New Testament Explained Goldstonian Concordance Bible (GCB) | SydTek Scholars",
+      "entry_count": 37,
+      "entry_count_display": "37 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-108"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "overview_collection",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TXKfme8WlRUZJ8qyq4Ze0C"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm",
+      "title": "3 Meqabyan Explained | Pride, Idolatry, and the Fall of Corrupt Rulers | The Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 5,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-109"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-21",
+          "component": "3 Meqabyan",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "3 Meqabyan"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TeO5kzsaJ5VnZ2hZvW4FFm"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW",
+      "title": "2 Meqabyan Explained | Faith, Idolatry, and the Fall of a Tyrant | The Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-110"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-21",
+          "component": "2 Meqabyan",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Meqabyan"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Sl-5YcmPGB-kVPBRA7JDGW"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi",
+      "title": "1 Meqabyan Explained | The Ethiopian Maccabees and Faithfulness Under Oppression | The Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-111"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-20",
+          "component": "1 Meqabyan",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Meqabyan"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SpN39_8N4RS7EMwxqVp-hi"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA",
+      "title": "Zechariah Explained | Visions, Restoration, and the Coming King | The Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-071",
+        "OBS-112"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-43",
+          "component": "Zechariah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Zechariah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RLljMZddzKx_PLd00dtgYA"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt",
+      "title": "Haggai Explained | Rebuilding the Temple and Renewing the Covenant | The Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-072"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-42",
+          "component": "Haggai",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Haggai"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QZTBKei5wQKGxTmU9UVKMt"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3S9C6Lys27YvZGsEdL6Pqon",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S9C6Lys27YvZGsEdL6Pqon",
+      "title": "The Fallen Watchers Explained | Angels Who Rebelled Before the Flood | The Goldstonian Concordance Bible",
+      "entry_count": 19,
+      "entry_count_display": "19 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-073"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3S9C6Lys27YvZGsEdL6Pqon"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3S0Wa8yBeUHUHWSoGO6aG7B",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S0Wa8yBeUHUHWSoGO6aG7B",
+      "title": "Codex Gigas Explained | The Devil’s Bible and Medieval Demonology | The Goldstonian Concordance Bible",
+      "entry_count": 9,
+      "entry_count_display": "9 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-074"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3S0Wa8yBeUHUHWSoGO6aG7B"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ThTrjp8ATduWeqvj9hxKeA",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ThTrjp8ATduWeqvj9hxKeA",
+      "title": "Demonology Explained | Types of Demons and Spiritual Opposition in Scripture | The Goldstonian Concordance Bible",
+      "entry_count": 34,
+      "entry_count_display": "34 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-075"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ThTrjp8ATduWeqvj9hxKeA"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RMyfE3_cMc8lHbnQBTMmyr",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RMyfE3_cMc8lHbnQBTMmyr",
+      "title": "Angelology Explained | Angels, Messengers, and the Heavenly Order | The Goldstonian Concordance Bible",
+      "entry_count": 14,
+      "entry_count_display": "14 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-076"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RMyfE3_cMc8lHbnQBTMmyr"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK",
+      "title": "Zephaniah Explained | The Day of the Lord and Global Judgment (GCB)",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-077",
+        "OBS-078"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-41",
+          "component": "Zephaniah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Zephaniah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QP7ZACAXGKVcQ03AKQPmrK"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem",
+      "title": "Habakkuk Explained | Questioning God, Faith, and Justice (GCB)",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-079"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-40",
+          "component": "Habakkuk",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Habakkuk"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QUCUV7-CkBaAW_tyTmeyem"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1",
+      "title": "Nahum Explained | The Fall of Nineveh and God’s Justice (GCB)",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-080"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-39",
+          "component": "Nahum",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Nahum"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SipnQs4ZGURvtGz-jE7Ad1"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF",
+      "title": "Jonah Explained | Mercy, Repentance, and the City of Nineveh | The Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-081"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-38",
+          "component": "Jonah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Jonah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Qu4gigVpfZzkJ09QLF5NIF"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij",
+      "title": "Obadiah Explained | Judgment on Edom and the Day of the Lord | The Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-082"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-37",
+          "component": "Obadiah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Obadiah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T2-03z8ir3naZdh-xp74ij"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ",
+      "title": "Amos Explained | Justice, Judgment, and the Day of the Lord | The Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-083"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-34",
+          "component": "Amos",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Amos"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3To1yhd0lLJJwk36PiisvyQ"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA",
+      "title": "Hosea Explained | The Prophet of God’s Relentless Love",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-084",
+        "OBS-085"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-33",
+          "component": "Hosea",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Hosea"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QmgAE_KmkbBLBPmolJkxZA"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt",
+      "title": "Baruch Explained | Wisdom, Repentance, and Hope in Exile | The Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-086"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-30",
+          "component": "Baruch — verify selected edition",
+          "status": "text_identity_review",
+          "reason": "Separate Jeremiah, Lamentations, and Baruch topic playlists were found. No title-specific Rest of Jeremiah source was established; exact corpus components and text editions need review."
+        }
+      ],
+      "subject_keys": [
+        "Baruch — verify selected edition"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TTJh6aWA7-EQgWOApr1xjt"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn",
+      "title": "Wisdom of Solomon Explained | Divine Wisdom, Justice, and Immortality | Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-087"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-26",
+          "component": "Wisdom / Metsihafe Tibeb",
+          "status": "text_identity_review",
+          "reason": "Wisdom of Solomon is a plausible title-level candidate for the registry’s Wisdom/Metsihafe Tibeb unit; confirm exact text and edition."
+        }
+      ],
+      "subject_keys": [
+        "Wisdom / Metsihafe Tibeb"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RcXIVFUrDHWA0Nhyvemxcn"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW",
+      "title": "Song of Solomon Explained | Love, Covenant, and Devotion | The Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-088"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-28",
+          "component": "Song of Songs",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Song of Songs"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RuA806W84XpiZa_rR4gZMW"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM",
+      "title": "Ecclesiastes Explained | Meaning, Wisdom, and the Limits of Human Pursuit | The Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-089"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-27",
+          "component": "Ecclesiastes",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Ecclesiastes"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RZrONhj0SkSCLtmhiVMpzM"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS",
+      "title": "Proverbs Explained | Wisdom, Discipline, and the Fear of the Lord | The Goldstonian Concordance Bible",
+      "entry_count": 16,
+      "entry_count_display": "16 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-090"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-24",
+          "component": "Proverbs 1–24 — standard crosswalk candidate",
+          "status": "text_identity_review",
+          "reason": "A general Proverbs playlist was found; review the selected edition and actual chapter scope before mapping Proverbs/Messale and its distinct Tegsats division."
+        }
+      ],
+      "subject_keys": [
+        "Proverbs 1–24 — standard crosswalk candidate"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ShGZAgEcaUu1cCfFEp__eS"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TfO1diCNfoIwJp3RV6T9G9",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TfO1diCNfoIwJp3RV6T9G9",
+      "title": "New Testament Explained | The Life of Jesus and the Birth of the Church",
+      "entry_count": 6,
+      "entry_count_display": "6 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-063",
+        "OBS-091"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "overview_collection",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TfO1diCNfoIwJp3RV6T9G9"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL",
+      "title": "Haggai Explained | Rebuilding the Temple and Renewing Faith",
+      "entry_count": 1,
+      "entry_count_display": "1 video",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-064"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-42",
+          "component": "Haggai",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Haggai"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SsOV0rr_R-JoF72_zUBNyL"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H",
+      "title": "Habakkuk Explained | Faith in the Midst of Injustice",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-065"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-40",
+          "component": "Habakkuk",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Habakkuk"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T_rUwiTsADUcBJwdTYhw3H"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv",
+      "title": "Nahum Explained | The Fall of Nineveh and God’s Justice",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-066"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-39",
+          "component": "Nahum",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Nahum"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RumpIrL5gmxVeX_tKke0Mv"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON",
+      "title": "Micah Explained | Judgment, Justice, and the Prophecy of the Messiah",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-067"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-35",
+          "component": "Micah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Micah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RGYOfKUH2Zkm2Raj_Zv0ON"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX",
+      "title": "Obadiah Explained | Judgment on Edom and the Day of the Lord",
+      "entry_count": 1,
+      "entry_count_display": "1 video",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-068"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-37",
+          "component": "Obadiah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Obadiah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QMlXjbJvTgE0fxUA7mGZEX"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q",
+      "title": "Amos Explained | Justice, Judgment, and the Day of the Lord",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-056",
+        "OBS-069"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-34",
+          "component": "Amos",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Amos"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SAM28b3WtZ61vOB-ebDa0q"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO",
+      "title": "Joel Explained | The Day of the Lord and the Promise of the Spirit",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-057",
+        "OBS-070"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-36",
+          "component": "Joel",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Joel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ReT7RctePx-m1YcKko0ztO"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp",
+      "title": "Hosea Explained | God’s Faithfulness and Israel’s Unfaithfulness",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-058"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-33",
+          "component": "Hosea",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Hosea"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RGAXvTlN9z-6Snsq3NUAYp"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN",
+      "title": "Lamentations Explained | The Fall of Jerusalem and the Sorrow of a Nation",
+      "entry_count": 5,
+      "entry_count_display": "5 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 6,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-059"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-30",
+          "component": "Lamentations — verify selected edition",
+          "status": "text_identity_review",
+          "reason": "Separate Jeremiah, Lamentations, and Baruch topic playlists were found. No title-specific Rest of Jeremiah source was established; exact corpus components and text editions need review."
+        }
+      ],
+      "subject_keys": [
+        "Lamentations — verify selected edition"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T5-KwTxjXd5rMXpyriiqvN"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE",
+      "title": "Jeremiah Explained | Prophet of Warning, Exile, and the New Covenant",
+      "entry_count": 10,
+      "entry_count_display": "10 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-060"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-30",
+          "component": "Jeremiah",
+          "status": "text_identity_review",
+          "reason": "Separate Jeremiah, Lamentations, and Baruch topic playlists were found. No title-specific Rest of Jeremiah source was established; exact corpus components and text editions need review."
+        }
+      ],
+      "subject_keys": [
+        "Jeremiah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Ti05tD8fPdhR3MxNUyc8bE"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy",
+      "title": "Song of Solomon Explained | Love, Covenant, and the Wisdom of Desire",
+      "entry_count": 1,
+      "entry_count_display": "1 video",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-061"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-28",
+          "component": "Song of Songs",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Song of Songs"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TPErcHH4yr-DAk9lu-daQy"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828",
+      "title": "Psalms Explained | Worship, Prayer, and the Heart of the Bible",
+      "entry_count": 40,
+      "entry_count_display": "40 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-049",
+        "OBS-062"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-23",
+          "component": "Psalms",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Psalms"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3S2WHbDKgKC6qsJOX-1Y828"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv",
+      "title": "Sirach (Ecclesiasticus) Explained | Wisdom, Righteous Living, and the Fear of the Lord | Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-050"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-45",
+          "component": "Sirach",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Sirach"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QSdQMgDBzcedCoghHtzMnv"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QQnpGZI0pyGfKxDj0Y4Pws",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QQnpGZI0pyGfKxDj0Y4Pws",
+      "title": "Apocrypha Explained | Enoch, Tobit, Judith, Maccabees, Wisdom & Other Deuterocanonical Books | Goldstonian Concordance Bible",
+      "entry_count": 66,
+      "entry_count_display": "66 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-051"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "overview_collection",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QQnpGZI0pyGfKxDj0Y4Pws"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0",
+      "title": "📖 Esther Explained | Courage, Providence, and the Saving of Israel",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-052"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-19",
+          "component": "Esther",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Esther"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QYFIw7ECsNKj2DddlbST-0"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn",
+      "title": "📖 Judith Explained | Courage, Faith, and Deliverance",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-053"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-18",
+          "component": "Judith",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Judith"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T8Yd2no8JnFiUOdNWQMecn"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ",
+      "title": "📖 Tobit Explained | Faith, Angels, and God’s Providence",
+      "entry_count": 5,
+      "entry_count_display": "5 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-054"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-17",
+          "component": "Tobit",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Tobit"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3STIIFSVXc4KCHM4fE8zBUQ"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI",
+      "title": "Nehemiah Explained | Rebuilding the Walls of Jerusalem and Restoring the Nation | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-042",
+        "OBS-055"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-15",
+          "component": "Nehemiah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Nehemiah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TXiV1nFo6Qldq19tJn0YAI"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4",
+      "title": "Ezra Explained | The Return from Exile and the Rebuilding of the Temple | Goldstonian Concordance Bible",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-043"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-15",
+          "component": "Ezra",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Ezra"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3R-jU-oFyMTXg1oZsLriWD4"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU",
+      "title": "2 Chronicles Explained | Solomon, the Temple, and the Fall of Judah | Goldstonian Concordance Bible",
+      "entry_count": 5,
+      "entry_count_display": "5 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-044"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-12",
+          "component": "2 Chronicles",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Chronicles"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TtQqsaDuXUa-Avo-1XbBHU"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U",
+      "title": "2 Kings Explained | The Fall of Israel and Judah | Prophets, Exile, and Judgment | Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-045"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-10",
+          "component": "2 Kings",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Kings"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TDvHsV163Ww2c60EL7cC_U"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o",
+      "title": "2 Samuel Explained | The Reign of King David and the Davidic Covenant | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-046"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-09",
+          "component": "2 Samuel",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Samuel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SZaZVwEqiX6ZHUaHQFgS0o"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj",
+      "title": "1 Samuel Explained | Samuel, Saul, and the Rise of King David | Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-047"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-09",
+          "component": "1 Samuel",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Samuel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QzYkQOWjf_BrDL9P0wlTPj"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5",
+      "title": "Ruth Explained | Loyalty, Redemption, and the Line of King David | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-048"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-08",
+          "component": "Ruth",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Ruth"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SAZtP5zbnaJ14RCzpyJSY5"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL",
+      "title": "Judges Explained | Israel’s Cycles of Sin, Deliverance, and the Rise of the Judges | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-035"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-07",
+          "component": "Judges",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Judges"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RRjmdO-ITcvdR2qZKKPHjL"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U",
+      "title": "Joshua Explained | The Conquest of the Promised Land | Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-036"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-06",
+          "component": "Joshua",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Joshua"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RG0dD1U6nzjZ1W5pVH__0U"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf",
+      "title": "Numbers Explained | Israel in the Wilderness and the Journey to the Promised Land | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-037"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-04",
+          "component": "Numbers",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Numbers"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RTnBROnlxXwvMEPzgaPqdf"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RX2f4sE3l_OHe5pIQfiwgn",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RX2f4sE3l_OHe5pIQfiwgn",
+      "title": "The Old Testament Explained | Torah, Prophets, and Wisdom Books | Goldstonian Concordance Bible",
+      "entry_count": 45,
+      "entry_count_display": "45 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-038"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "overview_collection",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RX2f4sE3l_OHe5pIQfiwgn"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "title": "LAYER I - THE OFFICIAL CANON: The Bible Explained (All Books) | Complete Canon Study | Goldstonian Concordance Bible",
+      "entry_count": 122,
+      "entry_count_display": "122 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-039"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "overview_collection",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu",
+      "title": "LAYER I - THE OFFICIAL CANON: Genesis Explained | Creation, Covenant, and the Foundations of Scripture | Goldstonian Concordance Bible",
+      "entry_count": 139,
+      "entry_count_display": "139 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-040"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-01",
+          "component": "Genesis",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Genesis"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SH60RLpYwfnoKXXLk22UOu"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm",
+      "title": "Malachi Explained | Covenant Faithfulness and the Final Prophet of the Old Testament",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-028",
+        "OBS-041"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-44",
+          "component": "Malachi",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Malachi"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RC7zv4cWGsaW7rKujpVlpm"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TQbCPnpws0dRMucsU6GB5s",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TQbCPnpws0dRMucsU6GB5s",
+      "title": "Josephus — The Historian Who Confirmed the World of the Bible",
+      "entry_count": 5,
+      "entry_count_display": "5 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-029"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TQbCPnpws0dRMucsU6GB5s"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RoC51Hs1Y1ZE_mv4TC8sGG",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RoC51Hs1Y1ZE_mv4TC8sGG",
+      "title": "Maccabees Explained | The Jewish Revolt, Antiochus, and the Origins of Hanukkah",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-030"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RoC51Hs1Y1ZE_mv4TC8sGG"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Q2IHhTXUjtYpiPapxrrxut",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Q2IHhTXUjtYpiPapxrrxut",
+      "title": "Septuagint Explained | The Greek Old Testament and the Bible of the Early Church",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-031"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Q2IHhTXUjtYpiPapxrrxut"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT",
+      "title": "Mark Explained | The Gospel of Jesus the Servant King | Goldstonian Concordance Bible",
+      "entry_count": 19,
+      "entry_count_display": "19 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-032"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-02",
+          "component": "Mark",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Mark"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TZIqcVrPXBi7sspAMONpWT"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss",
+      "title": "Leviticus Explained | Torah Law, Holiness, and Priesthood | Goldstonian Concordance Bible",
+      "entry_count": 10,
+      "entry_count_display": "10 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-033"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-03",
+          "component": "Leviticus",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Leviticus"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Ss-o0HlG4XIPur034lX3Ss"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TLTCJ_ANnn7hDFm6AbRYQM",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TLTCJ_ANnn7hDFm6AbRYQM",
+      "title": "C.S. Lewis Explained | Christian Theology, Apologetics, and Spiritual Warfare",
+      "entry_count": 12,
+      "entry_count_display": "12 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-021",
+        "OBS-034"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TLTCJ_ANnn7hDFm6AbRYQM"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU",
+      "title": "Galatians Explained | Freedom, Grace, and the Law of Christ | Goldstonian Concordance Bible",
+      "entry_count": 15,
+      "entry_count_display": "15 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-022"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-09",
+          "component": "Galatians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Galatians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QhyJI3RPUnot5Hik6qOpoU"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB",
+      "title": "Micah Bible Study Playlist | Minor Prophets | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 7,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-023"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-35",
+          "component": "Micah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Micah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SiMgIT0T-TEW_o9I6chZpB"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK",
+      "title": "📖 Romans Bible Study Playlist | Salvation, Grace, and God’s Justice | Goldstonian Concordance Bible",
+      "entry_count": 39,
+      "entry_count_display": "39 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-024"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-06",
+          "component": "Romans",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Romans"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Qy75jp8_xdvLigsDhUBWrK"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TVQZWJ3AOko3JRAOE1W0x-",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TVQZWJ3AOko3JRAOE1W0x-",
+      "title": "Abaddon - Apollyon Explained | Angel of the Abyss | Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 4,
+      "entry_count_display": "4 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-025"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TVQZWJ3AOko3JRAOE1W0x-"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP",
+      "title": "📖 Hebrews Explained | Christ the Great High Priest & the New Covenant | Goldstonian Concordance Bible",
+      "entry_count": 16,
+      "entry_count_display": "16 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-026"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-19",
+          "component": "Hebrews",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Hebrews"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TMFl6JGkp1n40TOdM70MOP"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD",
+      "title": "📖 Daniel Explained | Visions, Kingdoms & the Spiritual Realm | Goldstonian Concordance Bible",
+      "entry_count": 14,
+      "entry_count_display": "14 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-014",
+        "OBS-027"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-32",
+          "component": "Daniel",
+          "status": "text_identity_review",
+          "reason": "Daniel topic playlists were found. No title-specific Susanna or Rest of Daniel source was established; exact corpus components and text editions need review."
+        }
+      ],
+      "subject_keys": [
+        "Daniel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "ethiopic_corpus_candidate_needs_text_review",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TyK7DUbGjdFUdatvdNUyBD"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim",
+      "title": "📖 Ezekiel Explained | Exile, Judgment & Restoration | Goldstonian Concordance Bible",
+      "entry_count": 10,
+      "entry_count_display": "10 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-015"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-31",
+          "component": "Ezekiel",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Ezekiel"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QRxOh9Qr6MLOdK3JWvzvim"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9",
+      "title": "📖 Zechariah Explained | Visions, Restoration & the Coming King | Goldstonian Concordance Bible",
+      "entry_count": 2,
+      "entry_count_display": "2 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-016"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-43",
+          "component": "Zechariah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Zechariah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RrZbQRmgiK48qL0tDxvwt9"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er",
+      "title": "📖 Ephesians Explained | Unity in Christ, Grace & the Full Armor of God | Goldstonian Concordance Bible",
+      "entry_count": 22,
+      "entry_count_display": "22 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-017"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-10",
+          "component": "Ephesians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Ephesians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QSZhSqh3lKD0o08rK2F1er"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY",
+      "title": "📖 Isaiah Explained | Holiness, Judgment & the Coming Messiah | Goldstonian Concordance Bible",
+      "entry_count": 27,
+      "entry_count_display": "27 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-018"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-29",
+          "component": "Isaiah",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Isaiah"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QovpDZJkpA13K-2wB_3EPY"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3QAVUchLqUS4QxCJ0Rp3lP6",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3QAVUchLqUS4QxCJ0Rp3lP6",
+      "title": "📚 Dead Sea Scrolls Explained | Canon, Context & Second Temple Judaism | Goldstonian Concordance Bible",
+      "entry_count": 33,
+      "entry_count_display": "33 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-019"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3QAVUchLqUS4QxCJ0Rp3lP6"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s",
+      "title": "📖 Jubilees Explained | Second Temple Calendar, Covenant & Genesis Retold | Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-020"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-13",
+          "component": "Jubilees",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Jubilees"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ScwNclS3D_anfk5cn7aA1s"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku",
+      "title": "📖 Deuteronomy Explained | Covenant, Law & Faithful Obedience | Goldstonian Concordance Bible",
+      "entry_count": 10,
+      "entry_count_display": "10 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-008"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-05",
+          "component": "Deuteronomy",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Deuteronomy"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Se3MeEifNWOa7YazTCXAku"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg",
+      "title": "📖 1 Kings Explained | Kingdom, Temple & Prophetic Confrontation | Goldstonian Concordance Bible",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-009"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-10",
+          "component": "1 Kings",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Kings"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RNIUPGd-86bLmk3xocVvlg"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5",
+      "title": "📖 2 Corinthians Explained | Pauline Epistle Study | Goldstonian Concordance Bible",
+      "entry_count": 28,
+      "entry_count_display": "28 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-010"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-08",
+          "component": "2 Corinthians",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "2 Corinthians"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TOVNpqMsi5tVvOli4R8sn5"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6",
+      "title": "Job Explained | Wisdom & Suffering Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 13,
+      "entry_count_display": "13 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-011"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-22",
+          "component": "Job",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Job"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SbHmSl4tFZK_4VEAKSdDF6"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ThnOWyD0Mz1Yt3CCMo2VIL",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ThnOWyD0Mz1Yt3CCMo2VIL",
+      "title": "Qur’an & Bible Interfaith Study | Monotheism, Prophecy & Faith Dialogue | Goldstonian Doctrine",
+      "entry_count": 38,
+      "entry_count_display": "38 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-012"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ThnOWyD0Mz1Yt3CCMo2VIL"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_",
+      "title": "Acts Explained | Early Church Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 37,
+      "entry_count_display": "37 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-001",
+        "OBS-013"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-05",
+          "component": "Acts",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Acts"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3T3TzWXzl7LFJz4Zaf-vzl_"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF",
+      "title": "1 Chronicles Explained | Historical Books Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 3,
+      "entry_count_display": "3 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-002"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-11",
+          "component": "1 Chronicles",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "1 Chronicles"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3TkBXUaehmiGLnTR5HTeWBF"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_",
+      "title": "Luke Explained | Gospels Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 69,
+      "entry_count_display": "69 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-003"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-03",
+          "component": "Luke",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Luke"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RFl70nRAr9rJTf6hqg2AI_"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf",
+      "title": "Matthew Explained | Gospels Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 139,
+      "entry_count_display": "139 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-004"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-01",
+          "component": "Matthew",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Matthew"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RyXLdre91LmGUrN4aOTSbf"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3S4KX0O4SE_8dXJRdwJqSR5",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3S4KX0O4SE_8dXJRdwJqSR5",
+      "title": "Book of Giants Explained | Dead Sea Scrolls Study | Goldstonian Concordance Bible",
+      "entry_count": 16,
+      "entry_count_display": "16 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-005"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "historical_comparative_thematic",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3S4KX0O4SE_8dXJRdwJqSR5"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj",
+      "title": "Deuteronomy Explained | Torah Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 7,
+      "entry_count_display": "7 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-006"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-05",
+          "component": "Deuteronomy",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Deuteronomy"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3RnQ-Qr8XPGfOKsMFmb1AVj"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K",
+      "title": "Revelation Explained | Apocalyptic Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 58,
+      "entry_count_display": "58 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [
+        "OBS-007"
+      ],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-27",
+          "component": "Revelation",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Revelation"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3Qzh3xY_A7fOfTyf-ZsRU8K"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+      "title": "LAYER I - THE OFFICIAL CANON: The Book of Genesis: The Goldstonian Concordance Bible - All 81 Books",
+      "entry_count": 165,
+      "entry_count_display": "165 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 8,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [],
+      "subject_keys": [],
+      "excluded_from_recommended_learning": true,
+      "recommended_learning_status": "excluded_pending_manual_curation",
+      "category": "mixed_topic_collection_requires_curation",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SNdsQcEd__FBDhhX1vwTlx",
+      "exclusion_reason": "Public entry metadata includes trading-related titles at positions 163–165. Do not auto-assign this broad collection as canonical-book coverage or a recommended course sequence. Curate specific relevant entries separately.",
+      "curation_evidence_file": "curation-findings.json"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s",
+      "title": "☦️ MODULE III | Enoch: Watchers, Judgment, Righteousness, and the Expanded Biblical Imagination | SydTek Seminary☦️",
+      "entry_count": 42,
+      "entry_count_display": "42 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 9,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-14",
+          "component": "1 Enoch",
+          "status": "text_identity_review",
+          "reason": "The existing Enoch module is a topic candidate. Verify the teaching is based on 1 Enoch, its selected Ethiopic edition, and the required divisions before confirming coverage."
+        }
+      ],
+      "subject_keys": [
+        "1 Enoch"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "existing_seminary_module",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3ReOdKVlI4miJH9Vm5AEE_s",
+      "existing_module_label": "MODULE III"
+    },
+    {
+      "playlist_id": "PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn",
+      "url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn",
+      "title": "Exodus Explained | Torah Bible Study | Goldstonian Concordance Bible",
+      "entry_count": 21,
+      "entry_count_display": "21 videos",
+      "channel_handle": "@ENOCHLIVE1",
+      "source_page": 9,
+      "verification_level": "public_channel_playlist_metadata",
+      "metadata_only": true,
+      "content_review_status": "not_reviewed",
+      "screenshot_observation_ids": [],
+      "source_type": "youtube_playlist",
+      "canon_candidates": [
+        {
+          "canon_id": "OT-02",
+          "component": "Exodus",
+          "status": "title_candidate",
+          "reason": "The playlist title names this biblical book. Teaching scope, edition, completeness, and assessment alignment have not been reviewed."
+        }
+      ],
+      "subject_keys": [
+        "Exodus"
+      ],
+      "excluded_from_recommended_learning": false,
+      "recommended_learning_status": "faculty_curation_pending",
+      "category": "canonical_book_candidate",
+      "source_id": "youtube-playlist:PLtS4zDr2sp3SoUUT-Dn9u0nVx9rJBq5Nn"
+    }
+  ],
+  "cautions": [
+    "Playlist entry counts are not views or unique videos; cross-playlist overlap is not measured.",
+    "Playlist existence and title matching do not verify teaching content, completeness, assessment alignment, or accreditation.",
+    "Source titles are preserved as metadata; words such as official canon in a creator title are not an institutional endorsement."
+  ],
+  "videos": [
+    {
+      "source_id": "youtube-video:SsAIEvo6Xbw",
+      "source_type": "youtube_video",
+      "video_id": "SsAIEvo6Xbw",
+      "url": "https://www.youtube.com/watch?v=SsAIEvo6Xbw",
+      "title": "John Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "observed_in_playlist_id": "PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "observed_in_playlist_url": "https://www.youtube.com/playlist?list=PLtS4zDr2sp3Rwv8Y-zTIo0kZKk5M8hltX",
+      "observed_position": 49,
+      "retrieved_at": "2026-10-31T01:38:27.405642+00:00",
+      "verification_level": "public_playlist_entry_metadata",
+      "content_review_status": "not_reviewed",
+      "canon_candidates": [
+        {
+          "canon_id": "NT-04",
+          "component": "John",
+          "status": "title_candidate",
+          "reason": "An individually identified John Explained video in the broad overview collection; not a standalone course."
+        }
+      ],
+      "excluded_from_recommended_learning": false
+    }
+  ],
+  "screenshot_evidence_file": "screenshot-observations.json",
+  "canon_source_map_file": "canon-source-map.json",
+  "metadata_scope": {
+    "channel_playlist_records_retrieved": 244,
+    "channel_course_collections_observed_in_initial_page": 2,
+    "seminary_playlist_records_selected": 118,
+    "identified_screenshot_observations": 132,
+    "distinct_screenshot_playlist_matches": 110,
+    "main_screenshot_rows": 114,
+    "partial_screenshot_rows": 18,
+    "selected_individual_video_candidates": 1,
+    "retrieval_continuation_exhausted": true,
+    "not_established": "Completeness of the channel’s private, unlisted, unavailable, or deleted content; instructional coverage of any canon unit."
+  },
+  "method_notes": [
+    "Public channel listing metadata was paginated across nine pages; raw responses remain transient and no cookies, private account analytics, videos, audio, or transcripts were retrieved.",
+    "Only source metadata and narrow derived candidate relationships are preserved. Exact text/corpus identity and curriculum quality require faculty review.",
+    "Video counts are current playlist entry counts; overlapping entries across playlists have not been deduplicated.",
+    "Screen captures do not reveal playlist IDs. Their title/count observations were matched to the separately retrieved live catalog, with repeated rows retained as provenance."
+  ],
+  "excluded_channel_course_collection_metadata": [
+    {
+      "playlist_id": "PLAZTrIi1UgYU",
+      "title": "G. Rune Publishing Audiobooks: The Goldstonian Concordance Bible Ecosystem",
+      "content_type": "LOCKUP_CONTENT_TYPE_COURSE"
+    },
+    {
+      "playlist_id": "PLQJaWcmJTe7w",
+      "title": "Blocklayer Podcast: The Concordance, the Chain, and the Civil War",
+      "content_type": "LOCKUP_CONTENT_TYPE_COURSE"
+    }
+  ]
+}

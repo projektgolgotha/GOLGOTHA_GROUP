@@ -1,0 +1,1027 @@
+{
+  "schema_version": "1.0",
+  "version": "0.1",
+  "prepared_date": "2026-10-30",
+  "title": "SydTek Seminary 81-entry canon registry",
+  "status": "bibliographic_registry_draft_for_academic_review",
+  "basis": "Published Ethiopian Orthodox Tewahedo Church list, 46 Old Testament entries plus 35 New Testament entries. This preserves that source’s numbering rather than claiming one universal edition or one standalone English book per number.",
+  "counts": {
+    "OT": 46,
+    "NT": 35,
+    "total": 81
+  },
+  "sources": [
+    {
+      "id": "EOTC-CANON",
+      "url": "https://ethiopianorthodox.org/english/canonical/books.html",
+      "role": "Primary church numbering inventory"
+    },
+    {
+      "id": "EOTC-MK",
+      "url": "https://eotcmk.org/e/holy-scriptures/",
+      "role": "Church department corroboration"
+    },
+    {
+      "id": "MIKRE-1993",
+      "url": "https://translation.bible/wp-content/uploads/2024/06/mikre-sellassie-1993-the-bible-and-its-canon-in-the-ethiopian-orthodox-church.pdf",
+      "role": "Original scholarly discussion of grouping and text identities; does not override the declared church inventory"
+    },
+    {
+      "id": "UBS-MEQ-1",
+      "url": "https://tips.translation.bible/story/the-book-of-1-meqabyan/",
+      "role": "Translator resource distinguishing Meqabyan from Greek Maccabees"
+    },
+    {
+      "id": "UBS-MEQ-3",
+      "url": "https://tips.translation.bible/story/the-book-of-3-meqabyan/",
+      "role": "Translator resource distinguishing Meqabyan from Greek Maccabees"
+    }
+  ],
+  "default_coverage_status": "not_yet_academically_verified",
+  "default_primary_text_status": "edition_and_reading_plan_required",
+  "completion_rule": "Every component in the adopted edition needs a mapped activity and reviewed evidence. Playlist titles, video counts, clicks, and audience views do not establish academic coverage or learner completion.",
+  "units": [
+    {
+      "id": "OT-01",
+      "testament": "OT",
+      "source_ordinal": 1,
+      "display_title": "Genesis",
+      "source_title": "Genesis",
+      "course_id": "SEM-101",
+      "components": [
+        "Genesis"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-02",
+      "testament": "OT",
+      "source_ordinal": 2,
+      "display_title": "Exodus",
+      "source_title": "Exodus",
+      "course_id": "SEM-101",
+      "components": [
+        "Exodus"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-03",
+      "testament": "OT",
+      "source_ordinal": 3,
+      "display_title": "Leviticus",
+      "source_title": "Leviticus",
+      "course_id": "SEM-101",
+      "components": [
+        "Leviticus"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-04",
+      "testament": "OT",
+      "source_ordinal": 4,
+      "display_title": "Numbers",
+      "source_title": "Numbers",
+      "course_id": "SEM-101",
+      "components": [
+        "Numbers"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-05",
+      "testament": "OT",
+      "source_ordinal": 5,
+      "display_title": "Deuteronomy",
+      "source_title": "Deuteronomy",
+      "course_id": "SEM-101",
+      "components": [
+        "Deuteronomy"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-06",
+      "testament": "OT",
+      "source_ordinal": 6,
+      "display_title": "Joshua",
+      "source_title": "Joshua",
+      "course_id": "SEM-101",
+      "components": [
+        "Joshua"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-07",
+      "testament": "OT",
+      "source_ordinal": 7,
+      "display_title": "Judges",
+      "source_title": "Judges",
+      "course_id": "SEM-101",
+      "components": [
+        "Judges"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-08",
+      "testament": "OT",
+      "source_ordinal": 8,
+      "display_title": "Ruth",
+      "source_title": "Ruth",
+      "course_id": "SEM-101",
+      "components": [
+        "Ruth"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-09",
+      "testament": "OT",
+      "source_ordinal": 9,
+      "display_title": "1 and 2 Samuel",
+      "source_title": "I and II Samuel",
+      "course_id": "SEM-102",
+      "components": [
+        "1 Samuel",
+        "2 Samuel"
+      ],
+      "review_notes": "One numbered entry, two component books; both require mapped learning evidence."
+    },
+    {
+      "id": "OT-10",
+      "testament": "OT",
+      "source_ordinal": 10,
+      "display_title": "1 and 2 Kings",
+      "source_title": "I and II Kings",
+      "course_id": "SEM-102",
+      "components": [
+        "1 Kings",
+        "2 Kings"
+      ],
+      "review_notes": "One numbered entry, two component books; both require mapped learning evidence."
+    },
+    {
+      "id": "OT-11",
+      "testament": "OT",
+      "source_ordinal": 11,
+      "display_title": "1 Chronicles",
+      "source_title": "I Chronicles",
+      "course_id": "SEM-102",
+      "components": [
+        "1 Chronicles"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-12",
+      "testament": "OT",
+      "source_ordinal": 12,
+      "display_title": "2 Chronicles",
+      "source_title": "II Chronicles",
+      "course_id": "SEM-102",
+      "components": [
+        "2 Chronicles"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-13",
+      "testament": "OT",
+      "source_ordinal": 13,
+      "display_title": "Jubilees",
+      "source_title": "Jublee",
+      "course_id": "SEM-103",
+      "components": [
+        "Jubilees"
+      ],
+      "review_notes": "Identify the actual Jubilees text and translation; a Genesis commentary is supplementary."
+    },
+    {
+      "id": "OT-14",
+      "testament": "OT",
+      "source_ordinal": 14,
+      "display_title": "1 Enoch",
+      "source_title": "Enoch",
+      "course_id": "SEM-103",
+      "components": [
+        "1 Enoch"
+      ],
+      "review_notes": "The intended work is Ethiopic 1 Enoch; do not substitute 2 Enoch, 3 Enoch, or Book of Giants."
+    },
+    {
+      "id": "OT-15",
+      "testament": "OT",
+      "source_ordinal": 15,
+      "display_title": "Ezra and Nehemiah",
+      "source_title": "Ezra and Nehemia",
+      "course_id": "SEM-102",
+      "components": [
+        "Ezra",
+        "Nehemiah"
+      ],
+      "review_notes": "One numbered entry, two component books; both require mapped learning evidence."
+    },
+    {
+      "id": "OT-16",
+      "testament": "OT",
+      "source_ordinal": 16,
+      "display_title": "Ezra II and Ezra Sutuel",
+      "source_title": "Ezra (2nd) and Ezra Sutuel",
+      "course_id": "SEM-102",
+      "components": [
+        "Ezra II — edition identity to verify",
+        "Ezra Sutuel — apocalypse edition to verify"
+      ],
+      "review_notes": "Esdras/Ezra numbering differs across traditions; preserve the church source label until a faculty-approved edition crosswalk resolves both components."
+    },
+    {
+      "id": "OT-17",
+      "testament": "OT",
+      "source_ordinal": 17,
+      "display_title": "Tobit",
+      "source_title": "Tobit",
+      "course_id": "SEM-102",
+      "components": [
+        "Tobit"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-18",
+      "testament": "OT",
+      "source_ordinal": 18,
+      "display_title": "Judith",
+      "source_title": "Judith",
+      "course_id": "SEM-102",
+      "components": [
+        "Judith"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-19",
+      "testament": "OT",
+      "source_ordinal": 19,
+      "display_title": "Esther",
+      "source_title": "Esther",
+      "course_id": "SEM-102",
+      "components": [
+        "Esther"
+      ],
+      "review_notes": "Verify the textual extent and additions in the selected Ethiopic/translation edition."
+    },
+    {
+      "id": "OT-20",
+      "testament": "OT",
+      "source_ordinal": 20,
+      "display_title": "1 Meqabyan",
+      "source_title": "I Maccabees",
+      "course_id": "SEM-103",
+      "components": [
+        "1 Meqabyan"
+      ],
+      "review_notes": "Church list uses Maccabees; the teaching identity is Ethiopic Meqabyan. Greek 1 Maccabees does not satisfy this entry."
+    },
+    {
+      "id": "OT-21",
+      "testament": "OT",
+      "source_ordinal": 21,
+      "display_title": "2 and 3 Meqabyan",
+      "source_title": "II and III Maccabees",
+      "course_id": "SEM-103",
+      "components": [
+        "2 Meqabyan",
+        "3 Meqabyan"
+      ],
+      "review_notes": "The church list groups II and III Maccabees. Map Ethiopic 2 and 3 Meqabyan individually within this counting unit; Greek Maccabees is a different text family."
+    },
+    {
+      "id": "OT-22",
+      "testament": "OT",
+      "source_ordinal": 22,
+      "display_title": "Job",
+      "source_title": "Job",
+      "course_id": "SEM-104",
+      "components": [
+        "Job"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-23",
+      "testament": "OT",
+      "source_ordinal": 23,
+      "display_title": "Psalms",
+      "source_title": "Psalms",
+      "course_id": "SEM-104",
+      "components": [
+        "Psalms"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-24",
+      "testament": "OT",
+      "source_ordinal": 24,
+      "display_title": "Proverbs / Messale",
+      "source_title": "Proverbs",
+      "course_id": "SEM-104",
+      "components": [
+        "Proverbs 1–24 — standard crosswalk candidate"
+      ],
+      "review_notes": "The source separates Proverbs and Reproof; check chapter boundaries against the chosen edition."
+    },
+    {
+      "id": "OT-25",
+      "testament": "OT",
+      "source_ordinal": 25,
+      "display_title": "Reproof / Tegsats",
+      "source_title": "Tegsats (Reproof)",
+      "course_id": "SEM-104",
+      "components": [
+        "Proverbs 25–31 — standard crosswalk candidate"
+      ],
+      "review_notes": "A second counted wisdom unit, not an invented extra book; check the selected edition before approving its chapter crosswalk."
+    },
+    {
+      "id": "OT-26",
+      "testament": "OT",
+      "source_ordinal": 26,
+      "display_title": "Wisdom / Metsihafe Tibeb",
+      "source_title": "Metsihafe Tibeb (the books of wisdom)",
+      "course_id": "SEM-104",
+      "components": [
+        "Wisdom / Metsihafe Tibeb"
+      ],
+      "review_notes": "English classroom alias is Wisdom of Solomon; verify the chosen Ethiopic text and translation."
+    },
+    {
+      "id": "OT-27",
+      "testament": "OT",
+      "source_ordinal": 27,
+      "display_title": "Ecclesiastes",
+      "source_title": "Ecclesiastes",
+      "course_id": "SEM-104",
+      "components": [
+        "Ecclesiastes"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-28",
+      "testament": "OT",
+      "source_ordinal": 28,
+      "display_title": "Song of Songs",
+      "source_title": "The Song of Songs",
+      "course_id": "SEM-104",
+      "components": [
+        "Song of Songs"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-29",
+      "testament": "OT",
+      "source_ordinal": 29,
+      "display_title": "Isaiah",
+      "source_title": "Isaiah",
+      "course_id": "SEM-105",
+      "components": [
+        "Isaiah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-30",
+      "testament": "OT",
+      "source_ordinal": 30,
+      "display_title": "Jeremiah corpus",
+      "source_title": "Jeremiah",
+      "course_id": "SEM-105",
+      "components": [
+        "Jeremiah",
+        "Lamentations — verify selected edition",
+        "Baruch — verify selected edition",
+        "Rest of Jeremiah — verify selected edition"
+      ],
+      "review_notes": "Treat the listed Jeremiah entry as a corpus for edition review; do not silently drop Lamentations, Baruch, or related Jeremiah material because no extra registry rows exist."
+    },
+    {
+      "id": "OT-31",
+      "testament": "OT",
+      "source_ordinal": 31,
+      "display_title": "Ezekiel",
+      "source_title": "Ezekiel",
+      "course_id": "SEM-105",
+      "components": [
+        "Ezekiel"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-32",
+      "testament": "OT",
+      "source_ordinal": 32,
+      "display_title": "Daniel corpus",
+      "source_title": "Daniel",
+      "course_id": "SEM-105",
+      "components": [
+        "Daniel",
+        "Susanna — verify selected edition",
+        "Rest of Daniel — verify selected edition"
+      ],
+      "review_notes": "Review Daniel additions and their placement in the selected edition; component coverage must be explicit."
+    },
+    {
+      "id": "OT-33",
+      "testament": "OT",
+      "source_ordinal": 33,
+      "display_title": "Hosea",
+      "source_title": "Hosea",
+      "course_id": "SEM-106",
+      "components": [
+        "Hosea"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-34",
+      "testament": "OT",
+      "source_ordinal": 34,
+      "display_title": "Amos",
+      "source_title": "Amos",
+      "course_id": "SEM-106",
+      "components": [
+        "Amos"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-35",
+      "testament": "OT",
+      "source_ordinal": 35,
+      "display_title": "Micah",
+      "source_title": "Micah",
+      "course_id": "SEM-106",
+      "components": [
+        "Micah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-36",
+      "testament": "OT",
+      "source_ordinal": 36,
+      "display_title": "Joel",
+      "source_title": "Joel",
+      "course_id": "SEM-106",
+      "components": [
+        "Joel"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-37",
+      "testament": "OT",
+      "source_ordinal": 37,
+      "display_title": "Obadiah",
+      "source_title": "Obadiah",
+      "course_id": "SEM-106",
+      "components": [
+        "Obadiah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-38",
+      "testament": "OT",
+      "source_ordinal": 38,
+      "display_title": "Jonah",
+      "source_title": "Jonah",
+      "course_id": "SEM-106",
+      "components": [
+        "Jonah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-39",
+      "testament": "OT",
+      "source_ordinal": 39,
+      "display_title": "Nahum",
+      "source_title": "Nahum",
+      "course_id": "SEM-106",
+      "components": [
+        "Nahum"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-40",
+      "testament": "OT",
+      "source_ordinal": 40,
+      "display_title": "Habakkuk",
+      "source_title": "Habakkuk",
+      "course_id": "SEM-106",
+      "components": [
+        "Habakkuk"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-41",
+      "testament": "OT",
+      "source_ordinal": 41,
+      "display_title": "Zephaniah",
+      "source_title": "Zephaniah",
+      "course_id": "SEM-106",
+      "components": [
+        "Zephaniah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-42",
+      "testament": "OT",
+      "source_ordinal": 42,
+      "display_title": "Haggai",
+      "source_title": "Haggai",
+      "course_id": "SEM-106",
+      "components": [
+        "Haggai"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-43",
+      "testament": "OT",
+      "source_ordinal": 43,
+      "display_title": "Zechariah",
+      "source_title": "Zechariah",
+      "course_id": "SEM-106",
+      "components": [
+        "Zechariah"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-44",
+      "testament": "OT",
+      "source_ordinal": 44,
+      "display_title": "Malachi",
+      "source_title": "Malachi",
+      "course_id": "SEM-106",
+      "components": [
+        "Malachi"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "OT-45",
+      "testament": "OT",
+      "source_ordinal": 45,
+      "display_title": "Sirach",
+      "source_title": "Book of Joshua the son of Sirac",
+      "course_id": "SEM-104",
+      "components": [
+        "Sirach"
+      ],
+      "review_notes": "Sirach / Ecclesiasticus; distinguish from Ecclesiastes at OT-27."
+    },
+    {
+      "id": "OT-46",
+      "testament": "OT",
+      "source_ordinal": 46,
+      "display_title": "Joseph ben Gorion / Josippon",
+      "source_title": "The Book of Josephas the Son of Bengorion",
+      "course_id": "SEM-102",
+      "components": [
+        "Joseph ben Gorion / Josippon"
+      ],
+      "review_notes": "Zena Ayhud / Josippon, attributed to Joseph ben Gorion; a general Flavius Josephus playlist is not proof of coverage."
+    },
+    {
+      "id": "NT-01",
+      "testament": "NT",
+      "source_ordinal": 1,
+      "display_title": "Matthew",
+      "source_title": "Matthew",
+      "course_id": "SEM-107",
+      "components": [
+        "Matthew"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-02",
+      "testament": "NT",
+      "source_ordinal": 2,
+      "display_title": "Mark",
+      "source_title": "Mark",
+      "course_id": "SEM-107",
+      "components": [
+        "Mark"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-03",
+      "testament": "NT",
+      "source_ordinal": 3,
+      "display_title": "Luke",
+      "source_title": "Luke",
+      "course_id": "SEM-107",
+      "components": [
+        "Luke"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-04",
+      "testament": "NT",
+      "source_ordinal": 4,
+      "display_title": "John",
+      "source_title": "John",
+      "course_id": "SEM-107",
+      "components": [
+        "John"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-05",
+      "testament": "NT",
+      "source_ordinal": 5,
+      "display_title": "Acts",
+      "source_title": "The Acts",
+      "course_id": "SEM-107",
+      "components": [
+        "Acts"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-06",
+      "testament": "NT",
+      "source_ordinal": 6,
+      "display_title": "Romans",
+      "source_title": "Romans",
+      "course_id": "SEM-108",
+      "components": [
+        "Romans"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-07",
+      "testament": "NT",
+      "source_ordinal": 7,
+      "display_title": "1 Corinthians",
+      "source_title": "I Corinthians",
+      "course_id": "SEM-108",
+      "components": [
+        "1 Corinthians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-08",
+      "testament": "NT",
+      "source_ordinal": 8,
+      "display_title": "2 Corinthians",
+      "source_title": "II Corinthians",
+      "course_id": "SEM-108",
+      "components": [
+        "2 Corinthians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-09",
+      "testament": "NT",
+      "source_ordinal": 9,
+      "display_title": "Galatians",
+      "source_title": "Galatians",
+      "course_id": "SEM-108",
+      "components": [
+        "Galatians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-10",
+      "testament": "NT",
+      "source_ordinal": 10,
+      "display_title": "Ephesians",
+      "source_title": "Ephesians",
+      "course_id": "SEM-108",
+      "components": [
+        "Ephesians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-11",
+      "testament": "NT",
+      "source_ordinal": 11,
+      "display_title": "Philippians",
+      "source_title": "Philippians",
+      "course_id": "SEM-108",
+      "components": [
+        "Philippians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-12",
+      "testament": "NT",
+      "source_ordinal": 12,
+      "display_title": "Colossians",
+      "source_title": "Colossians",
+      "course_id": "SEM-108",
+      "components": [
+        "Colossians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-13",
+      "testament": "NT",
+      "source_ordinal": 13,
+      "display_title": "1 Thessalonians",
+      "source_title": "I Thessalonians",
+      "course_id": "SEM-108",
+      "components": [
+        "1 Thessalonians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-14",
+      "testament": "NT",
+      "source_ordinal": 14,
+      "display_title": "2 Thessalonians",
+      "source_title": "II Thessalonians",
+      "course_id": "SEM-108",
+      "components": [
+        "2 Thessalonians"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-15",
+      "testament": "NT",
+      "source_ordinal": 15,
+      "display_title": "1 Timothy",
+      "source_title": "I Timothy",
+      "course_id": "SEM-108",
+      "components": [
+        "1 Timothy"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-16",
+      "testament": "NT",
+      "source_ordinal": 16,
+      "display_title": "2 Timothy",
+      "source_title": "II Timothy",
+      "course_id": "SEM-108",
+      "components": [
+        "2 Timothy"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-17",
+      "testament": "NT",
+      "source_ordinal": 17,
+      "display_title": "Titus",
+      "source_title": "Titus",
+      "course_id": "SEM-108",
+      "components": [
+        "Titus"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-18",
+      "testament": "NT",
+      "source_ordinal": 18,
+      "display_title": "Philemon",
+      "source_title": "Philemon",
+      "course_id": "SEM-108",
+      "components": [
+        "Philemon"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-19",
+      "testament": "NT",
+      "source_ordinal": 19,
+      "display_title": "Hebrews",
+      "source_title": "Hebrews",
+      "course_id": "SEM-108",
+      "components": [
+        "Hebrews"
+      ],
+      "review_notes": "Grouping in a Pauline-letter course is organizational and does not settle authorship of Hebrews."
+    },
+    {
+      "id": "NT-20",
+      "testament": "NT",
+      "source_ordinal": 20,
+      "display_title": "1 Peter",
+      "source_title": "I Peter",
+      "course_id": "SEM-109",
+      "components": [
+        "1 Peter"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-21",
+      "testament": "NT",
+      "source_ordinal": 21,
+      "display_title": "2 Peter",
+      "source_title": "II Peter",
+      "course_id": "SEM-109",
+      "components": [
+        "2 Peter"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-22",
+      "testament": "NT",
+      "source_ordinal": 22,
+      "display_title": "1 John",
+      "source_title": "I John",
+      "course_id": "SEM-109",
+      "components": [
+        "1 John"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-23",
+      "testament": "NT",
+      "source_ordinal": 23,
+      "display_title": "2 John",
+      "source_title": "II John",
+      "course_id": "SEM-109",
+      "components": [
+        "2 John"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-24",
+      "testament": "NT",
+      "source_ordinal": 24,
+      "display_title": "3 John",
+      "source_title": "III John",
+      "course_id": "SEM-109",
+      "components": [
+        "3 John"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-25",
+      "testament": "NT",
+      "source_ordinal": 25,
+      "display_title": "James",
+      "source_title": "James",
+      "course_id": "SEM-109",
+      "components": [
+        "James"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-26",
+      "testament": "NT",
+      "source_ordinal": 26,
+      "display_title": "Jude",
+      "source_title": "Jude",
+      "course_id": "SEM-109",
+      "components": [
+        "Jude"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-27",
+      "testament": "NT",
+      "source_ordinal": 27,
+      "display_title": "Revelation",
+      "source_title": "Revelation",
+      "course_id": "SEM-109",
+      "components": [
+        "Revelation"
+      ],
+      "review_notes": "Select and document an appropriate primary-text edition and passage plan before approving assessed coverage."
+    },
+    {
+      "id": "NT-28",
+      "testament": "NT",
+      "source_ordinal": 28,
+      "display_title": "Sirate Tsion / Sinodos I",
+      "source_title": "Sirate Tsion (the book of order)",
+      "course_id": "SEM-110",
+      "components": [
+        "Sirate Tsion / Sinodos I"
+      ],
+      "review_notes": "First of four Sinodos entries; verify exact work/part before associating a broad Sinodos playlist."
+    },
+    {
+      "id": "NT-29",
+      "testament": "NT",
+      "source_ordinal": 29,
+      "display_title": "Tizaz / Sinodos II",
+      "source_title": "Tizaz (the book of Herald)",
+      "course_id": "SEM-110",
+      "components": [
+        "Tizaz / Sinodos II"
+      ],
+      "review_notes": "Second of four Sinodos entries; verify exact work/part."
+    },
+    {
+      "id": "NT-30",
+      "testament": "NT",
+      "source_ordinal": 30,
+      "display_title": "Gitsew / Sinodos III",
+      "source_title": "Gitsew",
+      "course_id": "SEM-110",
+      "components": [
+        "Gitsew / Sinodos III"
+      ],
+      "review_notes": "Third of four Sinodos entries; preserve source transliteration and verify exact work/part."
+    },
+    {
+      "id": "NT-31",
+      "testament": "NT",
+      "source_ordinal": 31,
+      "display_title": "Abtilis / Sinodos IV",
+      "source_title": "Abtilis",
+      "course_id": "SEM-110",
+      "components": [
+        "Abtilis / Sinodos IV"
+      ],
+      "review_notes": "Fourth of four Sinodos entries; preserve source transliteration and verify exact work/part."
+    },
+    {
+      "id": "NT-32",
+      "testament": "NT",
+      "source_ordinal": 32,
+      "display_title": "Book of the Covenant I",
+      "source_title": "The I book of Dominos",
+      "course_id": "SEM-110",
+      "components": [
+        "Book of the Covenant I"
+      ],
+      "review_notes": "Source English label is Dominos I; Covenant I is a teaching crosswalk needing edition confirmation."
+    },
+    {
+      "id": "NT-33",
+      "testament": "NT",
+      "source_ordinal": 33,
+      "display_title": "Book of the Covenant II",
+      "source_title": "The II book of Dominos",
+      "course_id": "SEM-110",
+      "components": [
+        "Book of the Covenant II"
+      ],
+      "review_notes": "Source English label is Dominos II; Covenant II is a teaching crosswalk needing edition confirmation."
+    },
+    {
+      "id": "NT-34",
+      "testament": "NT",
+      "source_ordinal": 34,
+      "display_title": "Ethiopic Clement",
+      "source_title": "The book of Clement",
+      "course_id": "SEM-110",
+      "components": [
+        "Ethiopic Clement"
+      ],
+      "review_notes": "Verify Ethiopic Qalementos/Clement text identity; do not auto-substitute the common Greek/Roman 1 Clement or 2 Clement."
+    },
+    {
+      "id": "NT-35",
+      "testament": "NT",
+      "source_ordinal": 35,
+      "display_title": "Ethiopic Didascalia",
+      "source_title": "Didascalia",
+      "course_id": "SEM-110",
+      "components": [
+        "Ethiopic Didascalia"
+      ],
+      "review_notes": "Verify the Ethiopic Didascalia edition; a similarly titled Syriac, Latin, or general Didascalia Apostolorum resource needs comparison."
+    }
+  ]
+}
