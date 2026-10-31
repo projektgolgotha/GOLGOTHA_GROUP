@@ -3,7 +3,7 @@
   "repository": "projektgolgotha/GOLGOTHA_GROUP",
   "local_branch": "codex/sydtek-learn-foundation",
   "base_commit": "97f6de8c81d744e5bcaf06ead5b6934a668fb184",
-  "github_delivery": "BLOCKED_REMOTE_BRANCH_NOT_CREATED",
+  "github_delivery": "DELIVERED_TO_MAIN",
   "shopify_publication": "PUBLISHED_VERIFIED_PUBLIC",
   "production_deployment": "NOT_RUN",
   "template_commit": "81eb98b6ca095eb0b92657f6007939a418f61955",
@@ -102,7 +102,7 @@
     },
     {
       "path": "docs/sydtek-learn/BUILD_LEDGER.md",
-      "sha256": "83b991b43f3aa064c46cb0d36ec75a92bed9c696143fd6ff9cd8ce427f21616b"
+      "sha256": "eeb4b9a391d6001a7cc38ec52e367349f0b2686d209ae236bcfec34fd1347368"
     },
     {
       "path": "content/sydtek-learn/courses/hrm-101/README.md",
@@ -147,15 +147,17 @@
   ],
   "github_delivery_detail": {
     "owner_reauthorized_date": "2026-10-31",
-    "fresh_remote_main": "97f6de8c81d744e5bcaf06ead5b6934a668fb184",
-    "remote_feature_branch": "ABSENT_FINAL_READ",
-    "normal_git_push_dry_run": "FAILED_AUTHENTICATION_NO_REMOTE_WRITE",
-    "normal_git_error": "could not read Username for 'https://github.com': terminal prompts disabled",
-    "connector_identity": "projektgolgotha",
-    "connector_branch_creation": "REAUTHORIZED_RETRY_ABORTED_BY_USER_AFTER_884_3_SECONDS",
-    "pull_request": null,
-    "connector_update_ref": "HTTP_422_REFERENCE_DOES_NOT_EXIST_NO_BRANCH_CREATED",
-    "further_external_writes": "STOPPED"
+    "original_remote_main": "97f6de8c81d744e5bcaf06ead5b6934a668fb184",
+    "implementation_commit": "7259df38e10436aa0463a98f6a59f991b3b38d36",
+    "delivery_method": "Connected GitHub data tools; additive commit and non-forced expected-SHA update to existing main",
+    "remote_main_read_back": "PASS",
+    "uploaded_tree_matches_local": "PASS",
+    "feature_branch_creation": "Historical attempt incomplete; feature branch not required for completed main delivery",
+    "normal_git_push_dry_run": "Historical authentication failure; no remote changes from that dry run",
+    "pull_request": null
   },
-  "website_public_url": "https://enochworld.com/pages/sydtek#sydtek-learn"
+  "website_public_url": "https://enochworld.com/pages/sydtek#sydtek-learn",
+  "remote_branch": "main",
+  "implementation_commit": "7259df38e10436aa0463a98f6a59f991b3b38d36",
+  "uploaded_tree": "f9eb77108029c148c7de04c24c415a01aa38b414"
 }

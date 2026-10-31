@@ -37,8 +37,6 @@ Shopify content/navigation publication: completed at https://enochworld.com/page
 
 ## Repository delivery
 
-The local branch is `codex/sydtek-learn-foundation`, based on `97f6de8c81d744e5bcaf06ead5b6934a668fb184`. The owner reauthorized repository delivery on October 31, 2026. The final remote read confirmed that main remains at this base and the feature branch does not exist.
+The application, HRM-101 source inventory, build instructions, published website evidence, and rollback snapshots are delivered to `projektgolgotha/GOLGOTHA_GROUP` on `main`. The implementation commit is `7259df38e10436aa0463a98f6a59f991b3b38d36`; GitHub read-back confirmed that ref after the update. Its tree `f9eb77108029c148c7de04c24c415a01aa38b414` exactly matches the verified local checkpoint: 88 new files, with the original root README and LICENSE unchanged.
 
-A noninteractive normal-Git push dry run made no remote changes and failed because Git authentication is not configured (`could not read Username for 'https://github.com': terminal prompts disabled`). The GitHub connector authenticates as `projektgolgotha`. One deliberate reauthorized branch-creation retry returned `aborted by user after 884.3s`. A separate supported `update_ref` attempt returned HTTP 422, `Reference does not exist`, and did not create the branch. No further external write is being attempted.
-
-The prepared application, course source, build plan, and verified website publication evidence are preserved in this local branch. No remote feature branch, push, or pull request is confirmed. The published Shopify Education hub is independent of this blocked repository delivery.
+The connector's feature-branch creation did not complete, and normal Git lacked authentication. Delivery therefore used a single additive commit through the connected GitHub data tools, then a non-forced update of the existing main ref guarded by its expected parent SHA. No pull request was created. This repository upload does not deploy the LMS application. See `GITHUB_DELIVERY_RECEIPT.json` for immutable source references and `WEBSITE_PUBLICATION_RECEIPT.json` for the separate live Shopify publication.
