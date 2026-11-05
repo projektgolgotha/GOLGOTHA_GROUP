@@ -1,0 +1,37 @@
+{
+  "release": "2026-11-05-evidence-update-v1.1",
+  "website": {
+    "url": "https://enochworld.com/pages/sydtek-accreditation",
+    "id": "gid://shopify/Page/166880346223",
+    "is_published": true,
+    "updated_at": "2026-11-05T23:19:26Z",
+    "body_sha256": "1e210e7bcc4f0cf4841547091d4dc90f210f23240ab6d2ace07cfbcb3ea78e41",
+    "verification": "Shopify Admin saved-body readback; only editor whitespace normalization occurred"
+  },
+  "github": {
+    "repository": "projektgolgotha/GOLGOTHA_GROUP",
+    "content_commit": "3f4ea23bc156ba9b090c727b95800cf0c9fb11fb",
+    "website_file": "website/pages/sydtek-accreditation.html",
+    "original_upstream_repositories": "read_only; prepared patches not imported"
+  },
+  "checks": {
+    "shopify_graphql_schema": "passed_2026-10",
+    "html_semantics": "exact_after_whitespace_normalization",
+    "styles_and_media": "preserved",
+    "teaching_evidence_link": "preserved",
+    "public_search_fetch": "unavailable_in_search_tool",
+    "visual_browser_check": "not_performed"
+  },
+  "patch_checks": [
+    {
+      "target": "scholars",
+      "check": "passed",
+      "files": 7
+    },
+    {
+      "target": "seminary",
+      "check": "passed",
+      "files": 3
+    }
+  ]
+}
