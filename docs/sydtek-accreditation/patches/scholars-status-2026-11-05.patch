@@ -1,0 +1,295 @@
+diff --git a/README.md b/README.md
+--- a/README.md
++++ b/README.md
+@@ -1,10 +1,14 @@
+ # SydTek Scholars Canon
+-### K–PhD Institutional Infrastructure | Delaware-Registered | Cognia Accreditation Track
++### K–PhD Development Framework | Institutional Status Under Verification | Cognia Preparation
+ 
+ > *"Fluency, not exposure. Legacy, not noise."*
+ > Doctrine: Mirror → Water → Fire
+ 
+ ---
++
++## Current reviewed status
++
++See [STATUS_REGISTER.md](STATUS_REGISTER.md), reviewed November 5, 2026. This is a development and evidence repository. Legal form, registration, operating authority, enrollment availability, academic-credit authority and dashboard operation are not established by these drafts.
+ 
+ ## Quick Navigation
+ 
+@@ -15,11 +19,11 @@
+ | [STATE_REGISTRATION.md](./STATE_REGISTRATION.md) | Delaware + nationwide compliance |
+ | [ENROLLMENT_TUTORIALS.md](./ENROLLMENT_TUTORIALS.md) | Parent-facing step-by-step guides |
+ | [PIPELINE_K_PHD.md](./PIPELINE_K_PHD.md) | Full K–PhD pathway documentation |
+-| [TRANSFER_CREDITS.md](./TRANSFER_CREDITS.md) | Credit stacking + microcredential framework |
+-| [GOVERNANCE.md](./GOVERNANCE.md) | Board, policy, version control |
++| [TRANSFER_CREDITS.md](./TRANSFER_CREDITS.md%20%2B%20CURRICULUM_FRAMEWORK.md) | Credit stacking + microcredential framework |
++| [GOVERNANCE.md](./GOVERNANCE.md%20%2B%20SEAT_TIME_MODEL.md) | Board, policy, version control |
+ | [CURRICULUM_FRAMEWORK.md](./CURRICULUM_FRAMEWORK.md) | GCB-aligned scope & sequence |
+-| [SHOPIFY_INTEGRATION.md](./SHOPIFY_INTEGRATION.md) | Shopify + quiz connection architecture |
+-| [PARENT_DASHBOARD_SPEC.md](./PARENT_DASHBOARD_SPEC.md) | Paid parent dashboard technical spec |
++| [SHOPIFY_INTEGRATION.md](./SHOPIFY_INTEGRATION.md%20%2B%20PARENT_DASHBOARD_SPEC.md) | Shopify + quiz connection architecture |
++| [PARENT_DASHBOARD_SPEC.md](./SHOPIFY_INTEGRATION.md%20%2B%20PARENT_DASHBOARD_SPEC.md) | Paid parent dashboard technical spec |
+ | [accreditation/cognia/](./accreditation/cognia/) | Cognia-specific evidence files |
+ | [specs/](./specs/) | Operational specifications |
+ | [sydtek-scholars-canon/](./sydtek-scholars-canon/) | Core canon documents |
+@@ -28,20 +32,19 @@
+ 
+ ## What SydTek Scholars Is
+ 
+-SydTek Scholars is a Delaware-registered, faith-based, minority-owned online private K–12 school operating under the Goldstonian Concordance Bible (GCB) ecosystem.
++SydTek Scholars is a developing faith-based K–12 learning pathway in the Goldstonian Concordance Bible (GCB) ecosystem. Its legal entity, registration and operating status require reconciliation against official records.
+ 
+-- **Registered:** Delaware Division of Non-Public Education (DDOE)
+-- **Curriculum:** GCB-aligned, Mirror → Water → Fire doctrinal framework
+-- **Delivery:** Video-first (YouTube playlists), GitHub-documented, reflection-based
+-- **Pipeline:** K–12 feeds directly into SydTek University (undergraduate through PhD)
+-- **Accreditation Target:** Cognia (Year 2–3)
+-- **Enrollment:** Open nationwide — all 50 states + international
++- **Curriculum:** GCB-aligned Mirror → Water → Fire framework, with grade drafts and published resources.
++- **Delivery evidence:** founder-published teaching history and a configured public reference library; reviewed learner outcomes remain separate.
++- **Pipeline:** proposed connections to adult SydTek University learning; degree and transfer authority are not verified.
++- **Accreditation target:** Cognia preparation; reviewed source status remains pre-application, with no official acceptance or award verified.
++- **Enrollment:** no nationwide or international enrollment authorization is established by this repository.
+ 
+ ---
+ 
+ ## Institutional Affiliation
+ 
+-This repository is formally affiliated with:
++The source describes the following ecosystem relationships; these labels do not establish legal affiliation or institutional authority:
+ - **SydTek University** (higher education extension)
+ - **Goldstonian Concordance Bible Ministries** (community deployment layer)
+ - **G. Rune Publishing** (curriculum publishing arm)
+@@ -56,12 +59,12 @@
+ 
+ | Item | Status |
+ |---|---|
+-| State Registration | Delaware DDOE — Active |
+-| Legal Entity | SydTek Scholars Academy LLC — Pending |
++| State Registration | Conflicting source claims; official evidence required |
++| Legal Entity | LLC/nonstock-nonprofit descriptions conflict; exact provider unverified |
+ | Accreditation | Cognia Track — Pre-Application Phase |
+ | Curriculum | GCB Canon v1.0 — Active |
+-| Enrollment | Open — Nationwide |
+-| Parent Dashboard | Deployed via Shopify |
++| Enrollment | Authority and operating availability unverified |
++| Parent Dashboard | Architecture documented; private-record operation and access tests unverified |
+ 
+ ---
+ 
+diff --git a/STATUS_REGISTER.md b/STATUS_REGISTER.md
+new file mode 100644
+--- /dev/null
++++ b/STATUS_REGISTER.md
+@@ -0,0 +1,7 @@
++# SydTek Scholars reviewed status
++
++Reviewed November 5, 2026.
++
++Read the [full dated status register](https://github.com/projektgolgotha/GOLGOTHA_GROUP/blob/main/docs/sydtek-accreditation/STATUS_REGISTER_2026-11-05.md) and [correction record](https://github.com/projektgolgotha/GOLGOTHA_GROUP/blob/main/docs/sydtek-accreditation/UPSTREAM_CORRECTIONS.md). These clarify older source claims without establishing new institutional facts.
++
++Cognia pre-application remains the reviewed source status. Formation, registration, enrollment authority, EIN/banking completion, credit/transfer authority, adopted hours and private dashboard operation remain unverified or conflicting. Draft-document completion and published learning resources are separate achievements.
+diff --git a/ACCREDITATION.md b/ACCREDITATION.md
+--- a/ACCREDITATION.md
++++ b/ACCREDITATION.md
+@@ -1,136 +1,41 @@
+-# Accreditation Roadmap
+-## SydTek Scholars Academy | Cognia Track
++# Accreditation preparation roadmap
+ 
+----
++Reviewed November 5, 2026. Supersedes the earlier roadmap's unsupported completion, eligibility, timetable and recognition assertions. See [STATUS_REGISTER.md](STATUS_REGISTER.md).
+ 
+-## Target Accreditor: Cognia
++## Current institutional status
+ 
+-Cognia (formerly AdvancED / NCA / SACS) is the premier K–12 accreditor for online and nontraditional schools. Cognia accreditation grants:
+-- Nationwide diploma recognition
+-- College admissions transcript acceptance
+-- Military tuition assistance program eligibility
+-- Federal and state scholarship program eligibility
+-- Institutional credibility for K–PhD pipeline completion
++| Area | Reviewed status | Required evidence |
++|---|---|---|
++| Formation and provider identity | LLC and nonstock-nonprofit drafts conflict | Official formation record and approved entity/brand map |
++| School registration | Active/completed/pending descriptions conflict | Official current registration and applicable operating requirements |
++| EIN and banking | Completion asserted in old roadmap but unverified | Appropriate restricted verification; do not publish identifiers |
++| Governance | Board model drafted; size and appointments unreconciled | Adopted governing documents, qualified appointments and minutes |
++| Student records | System design exists; compliant operation unverified | Restricted storage, responsible staff, access/retention tests and applicable review |
++| Curriculum | Grade frameworks and specifications drafted; publication milestones documented separately | Reviewed lessons, assessment design, assigned staff and actual learner evidence |
++| Cognia | Reviewed source status: pre-application | Official correspondence confirming category, membership/application/review stage and scope |
+ 
+----
++## Cognia pathway
+ 
+-## Accreditation Timeline
++[Cognia's current official page](https://www.cognia.org/accreditation/) describes membership, application, an Initial Accreditation Review and later Continuing Accreditation. Confirm SydTek's category and applicable requirements directly with Cognia. The old Year 2–3 plan and universal 12-month prerequisite are not treated as confirmed current requirements. No eligibility, date or award is promised.
+ 
+-| Phase | Milestone | Target | Status |
+-|---|---|---|---|
+-| Day 0 | Delaware DDOE Registration | Week 1 | ✅ Complete |
+-| Month 1 | Legal Entity Formation (LLC) | Week 2 | ✅ Complete |
+-| Month 1 | EIN + Business Banking | Week 2 | ✅ Complete |
+-| Month 3 | Board of Trustees (min. 3 members) | Month 3 | 🔄 In Progress |
+-| Month 3 | Student Records System (FERPA-compliant) | Month 3 | 🔄 In Progress |
+-| Month 6 | Curriculum Documentation (all grades) | Month 6 | 🔄 In Progress |
+-| Month 6–12 | 12-Month Enrollment Evidence accumulation | Ongoing | 🔄 Ongoing |
+-| Year 1 | Seat Time Logs + Assessment Records | Year 1 | 🔄 Ongoing |
+-| Year 2 | Cognia Eligibility Application | Year 2 | 🔒 Upcoming |
+-| Year 2–3 | Institutional Self-Study | Year 2–3 | 🔒 Upcoming |
+-| Year 2–3 | Cognia Site Visit | Year 2–3 | 🔒 Upcoming |
+-| Year 3+ | Cognia Accreditation Granted | Year 3+ | 🔒 Upcoming |
++Accreditation does not by itself guarantee acceptance of a particular transcript, transfer credit, scholarship, military benefit or graduate application. Obtain the relevant receiving institution or program's decision.
+ 
+----
++## Instruction and assessment design
+ 
+-## Cognia Eligibility Requirements
++Video playlists, written reflection, assignments, portfolios and capstones are documented design choices. Published video resources and repository files establish availability; they do not establish attendance, mastery or credit. Use restricted submissions and human rubric review for identifiable learner work. Public posts should contain only appropriately authorized, de-identified evidence.
+ 
+-Before submitting an application, SydTek Scholars must demonstrate:
++## Workload and credit reconciliation
+ 
+-1. **Operational history:** 12+ consecutive months of student enrollment
+-2. **Governing board:** Functioning board of trustees with documented meetings and resolutions
+-3. **Financial soundness:** Audited or reviewed financial statements
+-4. **Curriculum documentation:** All courses have learning outcomes, scope & sequence, assessment rubrics
+-5. **Seat time documentation:** All courses meet minimum instructional hour requirements
+-6. **Student records:** FERPA-compliant recordkeeping system
+-7. **Mission and vision:** Documented institutional mission aligned with Cognia standards
+-8. **Faculty qualifications:** Instructors meet or exceed qualification standards for grade level
+-9. **Technology infrastructure:** Reliable delivery platform with documented uptime
++The old five-hour course model (200 minutes of video plus 100 minutes of reflection) produces 150 hours for 30 courses, or about 200 hours after an assumed 50 project hours. Other files use 440 minutes per course and annual bands of 40/60/84 hours. These are incompatible planning bases, not measured attendance or an accreditor-approved equivalency.
+ 
+----
++Adopt one reviewed workload policy with course/version, expected activity time, actual participation, assessment and applicable credit basis. Keep estimated and observed time separate. No academic credit, dual enrollment, automatic progression or transfer portability is approved by these calculations.
+ 
+-## Educational Model Documentation
++## Evidence closeout
+ 
+-### Instructional Delivery
+-- **Primary:** YouTube-based structured playlists (video-first instruction)
+-- **Secondary:** GitHub-documented course materials (public, auditable)
+-- **Assessment:** Reflection-based written responses, structured assignments
+-- **Evidence:** Public video corpus, interaction data, progression logs
++1. Resolve official entity and operating authority.
++2. Adopt governance, financial, faculty, safety and records policies with accountable people.
++3. Approve a bounded pilot and preserve actual participation, learner work, assessment, feedback and revisions.
++4. Document an improvement cycle and map evidence to current route-specific standards.
++5. Record each external application/review decision with its date, scope and source.
+ 
+-### Seat Time Model (per course)
+-
+-20 videos × 10 minutes = 200 minutes instruction
+-20 reflections × 5 minutes = 100 minutes engagement
+-Total: 300 minutes (~5 hours) per course
+-
+-
+-Per academic year (30 courses):
+-
+-30 courses × 5 hours = 150 instructional hours minimum
+-Additional project/assessment time: ~50 hours
+-Total estimated annual seat time: ~200 hours
+-
+-
+-Equivalent to accreditor-accepted instructional block format.
+-
+-### Assessment Model
+-- Comment-based reflection (timestamped, public)
+-- Written response assignments (GitHub-tracked)
+-- Portfolio documentation (per grade band)
+-- Capstone projects (grades 9–12)
+-- Standardized-equivalent assessments (grades 9–12, required for some states)
+-
+----
+-
+-## Evidence Library Structure
+-
+-accreditation/
+-cognia/
+-eligibility/
+-checklist.md
+-enrollment-log-template.md
+-board-resolution-template.md
+-financial-summary-template.md
+-self-study/
+-institutional-profile.md
+-mission-vision.md
+-curriculum-alignment.md
+-student-achievement-data.md
+-site-visit/
+-preparation-guide.md
+-evaluator-tour.md
+-
+-
+----
+-
+-## Board of Trustees
+-
+-**Required:** Minimum 3 board members before Cognia eligibility application.
+-
+-Board documentation maintained in:
+-`00-canon-governance/board/resolutions/`
+-
+-Board must document:
+-- Meeting minutes (minimum quarterly)
+-- Policy adoption resolutions
+-- Financial oversight actions
+-- Accreditation progress reviews
+-
+----
+-
+-## Public Accountability Statement
+-
+-This repository is public. All accreditation progress documentation is publicly visible. Parents, students, and evaluators can audit progress in real time. This is by design — transparency is a core GCB ecosystem value.
+-
+-Student records are maintained separately in a private, FERPA-compliant system. No personally identifiable student information is published in this repository.
+-
+----
+-
+-## GEO (Generative Engine Optimization) Note
+-
+-This accreditation documentation is structured for LLM ingestion and AI engine indexability. Key facts are stated in plain language, with structured headers and machine-readable tables. This ensures that AI systems querying information about SydTek Scholars return accurate, current institutional data.
+-
+----
+-
+-*Document version: 2.0 | Last updated: 2026 | Replaces v1.0*
+-
++Draft templates, checklists and existing evidence directories remain available. A completed draft checklist is not evidence that its controls are operating. Private records must be handled through a separately restricted and tested process; this document does not certify its compliance.
+diff --git a/LEGAL-FORMATION.md b/LEGAL-FORMATION.md
+--- a/LEGAL-FORMATION.md
++++ b/LEGAL-FORMATION.md
+@@ -1,3 +1,5 @@
++> **Status clarification — November 5, 2026:** The material below is a historical planning draft. Statements about completed legal formation/registration, nationwide enrollment, adopted governance, deployed private records, approved hours or automatic academic-credit/transfer rights are unverified and are not adopted as current claims. See [STATUS_REGISTER.md](STATUS_REGISTER.md). The original planning text is retained for reconciliation; official records and institutional decisions are still required.
++
+ LEGAL_FORMATION.md
+ 
+ SydTek Scholars Canon
+diff --git a/STATE_REGISTRATION.md b/STATE_REGISTRATION.md
+--- a/STATE_REGISTRATION.md
++++ b/STATE_REGISTRATION.md
+@@ -1,3 +1,5 @@
++> **Status clarification — November 5, 2026:** The material below is a historical planning draft. Statements about completed legal formation/registration, nationwide enrollment, adopted governance, deployed private records, approved hours or automatic academic-credit/transfer rights are unverified and are not adopted as current claims. See [STATUS_REGISTER.md](STATUS_REGISTER.md). The original planning text is retained for reconciliation; official records and institutional decisions are still required.
++
+ # State Registration & Compliance
+ ## SydTek Scholars Academy | Delaware + Nationwide
+ 
+diff --git a/GOVERNANCE.md + SEAT_TIME_MODEL.md b/GOVERNANCE.md + SEAT_TIME_MODEL.md
+--- a/GOVERNANCE.md + SEAT_TIME_MODEL.md
++++ b/GOVERNANCE.md + SEAT_TIME_MODEL.md
+@@ -1,3 +1,5 @@
++> **Status clarification — November 5, 2026:** The material below is a historical planning draft. Statements about completed legal formation/registration, nationwide enrollment, adopted governance, deployed private records, approved hours or automatic academic-credit/transfer rights are unverified and are not adopted as current claims. See [STATUS_REGISTER.md](STATUS_REGISTER.md). The original planning text is retained for reconciliation; official records and institutional decisions are still required.
++
+ # Governance
+ ## SydTek Scholars Academy | Institutional Governance Framework
+ 
+diff --git a/TRANSFER_CREDITS.md + CURRICULUM_FRAMEWORK.md b/TRANSFER_CREDITS.md + CURRICULUM_FRAMEWORK.md
+--- a/TRANSFER_CREDITS.md + CURRICULUM_FRAMEWORK.md
++++ b/TRANSFER_CREDITS.md + CURRICULUM_FRAMEWORK.md
+@@ -1,3 +1,5 @@
++> **Status clarification — November 5, 2026:** The material below is a historical planning draft. Statements about completed legal formation/registration, nationwide enrollment, adopted governance, deployed private records, approved hours or automatic academic-credit/transfer rights are unverified and are not adopted as current claims. See [STATUS_REGISTER.md](STATUS_REGISTER.md). The original planning text is retained for reconciliation; official records and institutional decisions are still required.
++
+ # Transfer Credits & Microcredential Framework
+ ## SydTek Scholars → SydTek University
+ 

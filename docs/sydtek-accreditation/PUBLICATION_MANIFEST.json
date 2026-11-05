@@ -1,0 +1,36 @@
+{
+  "release": "2026-11-05-evidence-update-v1.1",
+  "reviewed_date": "2026-11-05",
+  "publication_target": "https://enochworld.com/pages/sydtek-accreditation",
+  "shopify_page_id": "gid://shopify/Page/166880346223",
+  "prior_shopify_updated_at": "2026-10-30T16:00:33Z",
+  "website_status": "prepared; publication receipt to follow",
+  "repository": "projektgolgotha/GOLGOTHA_GROUP",
+  "source_parent_commit": "55f0c9d900baee10cfa1fa1678c15584f8936967",
+  "upstream_import_status": "prepared_patches_only_read_only_connection",
+  "patch_validation": [
+    {
+      "target": "scholars",
+      "check": "passed",
+      "files": 7
+    },
+    {
+      "target": "seminary",
+      "check": "passed",
+      "files": 3
+    }
+  ],
+  "page_media_preserved": true,
+  "files": {
+    "website/pages/sydtek-accreditation.html": "35e8cd93dda63a0a47f401414623b1590d12ca67c45710b29fd382a291bf1551",
+    "docs/sydtek-accreditation/STATUS_REGISTER_2026-11-05.md": "91ac7060f85f7cb03840c43d1fe24c65372146b04f96fdc50073c7cc8b3b8fd5",
+    "docs/sydtek-accreditation/README.md": "9427fa257e1dc3569783e12453772e7628f409dd18062fe2c7f095951feed7f3",
+    "docs/sydtek-accreditation/claims.json": "1d381ec29fdb204b7b82028e3ecd6e010b8451671517dde317d25db70580c3d4",
+    "docs/sydtek-accreditation/COURSE_ID_CROSSWALK.md": "973de75592d713b3c5bf877653cf38e6d1977ca02193bd2c2d96a5e5f5acae48",
+    "docs/sydtek-accreditation/UPSTREAM_CORRECTIONS.md": "6c987e489d382c64ec4e8f53d3d0ea2b5e44c1ed287f3dd41777d0516b9e3ce7",
+    "docs/sydtek-accreditation/patches/scholars-status-2026-11-05.patch": "99d35d81997c869b067c557aab45664185ab105662c8300312229e385b888b4c",
+    "docs/sydtek-accreditation/patches/seminary-status-2026-11-05.patch": "5cfccdd26fffb9db7736668040e6b19aff36ce29bece979c6e1aaa96799d759d",
+    "README.md": "a8bd0d52762f9a48afb874a6ba1acf58c9604996c33ff7cc2edcc1d4fe6313a3",
+    "docs/sydtek-seminary/LATEST_RELEASE.md": "222d71ab96123a0b2509091bed8f7647894e35d7adca9ed4b1a0b23812127552"
+  }
+}
