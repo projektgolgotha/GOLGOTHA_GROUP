@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "release_id": "FR-OT-01",
+  "prepared_date": "2026-10-31",
+  "branch": "faculty-review/sem-102-106-v0.1",
+  "status": "faculty_review_open",
+  "academic_status": "draft_noncredit_not_adopted",
+  "scope": "SEM-102 through SEM-106 in the proposed ECS-300 Ethiopian Canon Studies 81-book delivery sequence",
+  "decision_options": [
+    "approve_for_controlled_noncredit_pilot",
+    "approve_with_required_revisions",
+    "return_for_redesign",
+    "hold_pending_evidence"
+  ],
+  "required_review_roles": [
+    "biblical_or_theological_content",
+    "ethiopian_canon_or_text_identity",
+    "instructional_design_and_assessment",
+    "library_and_learning_resources",
+    "accessibility_and_learner_support",
+    "academic_policy_or_registrar"
+  ],
+  "courses": [
+    {
+      "code": "SEM-102",
+      "title": "Israel's History and Restoration",
+      "file": "SEM-102_ISRAELS_HISTORY_AND_RESTORATION.md",
+      "planning_hours": 44,
+      "registry_units": [
+        "OT-09",
+        "OT-10",
+        "OT-11",
+        "OT-12",
+        "OT-15",
+        "OT-16",
+        "OT-17",
+        "OT-18",
+        "OT-19",
+        "OT-46"
+      ],
+      "status": "draft_for_faculty_review",
+      "high_risk_decisions": [
+        "Ezra II and Ezra Sutuel text identity and edition",
+        "Esther textual extent and additions",
+        "Joseph ben Gorion / Josippon edition and scope",
+        "whether the breadth requires division into two courses"
+      ],
+      "reviewers": [],
+      "decision": null,
+      "required_revisions": []
+    },
+    {
+      "code": "SEM-103",
+      "title": "Enoch, Jubilees, and Meqabyan",
+      "file": "SEM-103_ENOCH_JUBILEES_MEQABYAN.md",
+      "planning_hours": 32,
+      "registry_units": [
+        "OT-13",
+        "OT-14",
+        "OT-20",
+        "OT-21"
+      ],
+      "required_components": [
+        "Jubilees",
+        "1 Enoch",
+        "1 Meqabyan",
+        "2 Meqabyan",
+        "3 Meqabyan"
+      ],
+      "status": "draft_for_faculty_review",
+      "high_risk_decisions": [
+        "exact editions and chapter crosswalks",
+        "1 Enoch section and text identity",
+        "Meqabyan distinction from Greek Maccabees",
+        "availability and licensing of reliable translations"
+      ],
+      "reviewers": [],
+      "decision": null,
+      "required_revisions": []
+    },
+    {
+      "code": "SEM-104",
+      "title": "Wisdom, Prayer, and Formation",
+      "file": "SEM-104_WISDOM_PRAYER_FORMATION.md",
+      "planning_hours": 36,
+      "registry_units": [
+        "OT-22",
+        "OT-23",
+        "OT-24",
+        "OT-25",
+        "OT-26",
+        "OT-27",
+        "OT-28",
+        "OT-45"
+      ],
+      "status": "draft_for_faculty_review",
+      "high_risk_decisions": [
+        "Proverbs/Messale and Reproof/Tegsats crosswalk",
+        "Wisdom/Metsihafe Tibeb text identity",
+        "Sirach numbering and edition",
+        "pastoral and trauma-aware teaching controls"
+      ],
+      "reviewers": [],
+      "decision": null,
+      "required_revisions": []
+    },
+    {
+      "code": "SEM-105",
+      "title": "Major Prophets",
+      "file": "SEM-105_MAJOR_PROPHETS.md",
+      "planning_hours": 40,
+      "registry_units": [
+        "OT-29",
+        "OT-30",
+        "OT-31",
+        "OT-32"
+      ],
+      "required_components": [
+        "Isaiah",
+        "Jeremiah",
+        "Lamentations",
+        "Baruch",
+        "Rest of Jeremiah",
+        "Ezekiel",
+        "Daniel",
+        "Susanna",
+        "Rest of Daniel"
+      ],
+      "status": "draft_for_faculty_review",
+      "high_risk_decisions": [
+        "Jeremiah corpus boundaries, order, and editions",
+        "Daniel corpus boundaries, additions, and editions",
+        "unresolved Rest of Jeremiah and Daniel additions coverage",
+        "apocalyptic interpretation and public-claim controls"
+      ],
+      "reviewers": [],
+      "decision": null,
+      "required_revisions": []
+    },
+    {
+      "code": "SEM-106",
+      "title": "The Twelve Prophets",
+      "file": "SEM-106_TWELVE_PROPHETS.md",
+      "planning_hours": 36,
+      "registry_units": [
+        "OT-33",
+        "OT-34",
+        "OT-35",
+        "OT-36",
+        "OT-37",
+        "OT-38",
+        "OT-39",
+        "OT-40",
+        "OT-41",
+        "OT-42",
+        "OT-43",
+        "OT-44"
+      ],
+      "status": "draft_for_faculty_review",
+      "high_risk_decisions": [
+        "complete-text versus selected-passage workload",
+        "historical-context assumptions",
+        "violence and enemy-rhetoric safeguards",
+        "symbolic and apocalyptic interpretation controls"
+      ],
+      "reviewers": [],
+      "decision": null,
+      "required_revisions": []
+    }
+  ],
+  "global_adoption_gates": {
+    "primary_editions_approved": false,
+    "required_readings_approved": false,
+    "candidate_teaching_sources_reviewed": false,
+    "faculty_qualifications_verified": false,
+    "library_resources_verified": false,
+    "accessibility_review_complete": false,
+    "assessment_moderation_plan_approved": false,
+    "records_and_privacy_process_ready": false,
+    "pilot_staffing_and_feedback_capacity_confirmed": false,
+    "public_status_language_verified": true
+  },
+  "limits": [
+    "No faculty approval is asserted by creation of these drafts.",
+    "No academic credit, certificate, degree, state authorization, accreditation, transferability, or denominational endorsement is created by this release.",
+    "A course decision applies only to the named version, editions, readings, instructor conditions, and delivery controls."
+  ]
+}
